@@ -1,4 +1,4 @@
-import { add, sub, mul, div } from "./calculator/index.mjs";
+import { add, sub, mul, div } from "./calculator";
 
 console.log(add(5, 6));
 console.log(sub(6, 5));
