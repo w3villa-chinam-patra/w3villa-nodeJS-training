@@ -1,0 +1,1 @@
+require("../dbOperations").setDbUri(process.env.DB_URI);

@@ -1,7 +1,7 @@
-import fs from "node:fs/promises";
-import { db } from "./index.js";
+const fs = require("node:fs/promises");
+const { getDbUri } = require("./dbUri.js");
 
-export default async () => {
-  const notes = await fs.readFile(db);
+module.exports = async () => {
+  const notes = await fs.readFile(getDbUri());
   return JSON.parse(notes.toString());
 };

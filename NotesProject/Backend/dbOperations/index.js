@@ -1,13 +1,8 @@
-import read from "./read.js";
-import create from "./create.js";
-import update from "./update.js";
-import del from "./delete.js";
-import readOne from "./readOne.js";
+const { setDbUri } = require("./dbUri.js");
+const read = require("./read.js");
+const create = require("./create.js");
+const update = require("./update.js");
+const del = require("./delete.js");
+const readOne = require("./readOne.js");
 
-let db;
-
-const setDB = (url) => {
-  db = url;
-};
-
-export { db, setDB, read, create, update, del, readOne };
+module.exports = { setDbUri, read, create, update, del, readOne };
