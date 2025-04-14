@@ -1,0 +1,492 @@
+[2025-04-10T12:54:51.324Z] ERROR: Something went wrong on the server
+[2025-04-10T12:56:36.630Z] ERROR: Route not found
+[2025-04-10T12:57:00.547Z] ERROR: Unauthorized access
+[2025-04-10T12:57:54.369Z] ERROR: Unauthorized access
+[2025-04-10T12:58:32.393Z] ERROR: Unauthorized access
+[2025-04-10T12:58:49.820Z] ERROR: Unauthorized access
+[2025-04-10T12:59:39.244Z] ERROR: Unauthorized access Error Message: invalid token
+[2025-04-10T13:00:28.968Z] ERROR: Unauthorized access ErrorMessage: invalid token
+[2025-04-10T13:00:46.202Z] ERROR: Unauthorized access Error: invalid token
+[2025-04-10T13:04:26.364Z] ERROR: Route not found
+[2025-04-10T13:05:14.857Z] ERROR: Failed to update note
+[2025-04-10T13:06:31.339Z] ERROR: Route not found
+[2025-04-10T13:06:58.455Z] ERROR: Failed to fetch user
+[2025-04-10T13:07:43.135Z] ERROR: undefined
+[2025-04-10T13:09:58.225Z] ERROR: "password" is required
+[2025-04-10T13:13:05.486Z] ERROR: Failed to delete user
+[2025-04-10T13:13:12.877Z] ERROR: Failed to delete user
+[2025-04-14T00:51:56.287Z] ERROR: User registration failed
+[2025-04-14T00:52:08.516Z] ERROR: Database did not connect Error: connect ECONNREFUSED 127.0.0.1:27017
+[2025-04-14T00:52:43.777Z] ERROR: User registration failed
+[2025-04-14T00:53:17.365Z] ERROR: Unauthorized access Error: Operation `users.findOne()` buffering timed out after 10000ms
+[2025-04-14T00:53:42.065Z] ERROR: Failed to login
+[2025-04-14T04:21:05.247Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:21:05.319Z] ERROR: Authorization header is missing
+[2025-04-14T04:23:11.755Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:23:11.836Z] ERROR: Authorization header is missing
+[2025-04-14T04:32:24.847Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:32:24.891Z] ERROR: Authorization header is missing
+[2025-04-14T04:37:50.709Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:37:50.788Z] ERROR: Authorization header is missing
+[2025-04-14T04:40:58.570Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:40:58.633Z] ERROR: Authorization header is missing
+[2025-04-14T04:42:10.182Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:42:10.263Z] ERROR: Authorization header is missing
+[2025-04-14T04:43:31.089Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:43:31.164Z] ERROR: Authorization header is missing
+[2025-04-14T04:44:46.128Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:44:46.370Z] ERROR: Authorization header is missing
+[2025-04-14T04:45:13.129Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:45:13.244Z] ERROR: Authorization header is missing
+[2025-04-14T04:46:28.511Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:46:28.723Z] ERROR: Authorization header is missing
+[2025-04-14T04:48:02.288Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:48:02.457Z] ERROR: Authorization header is missing
+[2025-04-14T04:51:34.699Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:51:34.977Z] ERROR: Authorization header is missing
+[2025-04-14T04:51:59.011Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:51:59.230Z] ERROR: Authorization header is missing
+[2025-04-14T04:53:39.428Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:53:39.684Z] ERROR: Authorization header is missing
+[2025-04-14T04:55:40.261Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:55:40.509Z] ERROR: Authorization header is missing
+[2025-04-14T04:58:29.279Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:58:29.549Z] ERROR: Authorization header is missing
+[2025-04-14T04:59:53.056Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:59:53.246Z] ERROR: Authorization header is missing
+[2025-04-14T05:00:36.328Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:00:36.475Z] ERROR: Authorization header is missing
+[2025-04-14T05:03:32.776Z] ERROR: Database did not connect Error: clg is not defined
+[2025-04-14T05:03:35.720Z] ERROR: Database did not connect Error: first is not defined
+[2025-04-14T05:03:44.279Z] ERROR: Database did not connect Error: DB is not defined
+[2025-04-14T05:05:39.700Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:05:39.793Z] ERROR: Authorization header is missing
+[2025-04-14T05:08:07.463Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:08:07.617Z] ERROR: Authorization header is missing
+[2025-04-14T05:09:02.624Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:09:02.752Z] ERROR: Authorization header is missing
+[2025-04-14T05:10:08.370Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:10:08.427Z] ERROR: Authorization header is missing
+[2025-04-14T05:12:02.863Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:12:03.049Z] ERROR: Authorization header is missing
+[2025-04-14T05:13:40.972Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:13:41.129Z] ERROR: Authorization header is missing
+[2025-04-14T06:16:04.578Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T06:16:36.159Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T06:18:00.418Z] ERROR: User already exists
+[2025-04-14T06:21:01.450Z] ERROR: User already exists
+[2025-04-14T06:21:01.518Z] ERROR: User does not exist
+[2025-04-14T06:48:15.869Z] ERROR: Authorization header is missing
+[2025-04-14T06:48:15.941Z] ERROR: "_id" is not allowed
+[2025-04-14T06:49:27.558Z] ERROR: User already exists
+[2025-04-14T06:49:28.057Z] ERROR: Authorization header is missing
+[2025-04-14T06:49:28.126Z] ERROR: "_id" is not allowed
+[2025-04-14T06:56:02.295Z] ERROR: User already exists
+[2025-04-14T06:56:02.357Z] ERROR: User already exists
+[2025-04-14T06:56:02.397Z] ERROR: User does not exist
+[2025-04-14T06:56:02.406Z] ERROR: Authorization header is missing
+[2025-04-14T06:56:02.428Z] ERROR: User does not exist
+[2025-04-14T06:56:02.438Z] ERROR: User does not exist
+[2025-04-14T06:56:02.448Z] ERROR: User does not exist
+[2025-04-14T06:56:54.037Z] ERROR: Authorization header is missing
+[2025-04-14T06:56:54.310Z] ERROR: "_id" is not allowed
+[2025-04-14T06:57:47.240Z] ERROR: User already exists
+[2025-04-14T07:00:18.907Z] ERROR: Authorization header is missing
+[2025-04-14T07:00:19.049Z] ERROR: "_id" is not allowed
+[2025-04-14T07:00:35.071Z] ERROR: User already exists
+[2025-04-14T07:03:30.574Z] ERROR: Authorization header is missing
+[2025-04-14T07:03:30.954Z] ERROR: "_id" is not allowed
+[2025-04-14T07:05:17.149Z] ERROR: User already exists
+[2025-04-14T07:05:17.514Z] ERROR: Authorization header is missing
+[2025-04-14T07:05:17.774Z] ERROR: User already exists
+[2025-04-14T07:05:17.859Z] ERROR: User does not exist
+[2025-04-14T07:05:34.801Z] ERROR: Authorization header is missing
+[2025-04-14T07:05:35.149Z] ERROR: "_id" is not allowed
+[2025-04-14T07:05:35.774Z] ERROR: User already exists
+[2025-04-14T07:06:27.852Z] ERROR: User does not exist
+[2025-04-14T07:06:27.870Z] ERROR: Authorization header is missing
+[2025-04-14T07:06:27.915Z] ERROR: User does not exist
+[2025-04-14T07:06:27.947Z] ERROR: User does not exist
+[2025-04-14T07:06:27.977Z] ERROR: User does not exist
+[2025-04-14T07:07:30.367Z] ERROR: User registration failed
+[2025-04-14T07:07:30.404Z] ERROR: User does not exist
+[2025-04-14T07:07:30.415Z] ERROR: Authorization header is missing
+[2025-04-14T07:07:30.441Z] ERROR: User does not exist
+[2025-04-14T07:07:30.460Z] ERROR: User does not exist
+[2025-04-14T07:07:30.494Z] ERROR: User does not exist
+[2025-04-14T07:08:48.869Z] ERROR: Authorization header is missing
+[2025-04-14T07:08:49.110Z] ERROR: "_id" is not allowed
+[2025-04-14T07:10:10.918Z] ERROR: Failed to fetch a note
+[2025-04-14T07:10:11.055Z] ERROR: Authorization header is missing
+[2025-04-14T07:11:55.081Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T07:17:45.984Z] ERROR: Failed to create note
+[2025-04-14T07:17:57.135Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T07:17:58.060Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T07:19:40.010Z] ERROR: User registration failed
+[2025-04-14T07:19:40.040Z] ERROR: User does not exist
+[2025-04-14T07:21:48.009Z] ERROR: User registration failed
+[2025-04-14T07:21:48.041Z] ERROR: User does not exist
+[2025-04-14T07:21:48.053Z] ERROR: User does not exist
+[2025-04-14T07:21:48.057Z] ERROR: Authorization header is missing
+[2025-04-14T07:21:48.072Z] ERROR: User does not exist
+[2025-04-14T07:21:48.082Z] ERROR: User does not exist
+[2025-04-14T07:21:48.094Z] ERROR: User does not exist
+[2025-04-14T07:23:50.600Z] ERROR: Authorization header is missing
+[2025-04-14T07:23:50.799Z] ERROR: "_id" is not allowed
+[2025-04-14T07:27:42.505Z] ERROR: "_id" is not allowed
+[2025-04-14T07:45:39.613Z] ERROR: User already exists
+[2025-04-14T07:49:06.019Z] ERROR: Failed to login
+[2025-04-14T07:59:38.844Z] ERROR: Failed to update user
+[2025-04-14T08:06:09.635Z] ERROR: User registration failed
+[2025-04-14T08:06:09.658Z] ERROR: User already exists
+[2025-04-14T08:06:09.696Z] ERROR: User does not exist
+[2025-04-14T08:06:09.738Z] ERROR: User does not exist
+[2025-04-14T08:06:09.795Z] ERROR: User does not exist
+[2025-04-14T08:06:09.821Z] ERROR: User does not exist
+[2025-04-14T08:06:09.851Z] ERROR: User does not exist
+[2025-04-14T08:06:09.920Z] ERROR: User does not exist
+[2025-04-14T08:06:09.943Z] ERROR: User does not exist
+[2025-04-14T08:06:09.969Z] ERROR: User does not exist
+[2025-04-14T08:13:56.192Z] ERROR: User does not exist
+[2025-04-14T08:14:35.122Z] ERROR: User already exists
+[2025-04-14T08:15:05.939Z] ERROR: User does not exist
+[2025-04-14T08:18:20.996Z] ERROR: User already exists
+[2025-04-14T08:18:41.754Z] ERROR: User does not exist
+[2025-04-14T08:18:41.785Z] ERROR: User does not exist
+[2025-04-14T08:18:41.818Z] ERROR: User does not exist
+[2025-04-14T08:18:41.846Z] ERROR: User does not exist
+[2025-04-14T08:18:41.897Z] ERROR: User does not exist
+[2025-04-14T08:18:41.933Z] ERROR: User does not exist
+[2025-04-14T08:18:41.981Z] ERROR: User does not exist
+[2025-04-14T08:20:17.534Z] ERROR: User does not exist
+[2025-04-14T08:20:28.377Z] ERROR: User does not exist
+[2025-04-14T08:21:18.710Z] ERROR: User registration failed
+[2025-04-14T08:21:18.735Z] ERROR: Failed to login
+[2025-04-14T09:22:10.988Z] ERROR: User registration failed
+[2025-04-14T09:22:11.052Z] ERROR: User does not exist
+[2025-04-14T09:22:11.096Z] ERROR: User does not exist
+[2025-04-14T09:22:11.112Z] ERROR: User does not exist
+[2025-04-14T09:22:52.437Z] ERROR: User registration failed
+[2025-04-14T09:22:52.458Z] ERROR: User does not exist
+[2025-04-14T09:22:52.493Z] ERROR: User does not exist
+[2025-04-14T09:24:44.347Z] ERROR: User registration failed
+[2025-04-14T09:24:44.433Z] ERROR: User does not exist
+[2025-04-14T09:24:44.446Z] ERROR: User does not exist
+[2025-04-14T09:24:44.453Z] ERROR: User does not exist
+[2025-04-14T09:24:44.467Z] ERROR: User does not exist
+[2025-04-14T09:24:44.480Z] ERROR: User does not exist
+[2025-04-14T09:24:44.485Z] ERROR: User does not exist
+[2025-04-14T09:24:44.497Z] ERROR: User does not exist
+[2025-04-14T09:28:38.984Z] ERROR: User does not exist
+[2025-04-14T09:28:50.256Z] ERROR: User does not exist
+[2025-04-14T09:29:41.870Z] ERROR: User registration failed
+[2025-04-14T09:29:41.894Z] ERROR: Failed to login
+[2025-04-14T09:31:42.472Z] ERROR: User registration failed
+[2025-04-14T09:33:31.314Z] ERROR: User registration failed
+[2025-04-14T09:34:21.614Z] ERROR: User does not exist
+[2025-04-14T09:34:21.753Z] ERROR: User does not exist
+[2025-04-14T09:34:22.039Z] ERROR: User already exists
+[2025-04-14T09:34:22.094Z] ERROR: User does not exist
+[2025-04-14T09:34:22.145Z] ERROR: User does not exist
+[2025-04-14T09:34:35.656Z] ERROR: User already exists
+[2025-04-14T09:37:44.953Z] ERROR: User does not exist
+[2025-04-14T09:37:45.113Z] ERROR: User does not exist
+[2025-04-14T09:37:44.985Z] ERROR: User already exists
+[2025-04-14T09:37:45.348Z] ERROR: User does not exist
+[2025-04-14T09:37:45.421Z] ERROR: Failed to login
+[2025-04-14T09:37:45.427Z] ERROR: Failed to login
+[2025-04-14T09:37:45.533Z] ERROR: Failed to login
+[2025-04-14T09:38:45.825Z] ERROR: User already exists
+[2025-04-14T09:38:45.957Z] ERROR: User does not exist
+[2025-04-14T09:38:45.978Z] ERROR: User does not exist
+[2025-04-14T09:38:45.989Z] ERROR: User does not exist
+[2025-04-14T09:38:45.998Z] ERROR: User does not exist
+[2025-04-14T09:38:46.014Z] ERROR: User does not exist
+[2025-04-14T09:38:46.027Z] ERROR: User does not exist
+[2025-04-14T09:38:46.042Z] ERROR: User does not exist
+[2025-04-14T09:40:36.004Z] ERROR: User registration failed
+[2025-04-14T09:40:36.034Z] ERROR: User does not exist
+[2025-04-14T09:43:09.052Z] ERROR: User already exists
+[2025-04-14T09:43:15.364Z] ERROR: User does not exist
+[2025-04-14T09:43:15.416Z] ERROR: User does not exist
+[2025-04-14T09:46:07.991Z] ERROR: User registration failed
+[2025-04-14T09:46:30.786Z] ERROR: User registration failed
+[2025-04-14T09:46:30.958Z] ERROR: User does not exist
+[2025-04-14T09:49:31.463Z] ERROR: User registration failed
+[2025-04-14T09:50:06.381Z] ERROR: User does not exist
+[2025-04-14T09:50:06.518Z] ERROR: User registration failed
+[2025-04-14T09:50:06.543Z] ERROR: User does not exist
+[2025-04-14T09:50:06.692Z] ERROR: User registration failed
+[2025-04-14T09:50:52.182Z] ERROR: User registration failed
+[2025-04-14T09:50:52.363Z] ERROR: User does not exist
+[2025-04-14T09:50:56.813Z] ERROR: User registration failed
+[2025-04-14T09:52:29.429Z] ERROR: User does not exist
+[2025-04-14T09:52:29.784Z] ERROR: User registration failed
+[2025-04-14T09:52:30.027Z] ERROR: User does not exist
+[2025-04-14T09:53:04.838Z] ERROR: User registration failed
+[2025-04-14T09:53:04.962Z] ERROR: User does not exist
+[2025-04-14T09:54:06.648Z] ERROR: User registration failed
+[2025-04-14T09:54:06.761Z] ERROR: User does not exist
+[2025-04-14T09:54:06.975Z] ERROR: User registration failed
+[2025-04-14T09:54:07.142Z] ERROR: User does not exist
+[2025-04-14T09:54:23.182Z] ERROR: User does not exist
+[2025-04-14T09:54:23.253Z] ERROR: User does not exist
+[2025-04-14T09:54:23.287Z] ERROR: User does not exist
+[2025-04-14T09:54:23.331Z] ERROR: User does not exist
+[2025-04-14T09:54:23.404Z] ERROR: User does not exist
+[2025-04-14T09:54:23.474Z] ERROR: User does not exist
+[2025-04-14T09:54:23.539Z] ERROR: User does not exist
+[2025-04-14T09:55:10.912Z] ERROR: User does not exist
+[2025-04-14T09:55:11.656Z] ERROR: User already exists
+[2025-04-14T09:55:11.855Z] ERROR: User does not exist
+[2025-04-14T09:55:11.903Z] ERROR: User does not exist
+[2025-04-14T09:55:11.940Z] ERROR: User does not exist
+[2025-04-14T09:55:11.967Z] ERROR: User does not exist
+[2025-04-14T09:55:12.004Z] ERROR: User does not exist
+[2025-04-14T09:55:12.017Z] ERROR: User does not exist
+[2025-04-14T09:55:12.045Z] ERROR: User does not exist
+[2025-04-14T09:57:50.354Z] ERROR: User does not exist
+[2025-04-14T09:57:50.423Z] ERROR: User does not exist
+[2025-04-14T09:57:50.437Z] ERROR: User does not exist
+[2025-04-14T09:57:50.451Z] ERROR: User does not exist
+[2025-04-14T09:57:50.465Z] ERROR: User does not exist
+[2025-04-14T09:57:50.475Z] ERROR: User does not exist
+[2025-04-14T09:57:50.490Z] ERROR: User does not exist
+[2025-04-14T09:59:30.600Z] ERROR: User already exists
+[2025-04-14T09:59:30.676Z] ERROR: User does not exist
+[2025-04-14T09:59:30.701Z] ERROR: User does not exist
+[2025-04-14T09:59:30.712Z] ERROR: User does not exist
+[2025-04-14T09:59:30.724Z] ERROR: User does not exist
+[2025-04-14T09:59:30.745Z] ERROR: User does not exist
+[2025-04-14T09:59:30.765Z] ERROR: User does not exist
+[2025-04-14T09:59:30.778Z] ERROR: User does not exist
+[2025-04-14T10:01:51.196Z] ERROR: User registration failed
+[2025-04-14T10:01:51.393Z] ERROR: User does not exist
+[2025-04-14T10:01:51.445Z] ERROR: User does not exist
+[2025-04-14T10:01:51.470Z] ERROR: User does not exist
+[2025-04-14T10:01:51.489Z] ERROR: User does not exist
+[2025-04-14T10:01:51.520Z] ERROR: User does not exist
+[2025-04-14T10:01:51.557Z] ERROR: User does not exist
+[2025-04-14T10:01:51.590Z] ERROR: User does not exist
+[2025-04-14T10:01:55.978Z] ERROR: User registration failed
+[2025-04-14T10:05:23.349Z] ERROR: User already exists
+[2025-04-14T10:05:23.510Z] ERROR: User does not exist
+[2025-04-14T10:05:23.536Z] ERROR: User does not exist
+[2025-04-14T10:05:23.549Z] ERROR: User does not exist
+[2025-04-14T10:05:23.562Z] ERROR: User does not exist
+[2025-04-14T10:05:23.575Z] ERROR: User does not exist
+[2025-04-14T10:05:23.586Z] ERROR: User does not exist
+[2025-04-14T10:05:23.599Z] ERROR: User does not exist
+[2025-04-14T10:06:52.421Z] ERROR: User already exists
+[2025-04-14T10:06:52.487Z] ERROR: User does not exist
+[2025-04-14T10:06:52.636Z] ERROR: User registration failed
+[2025-04-14T10:06:52.814Z] ERROR: User does not exist
+[2025-04-14T10:06:55.823Z] ERROR: User does not exist
+[2025-04-14T10:08:54.148Z] ERROR: User registration failed
+[2025-04-14T10:11:25.448Z] ERROR: User registration failed
+[2025-04-14T10:11:25.605Z] ERROR: User does not exist
+[2025-04-14T10:11:25.622Z] ERROR: User does not exist
+[2025-04-14T10:11:25.637Z] ERROR: User does not exist
+[2025-04-14T10:11:25.671Z] ERROR: User does not exist
+[2025-04-14T10:11:25.709Z] ERROR: User does not exist
+[2025-04-14T10:11:25.759Z] ERROR: User does not exist
+[2025-04-14T10:11:25.787Z] ERROR: User does not exist
+[2025-04-14T10:17:38.024Z] ERROR: User does not exist
+[2025-04-14T10:17:43.860Z] ERROR: User does not exist
+[2025-04-14T10:17:45.284Z] ERROR: User already exists
+[2025-04-14T10:17:59.504Z] ERROR: User registration failed
+[2025-04-14T10:18:00.796Z] ERROR: Failed to login
+[2025-04-14T10:18:08.795Z] ERROR: User already exists
+[2025-04-14T10:18:57.051Z] ERROR: User already exists
+[2025-04-14T10:18:57.488Z] ERROR: User does not exist
+[2025-04-14T10:21:03.716Z] ERROR: User already exists
+[2025-04-14T10:21:12.567Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:22:25.095Z] ERROR: User does not exist
+[2025-04-14T10:22:25.127Z] ERROR: User does not exist
+[2025-04-14T10:22:25.151Z] ERROR: User does not exist
+[2025-04-14T10:22:25.171Z] ERROR: User does not exist
+[2025-04-14T10:22:25.224Z] ERROR: User does not exist
+[2025-04-14T10:22:25.251Z] ERROR: User does not exist
+[2025-04-14T10:22:25.361Z] ERROR: User already exists
+[2025-04-14T10:22:35.457Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:23:00.070Z] ERROR: User registration failed
+[2025-04-14T10:23:00.110Z] ERROR: User already exists
+[2025-04-14T10:23:00.369Z] ERROR: User does not exist
+[2025-04-14T10:23:00.399Z] ERROR: User does not exist
+[2025-04-14T10:23:00.425Z] ERROR: User does not exist
+[2025-04-14T10:23:00.496Z] ERROR: User does not exist
+[2025-04-14T10:23:00.525Z] ERROR: User does not exist
+[2025-04-14T10:23:11.344Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:24:34.028Z] ERROR: User already exists
+[2025-04-14T10:26:02.701Z] ERROR: Failed to fetch user
+[2025-04-14T10:27:00.106Z] ERROR: Failed to delete user
+[2025-04-14T10:28:08.108Z] ERROR: User does not exist
+[2025-04-14T10:28:11.430Z] ERROR: User does not exist
+[2025-04-14T10:28:11.471Z] ERROR: User does not exist
+[2025-04-14T10:28:11.540Z] ERROR: User does not exist
+[2025-04-14T10:28:11.577Z] ERROR: User does not exist
+[2025-04-14T10:28:11.605Z] ERROR: User does not exist
+[2025-04-14T10:28:11.637Z] ERROR: User does not exist
+[2025-04-14T10:31:19.103Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:31:19.119Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:31:19.434Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:31:19.486Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:35:53.882Z] ERROR: User does not exist
+[2025-04-14T10:35:53.922Z] ERROR: User does not exist
+[2025-04-14T10:40:58.968Z] ERROR: User does not exist
+[2025-04-14T10:41:11.448Z] ERROR: User does not exist
+[2025-04-14T10:41:27.420Z] ERROR: User registration failed
+[2025-04-14T10:41:27.434Z] ERROR: User does not exist
+[2025-04-14T10:45:43.807Z] ERROR: User does not exist
+[2025-04-14T10:50:08.600Z] ERROR: User does not exist
+[2025-04-14T10:57:31.017Z] ERROR: User registration failed
+[2025-04-14T11:05:33.252Z] ERROR: User does not exist
+[2025-04-14T11:05:33.298Z] ERROR: User does not exist
+[2025-04-14T11:05:33.315Z] ERROR: User does not exist
+[2025-04-14T11:05:33.334Z] ERROR: User does not exist
+[2025-04-14T11:05:33.339Z] ERROR: User does not exist
+[2025-04-14T11:05:33.367Z] ERROR: User does not exist
+[2025-04-14T11:05:33.404Z] ERROR: User does not exist
+[2025-04-14T11:06:58.712Z] ERROR: User does not exist
+[2025-04-14T11:06:58.987Z] ERROR: User does not exist
+[2025-04-14T11:07:58.743Z] ERROR: User does not exist
+[2025-04-14T11:07:59.115Z] ERROR: User does not exist
+[2025-04-14T11:07:59.141Z] ERROR: User does not exist
+[2025-04-14T11:07:59.154Z] ERROR: User does not exist
+[2025-04-14T11:07:59.165Z] ERROR: User does not exist
+[2025-04-14T11:08:51.698Z] ERROR: User does not exist
+[2025-04-14T11:08:51.713Z] ERROR: User does not exist
+[2025-04-14T11:08:51.730Z] ERROR: User does not exist
+[2025-04-14T11:08:51.748Z] ERROR: User does not exist
+[2025-04-14T11:08:51.763Z] ERROR: User does not exist
+[2025-04-14T11:08:51.779Z] ERROR: User does not exist
+[2025-04-14T11:08:51.874Z] ERROR: User does not exist
+[2025-04-14T11:08:51.921Z] ERROR: User does not exist
+[2025-04-14T11:08:51.954Z] ERROR: User does not exist
+[2025-04-14T11:08:51.966Z] ERROR: User does not exist
+[2025-04-14T11:09:53.402Z] ERROR: User does not exist
+[2025-04-14T11:09:53.422Z] ERROR: User does not exist
+[2025-04-14T11:09:53.439Z] ERROR: User does not exist
+[2025-04-14T11:09:53.438Z] ERROR: User does not exist
+[2025-04-14T11:09:53.465Z] ERROR: User does not exist
+[2025-04-14T11:09:53.475Z] ERROR: User does not exist
+[2025-04-14T11:09:53.520Z] ERROR: User does not exist
+[2025-04-14T11:09:53.544Z] ERROR: User does not exist
+[2025-04-14T11:14:09.131Z] ERROR: User does not exist
+[2025-04-14T11:14:09.158Z] ERROR: User does not exist
+[2025-04-14T11:14:09.170Z] ERROR: User does not exist
+[2025-04-14T11:14:09.182Z] ERROR: User does not exist
+[2025-04-14T11:14:58.156Z] ERROR: User does not exist
+[2025-04-14T11:14:58.182Z] ERROR: User does not exist
+[2025-04-14T11:15:57.030Z] ERROR: Failed to update user
+[2025-04-14T11:15:57.078Z] ERROR: User does not exist
+[2025-04-14T11:16:10.189Z] ERROR: User does not exist
+[2025-04-14T11:16:10.255Z] ERROR: User does not exist
+[2025-04-14T11:16:10.288Z] ERROR: User does not exist
+[2025-04-14T11:16:10.327Z] ERROR: User does not exist
+[2025-04-14T11:16:10.361Z] ERROR: User does not exist
+[2025-04-14T11:16:10.384Z] ERROR: User does not exist
+[2025-04-14T11:16:10.386Z] ERROR: User does not exist
+[2025-04-14T11:16:10.411Z] ERROR: User does not exist
+[2025-04-14T11:16:10.458Z] ERROR: User does not exist
+[2025-04-14T11:16:10.493Z] ERROR: User does not exist
+[2025-04-14T11:16:10.542Z] ERROR: User does not exist
+[2025-04-14T11:16:17.806Z] ERROR: User does not exist
+[2025-04-14T11:16:17.847Z] ERROR: User does not exist
+[2025-04-14T11:16:17.880Z] ERROR: User does not exist
+[2025-04-14T11:16:17.917Z] ERROR: User does not exist
+[2025-04-14T11:16:17.954Z] ERROR: User does not exist
+[2025-04-14T11:16:17.986Z] ERROR: User does not exist
+[2025-04-14T11:16:18.029Z] ERROR: User does not exist
+[2025-04-14T11:16:18.085Z] ERROR: User does not exist
+[2025-04-14T11:16:18.151Z] ERROR: User does not exist
+[2025-04-14T11:16:18.179Z] ERROR: User does not exist
+[2025-04-14T11:16:18.209Z] ERROR: User does not exist
+[2025-04-14T11:19:30.304Z] ERROR: User does not exist
+[2025-04-14T11:19:30.348Z] ERROR: User does not exist
+[2025-04-14T11:19:30.395Z] ERROR: User does not exist
+[2025-04-14T11:19:30.431Z] ERROR: User does not exist
+[2025-04-14T11:21:18.073Z] ERROR: "_id" is required
+[2025-04-14T11:22:42.257Z] ERROR: User registration failed
+[2025-04-14T11:23:12.007Z] ERROR: "_id" is required
+[2025-04-14T11:23:47.642Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T11:25:54.026Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T11:29:08.142Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T11:38:59.754Z] ERROR: User does not exist
+[2025-04-14T11:39:52.439Z] ERROR: User does not exist
+[2025-04-14T11:39:52.544Z] ERROR: User does not exist
+[2025-04-14T11:39:52.544Z] ERROR: User does not exist
+[2025-04-14T11:39:52.579Z] ERROR: User does not exist
+[2025-04-14T11:39:52.605Z] ERROR: User does not exist
+[2025-04-14T11:39:52.616Z] ERROR: User does not exist
+[2025-04-14T11:39:52.637Z] ERROR: User does not exist
+[2025-04-14T11:39:52.657Z] ERROR: User does not exist
+[2025-04-14T11:39:52.679Z] ERROR: User does not exist
+[2025-04-14T11:39:52.688Z] ERROR: User does not exist
+[2025-04-14T11:39:52.732Z] ERROR: User does not exist
+[2025-04-14T11:40:02.537Z] ERROR: User does not exist
+[2025-04-14T11:40:02.597Z] ERROR: User does not exist
+[2025-04-14T11:40:02.642Z] ERROR: User does not exist
+[2025-04-14T11:40:02.693Z] ERROR: User does not exist
+[2025-04-14T11:40:02.738Z] ERROR: User does not exist
+[2025-04-14T11:40:02.779Z] ERROR: User does not exist
+[2025-04-14T11:40:02.825Z] ERROR: User does not exist
+[2025-04-14T11:40:02.840Z] ERROR: User does not exist
+[2025-04-14T11:40:02.882Z] ERROR: User does not exist
+[2025-04-14T11:40:02.919Z] ERROR: User does not exist
+[2025-04-14T11:40:02.948Z] ERROR: User does not exist
+[2025-04-14T11:40:11.221Z] ERROR: User does not exist
+[2025-04-14T11:40:11.295Z] ERROR: User does not exist
+[2025-04-14T11:40:11.329Z] ERROR: User does not exist
+[2025-04-14T11:40:11.334Z] ERROR: User does not exist
+[2025-04-14T11:40:11.385Z] ERROR: User does not exist
+[2025-04-14T11:40:11.409Z] ERROR: User does not exist
+[2025-04-14T11:40:11.424Z] ERROR: User does not exist
+[2025-04-14T11:40:11.468Z] ERROR: User does not exist
+[2025-04-14T11:40:11.496Z] ERROR: User does not exist
+[2025-04-14T11:40:11.515Z] ERROR: User does not exist
+[2025-04-14T11:40:11.579Z] ERROR: User does not exist
+[2025-04-14T11:40:24.107Z] ERROR: User does not exist
+[2025-04-14T11:40:24.167Z] ERROR: User does not exist
+[2025-04-14T11:42:50.611Z] ERROR: User does not exist
+[2025-04-14T11:42:50.663Z] ERROR: User does not exist
+[2025-04-14T11:42:50.681Z] ERROR: User does not exist
+[2025-04-14T11:42:50.702Z] ERROR: User does not exist
+[2025-04-14T11:42:50.734Z] ERROR: User does not exist
+[2025-04-14T11:42:50.738Z] ERROR: User does not exist
+[2025-04-14T11:42:50.818Z] ERROR: User does not exist
+[2025-04-14T11:42:50.874Z] ERROR: User does not exist
+[2025-04-14T11:42:50.925Z] ERROR: User does not exist
+[2025-04-14T11:42:50.988Z] ERROR: User does not exist
+[2025-04-14T11:42:51.038Z] ERROR: User does not exist
+[2025-04-14T11:42:51.161Z] ERROR: User does not exist
+[2025-04-14T11:42:58.458Z] ERROR: User does not exist
+[2025-04-14T11:42:58.467Z] ERROR: User does not exist
+[2025-04-14T11:42:58.511Z] ERROR: User does not exist
+[2025-04-14T11:43:44.460Z] ERROR: User does not exist
+[2025-04-14T11:43:44.520Z] ERROR: User does not exist
+[2025-04-14T11:44:04.044Z] ERROR: Failed to fetch user
+[2025-04-14T11:44:04.057Z] ERROR: User does not exist
+[2025-04-14T11:44:04.105Z] ERROR: User does not exist
+[2025-04-14T11:44:04.166Z] ERROR: User does not exist
+[2025-04-14T11:44:04.229Z] ERROR: User does not exist
+[2025-04-14T11:45:51.336Z] ERROR: User does not exist
+[2025-04-14T11:45:51.336Z] ERROR: Failed to fetch user
+[2025-04-14T11:45:51.375Z] ERROR: User does not exist
+[2025-04-14T11:45:51.404Z] ERROR: User does not exist
+[2025-04-14T11:45:51.499Z] ERROR: User does not exist
+[2025-04-14T11:48:13.707Z] ERROR: User does not exist
+[2025-04-14T11:48:13.750Z] ERROR: User does not exist
+[2025-04-14T11:48:13.788Z] ERROR: User does not exist
+[2025-04-14T11:48:13.831Z] ERROR: User does not exist
+[2025-04-14T11:48:13.870Z] ERROR: User does not exist
+[2025-04-14T11:48:13.896Z] ERROR: User does not exist
+[2025-04-14T11:48:13.937Z] ERROR: User does not exist
+[2025-04-14T11:48:14.041Z] ERROR: User does not exist
+[2025-04-14T11:48:14.115Z] ERROR: User does not exist
+[2025-04-14T11:48:14.147Z] ERROR: User does not exist
+[2025-04-14T11:48:14.188Z] ERROR: User does not exist
+[2025-04-14T11:48:21.029Z] ERROR: User does not exist
+[2025-04-14T11:48:21.079Z] ERROR: User does not exist
+[2025-04-14T11:51:18.650Z] ERROR: User does not exist
+[2025-04-14T12:05:44.905Z] ERROR: User does not exist

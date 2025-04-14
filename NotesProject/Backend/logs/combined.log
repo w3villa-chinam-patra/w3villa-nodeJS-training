@@ -1,0 +1,2821 @@
+[2025-04-10T12:54:26.773Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:54:26.796Z] INFO: Database connected successfully
+[2025-04-10T12:54:35.365Z] INFO: User logged in successfully
+[2025-04-10T12:54:51.324Z] ERROR: Something went wrong on the server
+[2025-04-10T12:56:17.651Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:56:17.687Z] INFO: Database connected successfully
+[2025-04-10T12:56:30.986Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:56:31.018Z] INFO: Database connected successfully
+[2025-04-10T12:56:36.630Z] ERROR: Route not found
+[2025-04-10T12:57:00.547Z] ERROR: Unauthorized access
+[2025-04-10T12:57:45.913Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:57:45.944Z] INFO: Database connected successfully
+[2025-04-10T12:57:52.844Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:57:52.883Z] INFO: Database connected successfully
+[2025-04-10T12:57:54.369Z] ERROR: Unauthorized access
+[2025-04-10T12:58:18.582Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:58:18.615Z] INFO: Database connected successfully
+[2025-04-10T12:58:23.624Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:58:23.646Z] INFO: Database connected successfully
+[2025-04-10T12:58:27.991Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:58:28.030Z] INFO: Database connected successfully
+[2025-04-10T12:58:30.999Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:58:31.030Z] INFO: Database connected successfully
+[2025-04-10T12:58:32.393Z] ERROR: Unauthorized access
+[2025-04-10T12:58:48.837Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:58:48.865Z] INFO: Database connected successfully
+[2025-04-10T12:58:49.820Z] ERROR: Unauthorized access
+[2025-04-10T12:59:14.863Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:59:14.900Z] INFO: Database connected successfully
+[2025-04-10T12:59:16.583Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:59:16.602Z] INFO: Database connected successfully
+[2025-04-10T12:59:19.678Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:59:19.706Z] INFO: Database connected successfully
+[2025-04-10T12:59:24.572Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:59:24.605Z] INFO: Database connected successfully
+[2025-04-10T12:59:28.373Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:59:28.404Z] INFO: Database connected successfully
+[2025-04-10T12:59:31.269Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:59:31.289Z] INFO: Database connected successfully
+[2025-04-10T12:59:34.008Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T12:59:34.034Z] INFO: Database connected successfully
+[2025-04-10T12:59:39.244Z] ERROR: Unauthorized access Error Message: invalid token
+[2025-04-10T13:00:28.095Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:00:28.121Z] INFO: Database connected successfully
+[2025-04-10T13:00:28.968Z] ERROR: Unauthorized access ErrorMessage: invalid token
+[2025-04-10T13:00:39.211Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:00:39.239Z] INFO: Database connected successfully
+[2025-04-10T13:00:46.202Z] ERROR: Unauthorized access Error: invalid token
+[2025-04-10T13:02:41.913Z] INFO: All notes fetched successfully
+[2025-04-10T13:03:36.827Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:03:36.848Z] INFO: Database connected successfully
+[2025-04-10T13:03:43.231Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:03:43.260Z] INFO: Database connected successfully
+[2025-04-10T13:03:47.036Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:03:47.067Z] INFO: Database connected successfully
+[2025-04-10T13:03:59.574Z] INFO: All notes fetched successfully
+[2025-04-10T13:04:26.364Z] ERROR: Route not found
+[2025-04-10T13:04:37.487Z] INFO: Note fetched successfully
+[2025-04-10T13:04:56.336Z] INFO: Note created successfully
+[2025-04-10T13:05:06.802Z] INFO: Note updated successfully
+[2025-04-10T13:05:14.857Z] ERROR: Failed to update note
+[2025-04-10T13:06:31.339Z] ERROR: Route not found
+[2025-04-10T13:06:37.693Z] INFO: Note deleted successfully
+[2025-04-10T13:06:49.691Z] INFO: All users fetched successfully
+[2025-04-10T13:06:58.455Z] ERROR: Failed to fetch user
+[2025-04-10T13:07:11.521Z] INFO: User fetched successfully
+[2025-04-10T13:07:43.135Z] ERROR: undefined
+[2025-04-10T13:09:45.295Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:09:45.321Z] INFO: Database connected successfully
+[2025-04-10T13:09:49.550Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:09:49.586Z] INFO: Database connected successfully
+[2025-04-10T13:09:58.225Z] ERROR: "password" is required
+[2025-04-10T13:10:29.446Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:10:29.463Z] INFO: Database connected successfully
+[2025-04-10T13:10:33.867Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:10:33.901Z] INFO: Database connected successfully
+[2025-04-10T13:10:39.235Z] INFO: Server Started at: http://localhost:4000
+[2025-04-10T13:10:39.267Z] INFO: Database connected successfully
+[2025-04-10T13:10:42.149Z] INFO: User updated successfully
+[2025-04-10T13:11:21.226Z] INFO: User deleted successfully
+[2025-04-10T13:13:05.486Z] ERROR: Failed to delete user
+[2025-04-10T13:13:12.877Z] ERROR: Failed to delete user
+[2025-04-11T10:08:53.080Z] INFO: Server Started at: http://localhost:4000
+[2025-04-11T11:09:23.355Z] INFO: Server Started at: http://localhost:4000
+[2025-04-11T11:09:23.409Z] INFO: Database connected successfully
+[2025-04-11T11:09:31.113Z] INFO: All users fetched successfully
+[2025-04-11T11:09:53.862Z] INFO: User registered successfully
+[2025-04-14T00:51:38.513Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T00:51:56.287Z] ERROR: User registration failed
+[2025-04-14T00:52:08.516Z] ERROR: Database did not connect Error: connect ECONNREFUSED 127.0.0.1:27017
+[2025-04-14T00:52:43.777Z] ERROR: User registration failed
+[2025-04-14T00:53:17.365Z] ERROR: Unauthorized access Error: Operation `users.findOne()` buffering timed out after 10000ms
+[2025-04-14T00:53:42.065Z] ERROR: Failed to login
+[2025-04-14T00:53:56.344Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T00:53:56.371Z] INFO: Database connected successfully
+[2025-04-14T00:54:00.602Z] INFO: User logged in successfully
+[2025-04-14T00:54:25.531Z] INFO: All users fetched successfully
+[2025-04-14T00:54:36.795Z] INFO: User registered successfully
+[2025-04-14T04:10:31.139Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:10:31.160Z] INFO: Database connected successfully
+[2025-04-14T04:11:00.260Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:11:00.291Z] INFO: Database connected successfully
+[2025-04-14T04:11:13.828Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:11:13.868Z] INFO: Database connected successfully
+[2025-04-14T04:11:21.971Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:11:22.014Z] INFO: Database connected successfully
+[2025-04-14T04:11:35.076Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:11:35.098Z] INFO: Database connected successfully
+[2025-04-14T04:11:46.967Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:11:46.994Z] INFO: Database connected successfully
+[2025-04-14T04:11:49.482Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:11:49.509Z] INFO: Database connected successfully
+[2025-04-14T04:21:05.247Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:21:05.319Z] ERROR: Authorization header is missing
+[2025-04-14T04:23:11.755Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:23:11.836Z] ERROR: Authorization header is missing
+[2025-04-14T04:27:14.787Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:27:14.811Z] INFO: Database connected successfully
+[2025-04-14T04:27:40.077Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:27:40.095Z] INFO: Database connected successfully
+[2025-04-14T04:27:44.137Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:27:44.169Z] INFO: Database connected successfully
+[2025-04-14T04:27:47.243Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:27:47.267Z] INFO: Database connected successfully
+[2025-04-14T04:27:51.057Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:27:51.075Z] INFO: Database connected successfully
+[2025-04-14T04:30:38.745Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:30:38.767Z] INFO: Database connected successfully
+[2025-04-14T04:30:41.887Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:30:41.912Z] INFO: Database connected successfully
+[2025-04-14T04:30:58.150Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:30:58.190Z] INFO: Database connected successfully
+[2025-04-14T04:31:21.596Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:31:21.630Z] INFO: Database connected successfully
+[2025-04-14T04:31:36.367Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:31:36.399Z] INFO: Database connected successfully
+[2025-04-14T04:31:43.887Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:31:43.918Z] INFO: Database connected successfully
+[2025-04-14T04:31:57.318Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:31:57.336Z] INFO: Database connected successfully
+[2025-04-14T04:32:00.327Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:32:00.349Z] INFO: Database connected successfully
+[2025-04-14T04:32:08.219Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T04:32:08.249Z] INFO: Database connected successfully
+[2025-04-14T04:32:24.847Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:32:24.891Z] ERROR: Authorization header is missing
+[2025-04-14T04:37:50.709Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:37:50.788Z] ERROR: Authorization header is missing
+[2025-04-14T04:40:58.570Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:40:58.633Z] ERROR: Authorization header is missing
+[2025-04-14T04:42:10.182Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:42:10.263Z] ERROR: Authorization header is missing
+[2025-04-14T04:43:31.089Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:43:31.164Z] ERROR: Authorization header is missing
+[2025-04-14T04:44:46.128Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:44:46.370Z] ERROR: Authorization header is missing
+[2025-04-14T04:45:13.129Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:45:13.244Z] ERROR: Authorization header is missing
+[2025-04-14T04:46:28.511Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:46:28.723Z] ERROR: Authorization header is missing
+[2025-04-14T04:48:02.288Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:48:02.457Z] ERROR: Authorization header is missing
+[2025-04-14T04:51:34.699Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:51:34.977Z] ERROR: Authorization header is missing
+[2025-04-14T04:51:59.011Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:51:59.230Z] ERROR: Authorization header is missing
+[2025-04-14T04:53:39.428Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:53:39.684Z] ERROR: Authorization header is missing
+[2025-04-14T04:55:40.261Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:55:40.509Z] ERROR: Authorization header is missing
+[2025-04-14T04:58:29.279Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:58:29.549Z] ERROR: Authorization header is missing
+[2025-04-14T04:59:53.056Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T04:59:53.246Z] ERROR: Authorization header is missing
+[2025-04-14T05:00:36.328Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:00:36.475Z] ERROR: Authorization header is missing
+[2025-04-14T05:03:26.094Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:03:26.131Z] INFO: Database connected successfully
+[2025-04-14T05:03:32.776Z] ERROR: Database did not connect Error: clg is not defined
+[2025-04-14T05:03:32.792Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:03:35.720Z] ERROR: Database did not connect Error: first is not defined
+[2025-04-14T05:03:35.729Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:03:38.157Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:03:38.182Z] INFO: Database connected successfully
+[2025-04-14T05:03:44.279Z] ERROR: Database did not connect Error: DB is not defined
+[2025-04-14T05:03:44.286Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:03:47.687Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:03:47.724Z] INFO: Database connected successfully
+[2025-04-14T05:05:39.700Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:05:39.793Z] ERROR: Authorization header is missing
+[2025-04-14T05:06:49.058Z] INFO: Database connected successfully
+[2025-04-14T05:08:07.463Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:08:07.617Z] ERROR: Authorization header is missing
+[2025-04-14T05:08:14.557Z] INFO: Database connected successfully
+[2025-04-14T05:09:02.624Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:09:02.752Z] ERROR: Authorization header is missing
+[2025-04-14T05:09:07.255Z] INFO: Database connected successfully
+[2025-04-14T05:09:07.522Z] INFO: User registered successfully
+[2025-04-14T05:09:07.640Z] INFO: User registered successfully
+[2025-04-14T05:09:07.663Z] INFO: User logged in successfully
+[2025-04-14T05:10:08.228Z] INFO: Database connected successfully
+[2025-04-14T05:10:08.370Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:10:08.423Z] INFO: User registered successfully
+[2025-04-14T05:10:08.427Z] ERROR: Authorization header is missing
+[2025-04-14T05:10:08.532Z] INFO: User registered successfully
+[2025-04-14T05:10:08.553Z] INFO: User logged in successfully
+[2025-04-14T05:12:02.863Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:12:03.049Z] ERROR: Authorization header is missing
+[2025-04-14T05:12:09.522Z] INFO: Database connected successfully
+[2025-04-14T05:12:09.747Z] INFO: User registered successfully
+[2025-04-14T05:12:11.561Z] INFO: User registered successfully
+[2025-04-14T05:12:11.599Z] INFO: User logged in successfully
+[2025-04-14T05:13:40.972Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T05:13:41.129Z] ERROR: Authorization header is missing
+[2025-04-14T05:13:41.366Z] INFO: Database connected successfully
+[2025-04-14T05:13:41.531Z] INFO: User registered successfully
+[2025-04-14T05:13:41.624Z] INFO: User registered successfully
+[2025-04-14T05:13:41.636Z] INFO: User logged in successfully
+[2025-04-14T05:27:08.178Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:27:08.207Z] INFO: Database connected successfully
+[2025-04-14T05:27:12.432Z] INFO: Note created successfully
+[2025-04-14T05:32:08.196Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:32:08.233Z] INFO: Database connected successfully
+[2025-04-14T05:32:18.107Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:32:18.142Z] INFO: Database connected successfully
+[2025-04-14T05:32:21.098Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:32:21.131Z] INFO: Database connected successfully
+[2025-04-14T05:37:38.892Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:37:38.921Z] INFO: Database connected successfully
+[2025-04-14T05:37:49.764Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:37:49.799Z] INFO: Database connected successfully
+[2025-04-14T05:37:58.073Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:37:58.115Z] INFO: Database connected successfully
+[2025-04-14T05:38:06.678Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:38:06.708Z] INFO: Database connected successfully
+[2025-04-14T05:38:10.911Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:38:10.942Z] INFO: Database connected successfully
+[2025-04-14T05:38:19.132Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:38:20.862Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:38:20.905Z] INFO: Database connected successfully
+[2025-04-14T05:38:23.312Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:38:23.338Z] INFO: Database connected successfully
+[2025-04-14T05:38:51.407Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:38:51.436Z] INFO: Database connected successfully
+[2025-04-14T05:39:01.623Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:39:01.657Z] INFO: Database connected successfully
+[2025-04-14T05:39:22.317Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:39:22.338Z] INFO: Database connected successfully
+[2025-04-14T05:39:35.231Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:39:35.256Z] INFO: Database connected successfully
+[2025-04-14T05:39:44.449Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:39:44.484Z] INFO: Database connected successfully
+[2025-04-14T05:39:52.573Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:39:52.599Z] INFO: Database connected successfully
+[2025-04-14T05:40:04.883Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:04.917Z] INFO: Database connected successfully
+[2025-04-14T05:40:07.548Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:07.578Z] INFO: Database connected successfully
+[2025-04-14T05:40:09.055Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:09.100Z] INFO: Database connected successfully
+[2025-04-14T05:40:11.679Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:11.709Z] INFO: Database connected successfully
+[2025-04-14T05:40:15.782Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:15.820Z] INFO: Database connected successfully
+[2025-04-14T05:40:39.341Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:39.377Z] INFO: Database connected successfully
+[2025-04-14T05:40:45.628Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:45.662Z] INFO: Database connected successfully
+[2025-04-14T05:40:50.707Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:40:50.727Z] INFO: Database connected successfully
+[2025-04-14T05:41:04.993Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T05:41:05.035Z] INFO: Database connected successfully
+[2025-04-14T05:45:32.034Z] INFO: All notes fetched successfully
+[2025-04-14T05:53:45.606Z] INFO: Note fetched successfully
+[2025-04-14T05:55:46.975Z] INFO: Note updated successfully
+[2025-04-14T06:00:57.751Z] INFO: All notes fetched successfully
+[2025-04-14T06:01:10.727Z] INFO: Note deleted successfully
+[2025-04-14T06:16:04.578Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T06:16:04.628Z] INFO: Database connected successfully
+[2025-04-14T06:16:04.786Z] INFO: User registered successfully
+[2025-04-14T06:16:04.882Z] INFO: User registered successfully
+[2025-04-14T06:16:04.896Z] INFO: User logged in successfully
+[2025-04-14T06:16:35.908Z] INFO: Database connected successfully
+[2025-04-14T06:16:36.096Z] INFO: User registered successfully
+[2025-04-14T06:16:36.159Z] ERROR: Database did not connect Error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2025-04-14T06:16:36.208Z] INFO: User registered successfully
+[2025-04-14T06:16:36.229Z] INFO: User logged in successfully
+[2025-04-14T06:18:00.019Z] INFO: Database connected successfully
+[2025-04-14T06:18:00.222Z] INFO: User registered successfully
+[2025-04-14T06:18:00.268Z] INFO: Database connected successfully
+[2025-04-14T06:18:00.364Z] INFO: User registered successfully
+[2025-04-14T06:18:00.401Z] INFO: User logged in successfully
+[2025-04-14T06:18:00.418Z] ERROR: User already exists
+[2025-04-14T06:21:01.072Z] INFO: Database connected successfully
+[2025-04-14T06:21:01.262Z] INFO: User registered successfully
+[2025-04-14T06:21:01.357Z] INFO: Database connected successfully
+[2025-04-14T06:21:01.380Z] INFO: User registered successfully
+[2025-04-14T06:21:01.425Z] INFO: User logged in successfully
+[2025-04-14T06:21:01.450Z] ERROR: User already exists
+[2025-04-14T06:21:01.518Z] ERROR: User does not exist
+[2025-04-14T06:48:15.246Z] INFO: Database connected successfully
+[2025-04-14T06:48:15.527Z] INFO: User registered successfully
+[2025-04-14T06:48:15.571Z] INFO: Database connected successfully
+[2025-04-14T06:48:15.643Z] INFO: User registered successfully
+[2025-04-14T06:48:15.664Z] INFO: User logged in successfully
+[2025-04-14T06:48:15.756Z] INFO: User registered successfully
+[2025-04-14T06:48:15.788Z] INFO: User logged in successfully
+[2025-04-14T06:48:15.819Z] INFO: Note created successfully
+[2025-04-14T06:48:15.847Z] INFO: Note created successfully
+[2025-04-14T06:48:15.865Z] INFO: Note created successfully
+[2025-04-14T06:48:15.869Z] ERROR: Authorization header is missing
+[2025-04-14T06:48:15.885Z] INFO: Note created successfully
+[2025-04-14T06:48:15.894Z] INFO: Note fetched successfully
+[2025-04-14T06:48:15.906Z] INFO: Note created successfully
+[2025-04-14T06:48:15.918Z] INFO: Note deleted successfully
+[2025-04-14T06:48:15.929Z] INFO: Note created successfully
+[2025-04-14T06:48:15.941Z] ERROR: "_id" is not allowed
+[2025-04-14T06:49:27.482Z] INFO: Database connected successfully
+[2025-04-14T06:49:27.558Z] ERROR: User already exists
+[2025-04-14T06:49:27.697Z] INFO: Database connected successfully
+[2025-04-14T06:49:27.709Z] INFO: User registered successfully
+[2025-04-14T06:49:27.769Z] INFO: User logged in successfully
+[2025-04-14T06:49:27.965Z] INFO: User registered successfully
+[2025-04-14T06:49:27.999Z] INFO: User logged in successfully
+[2025-04-14T06:49:28.020Z] INFO: Note created successfully
+[2025-04-14T06:49:28.040Z] INFO: Note created successfully
+[2025-04-14T06:49:28.052Z] INFO: Note created successfully
+[2025-04-14T06:49:28.057Z] ERROR: Authorization header is missing
+[2025-04-14T06:49:28.072Z] INFO: Note created successfully
+[2025-04-14T06:49:28.081Z] INFO: Note fetched successfully
+[2025-04-14T06:49:28.094Z] INFO: Note created successfully
+[2025-04-14T06:49:28.103Z] INFO: Note deleted successfully
+[2025-04-14T06:49:28.113Z] INFO: Note created successfully
+[2025-04-14T06:49:28.126Z] ERROR: "_id" is not allowed
+[2025-04-14T06:56:02.212Z] INFO: Database connected successfully
+[2025-04-14T06:56:02.248Z] INFO: Database connected successfully
+[2025-04-14T06:56:02.295Z] ERROR: User already exists
+[2025-04-14T06:56:02.324Z] INFO: User logged in successfully
+[2025-04-14T06:56:02.358Z] INFO: Note created successfully
+[2025-04-14T06:56:02.357Z] ERROR: User already exists
+[2025-04-14T06:56:02.386Z] INFO: Note created successfully
+[2025-04-14T06:56:02.397Z] ERROR: User does not exist
+[2025-04-14T06:56:02.406Z] ERROR: Authorization header is missing
+[2025-04-14T06:56:02.428Z] ERROR: User does not exist
+[2025-04-14T06:56:02.438Z] ERROR: User does not exist
+[2025-04-14T06:56:02.448Z] ERROR: User does not exist
+[2025-04-14T06:56:02.483Z] INFO: User registered successfully
+[2025-04-14T06:56:02.508Z] INFO: User logged in successfully
+[2025-04-14T06:56:29.415Z] INFO: Database connected successfully
+[2025-04-14T06:56:29.699Z] INFO: User registered successfully
+[2025-04-14T06:56:29.822Z] INFO: User registered successfully
+[2025-04-14T06:56:29.851Z] INFO: User logged in successfully
+[2025-04-14T06:56:53.534Z] INFO: Database connected successfully
+[2025-04-14T06:56:53.807Z] INFO: User registered successfully
+[2025-04-14T06:56:53.856Z] INFO: User logged in successfully
+[2025-04-14T06:56:53.912Z] INFO: Note created successfully
+[2025-04-14T06:56:53.989Z] INFO: Note created successfully
+[2025-04-14T06:56:54.023Z] INFO: Note created successfully
+[2025-04-14T06:56:54.037Z] ERROR: Authorization header is missing
+[2025-04-14T06:56:54.080Z] INFO: Note created successfully
+[2025-04-14T06:56:54.105Z] INFO: Note fetched successfully
+[2025-04-14T06:56:54.153Z] INFO: Note created successfully
+[2025-04-14T06:56:54.182Z] INFO: Note deleted successfully
+[2025-04-14T06:56:54.238Z] INFO: Note created successfully
+[2025-04-14T06:56:54.310Z] ERROR: "_id" is not allowed
+[2025-04-14T06:57:47.076Z] INFO: Database connected successfully
+[2025-04-14T06:57:47.240Z] ERROR: User already exists
+[2025-04-14T06:57:47.416Z] INFO: User registered successfully
+[2025-04-14T06:57:47.449Z] INFO: User logged in successfully
+[2025-04-14T06:58:12.487Z] INFO: Database connected successfully
+[2025-04-14T06:58:12.655Z] INFO: User registered successfully
+[2025-04-14T06:58:12.679Z] INFO: User logged in successfully
+[2025-04-14T06:59:08.888Z] INFO: Note created successfully
+[2025-04-14T07:00:18.861Z] INFO: Note created successfully
+[2025-04-14T07:00:18.895Z] INFO: Note created successfully
+[2025-04-14T07:00:18.907Z] ERROR: Authorization header is missing
+[2025-04-14T07:00:18.948Z] INFO: Note created successfully
+[2025-04-14T07:00:18.965Z] INFO: Note fetched successfully
+[2025-04-14T07:00:18.987Z] INFO: Note created successfully
+[2025-04-14T07:00:19.013Z] INFO: Note deleted successfully
+[2025-04-14T07:00:19.035Z] INFO: Note created successfully
+[2025-04-14T07:00:19.049Z] ERROR: "_id" is not allowed
+[2025-04-14T07:00:34.934Z] INFO: Database connected successfully
+[2025-04-14T07:00:35.071Z] ERROR: User already exists
+[2025-04-14T07:00:35.239Z] INFO: User registered successfully
+[2025-04-14T07:00:35.272Z] INFO: User logged in successfully
+[2025-04-14T07:02:19.480Z] INFO: Database connected successfully
+[2025-04-14T07:02:19.939Z] INFO: User registered successfully
+[2025-04-14T07:02:50.831Z] INFO: User registered successfully
+[2025-04-14T07:02:50.867Z] INFO: User logged in successfully
+[2025-04-14T07:03:02.994Z] INFO: Database connected successfully
+[2025-04-14T07:03:03.530Z] INFO: User registered successfully
+[2025-04-14T07:03:03.617Z] INFO: User logged in successfully
+[2025-04-14T07:03:18.914Z] INFO: Note created successfully
+[2025-04-14T07:03:30.499Z] INFO: Note created successfully
+[2025-04-14T07:03:30.549Z] INFO: Note created successfully
+[2025-04-14T07:03:30.574Z] ERROR: Authorization header is missing
+[2025-04-14T07:03:30.681Z] INFO: Note created successfully
+[2025-04-14T07:03:30.738Z] INFO: Note fetched successfully
+[2025-04-14T07:03:30.817Z] INFO: Note created successfully
+[2025-04-14T07:03:30.864Z] INFO: Note deleted successfully
+[2025-04-14T07:03:30.926Z] INFO: Note created successfully
+[2025-04-14T07:03:30.954Z] ERROR: "_id" is not allowed
+[2025-04-14T07:05:16.951Z] INFO: Database connected successfully
+[2025-04-14T07:05:17.149Z] ERROR: User already exists
+[2025-04-14T07:05:17.229Z] INFO: User logged in successfully
+[2025-04-14T07:05:17.314Z] INFO: Note created successfully
+[2025-04-14T07:05:17.444Z] INFO: Note created successfully
+[2025-04-14T07:05:17.493Z] INFO: Note created successfully
+[2025-04-14T07:05:17.514Z] ERROR: Authorization header is missing
+[2025-04-14T07:05:17.540Z] INFO: Database connected successfully
+[2025-04-14T07:05:17.588Z] INFO: Note created successfully
+[2025-04-14T07:05:17.629Z] INFO: Note fetched successfully
+[2025-04-14T07:05:17.678Z] INFO: Note created successfully
+[2025-04-14T07:05:17.724Z] INFO: Note deleted successfully
+[2025-04-14T07:05:17.774Z] ERROR: User already exists
+[2025-04-14T07:05:17.807Z] INFO: Note created successfully
+[2025-04-14T07:05:17.859Z] ERROR: User does not exist
+[2025-04-14T07:05:18.049Z] INFO: User registered successfully
+[2025-04-14T07:05:18.105Z] INFO: User logged in successfully
+[2025-04-14T07:05:34.173Z] INFO: Database connected successfully
+[2025-04-14T07:05:34.464Z] INFO: User registered successfully
+[2025-04-14T07:05:34.533Z] INFO: User logged in successfully
+[2025-04-14T07:05:34.652Z] INFO: Note created successfully
+[2025-04-14T07:05:34.750Z] INFO: Note created successfully
+[2025-04-14T07:05:34.788Z] INFO: Note created successfully
+[2025-04-14T07:05:34.801Z] ERROR: Authorization header is missing
+[2025-04-14T07:05:34.875Z] INFO: Note created successfully
+[2025-04-14T07:05:34.916Z] INFO: Note fetched successfully
+[2025-04-14T07:05:34.981Z] INFO: Note created successfully
+[2025-04-14T07:05:35.032Z] INFO: Note deleted successfully
+[2025-04-14T07:05:35.111Z] INFO: Note created successfully
+[2025-04-14T07:05:35.149Z] ERROR: "_id" is not allowed
+[2025-04-14T07:05:35.533Z] INFO: Database connected successfully
+[2025-04-14T07:05:35.774Z] ERROR: User already exists
+[2025-04-14T07:05:35.965Z] INFO: User registered successfully
+[2025-04-14T07:05:36.001Z] INFO: User logged in successfully
+[2025-04-14T07:06:27.327Z] INFO: Database connected successfully
+[2025-04-14T07:06:27.638Z] INFO: User registered successfully
+[2025-04-14T07:06:27.686Z] INFO: User logged in successfully
+[2025-04-14T07:06:27.694Z] INFO: Database connected successfully
+[2025-04-14T07:06:27.740Z] INFO: Note created successfully
+[2025-04-14T07:06:27.797Z] INFO: Note created successfully
+[2025-04-14T07:06:27.852Z] ERROR: User does not exist
+[2025-04-14T07:06:27.870Z] ERROR: Authorization header is missing
+[2025-04-14T07:06:27.915Z] ERROR: User does not exist
+[2025-04-14T07:06:27.947Z] ERROR: User does not exist
+[2025-04-14T07:06:27.977Z] ERROR: User does not exist
+[2025-04-14T07:06:28.063Z] INFO: User registered successfully
+[2025-04-14T07:06:28.226Z] INFO: User registered successfully
+[2025-04-14T07:06:28.263Z] INFO: User logged in successfully
+[2025-04-14T07:07:29.803Z] INFO: Database connected successfully
+[2025-04-14T07:07:30.037Z] INFO: Database connected successfully
+[2025-04-14T07:07:30.225Z] INFO: User registered successfully
+[2025-04-14T07:07:30.274Z] INFO: User logged in successfully
+[2025-04-14T07:07:30.342Z] INFO: Note created successfully
+[2025-04-14T07:07:30.367Z] ERROR: User registration failed
+[2025-04-14T07:07:30.386Z] INFO: Note created successfully
+[2025-04-14T07:07:30.404Z] ERROR: User does not exist
+[2025-04-14T07:07:30.415Z] ERROR: Authorization header is missing
+[2025-04-14T07:07:30.441Z] ERROR: User does not exist
+[2025-04-14T07:07:30.460Z] ERROR: User does not exist
+[2025-04-14T07:07:30.491Z] INFO: User registered successfully
+[2025-04-14T07:07:30.494Z] ERROR: User does not exist
+[2025-04-14T07:07:30.523Z] INFO: User logged in successfully
+[2025-04-14T07:07:55.244Z] INFO: Database connected successfully
+[2025-04-14T07:07:55.493Z] INFO: User registered successfully
+[2025-04-14T07:07:55.639Z] INFO: User registered successfully
+[2025-04-14T07:07:55.680Z] INFO: User logged in successfully
+[2025-04-14T07:08:48.238Z] INFO: Database connected successfully
+[2025-04-14T07:08:48.601Z] INFO: User registered successfully
+[2025-04-14T07:08:48.669Z] INFO: User logged in successfully
+[2025-04-14T07:08:48.748Z] INFO: Note created successfully
+[2025-04-14T07:08:48.827Z] INFO: Note created successfully
+[2025-04-14T07:08:48.857Z] INFO: Note created successfully
+[2025-04-14T07:08:48.869Z] ERROR: Authorization header is missing
+[2025-04-14T07:08:48.931Z] INFO: Note created successfully
+[2025-04-14T07:08:48.961Z] INFO: Note fetched successfully
+[2025-04-14T07:08:49.000Z] INFO: Note created successfully
+[2025-04-14T07:08:49.037Z] INFO: Note deleted successfully
+[2025-04-14T07:08:49.096Z] INFO: Note created successfully
+[2025-04-14T07:08:49.110Z] ERROR: "_id" is not allowed
+[2025-04-14T07:09:26.038Z] INFO: Database connected successfully
+[2025-04-14T07:09:26.432Z] INFO: User registered successfully
+[2025-04-14T07:09:26.604Z] INFO: User registered successfully
+[2025-04-14T07:09:26.670Z] INFO: User logged in successfully
+[2025-04-14T07:09:41.932Z] INFO: Database connected successfully
+[2025-04-14T07:09:42.171Z] INFO: User registered successfully
+[2025-04-14T07:09:42.208Z] INFO: User logged in successfully
+[2025-04-14T07:09:42.279Z] INFO: Note created successfully
+[2025-04-14T07:09:48.955Z] INFO: Note created successfully
+[2025-04-14T07:09:48.984Z] INFO: Note created successfully
+[2025-04-14T07:10:05.505Z] INFO: Note created successfully
+[2025-04-14T07:10:05.603Z] INFO: Note created successfully
+[2025-04-14T07:10:10.918Z] ERROR: Failed to fetch a note
+[2025-04-14T07:10:11.055Z] ERROR: Authorization header is missing
+[2025-04-14T07:11:54.971Z] INFO: Note created successfully
+[2025-04-14T07:11:54.980Z] INFO: Note deleted successfully
+[2025-04-14T07:11:55.081Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T07:13:47.821Z] INFO: Database connected successfully
+[2025-04-14T07:13:48.078Z] INFO: User registered successfully
+[2025-04-14T07:13:48.231Z] INFO: User registered successfully
+[2025-04-14T07:13:48.273Z] INFO: User logged in successfully
+[2025-04-14T07:14:35.189Z] INFO: Database connected successfully
+[2025-04-14T07:14:35.606Z] INFO: User registered successfully
+[2025-04-14T07:14:35.761Z] INFO: User registered successfully
+[2025-04-14T07:14:35.789Z] INFO: User logged in successfully
+[2025-04-14T07:14:44.087Z] INFO: Database connected successfully
+[2025-04-14T07:14:44.371Z] INFO: User registered successfully
+[2025-04-14T07:14:44.418Z] INFO: User logged in successfully
+[2025-04-14T07:16:37.327Z] INFO: Note created successfully
+[2025-04-14T07:17:08.949Z] INFO: Note created successfully
+[2025-04-14T07:17:08.964Z] INFO: Note created successfully
+[2025-04-14T07:17:45.984Z] ERROR: Failed to create note
+[2025-04-14T07:17:57.135Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T07:17:58.060Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T07:19:39.678Z] INFO: Database connected successfully
+[2025-04-14T07:19:39.764Z] INFO: Database connected successfully
+[2025-04-14T07:19:39.993Z] INFO: User registered successfully
+[2025-04-14T07:19:40.010Z] ERROR: User registration failed
+[2025-04-14T07:19:40.040Z] ERROR: User does not exist
+[2025-04-14T07:19:40.140Z] INFO: User registered successfully
+[2025-04-14T07:19:40.162Z] INFO: User logged in successfully
+[2025-04-14T07:21:47.774Z] INFO: Database connected successfully
+[2025-04-14T07:21:47.827Z] INFO: Database connected successfully
+[2025-04-14T07:21:47.970Z] INFO: User registered successfully
+[2025-04-14T07:21:47.990Z] INFO: User logged in successfully
+[2025-04-14T07:21:48.009Z] ERROR: User registration failed
+[2025-04-14T07:21:48.013Z] INFO: Note created successfully
+[2025-04-14T07:21:48.041Z] ERROR: User does not exist
+[2025-04-14T07:21:48.053Z] ERROR: User does not exist
+[2025-04-14T07:21:48.057Z] ERROR: Authorization header is missing
+[2025-04-14T07:21:48.072Z] ERROR: User does not exist
+[2025-04-14T07:21:48.082Z] ERROR: User does not exist
+[2025-04-14T07:21:48.094Z] ERROR: User does not exist
+[2025-04-14T07:21:48.128Z] INFO: User registered successfully
+[2025-04-14T07:21:48.149Z] INFO: User logged in successfully
+[2025-04-14T07:23:49.783Z] INFO: Database connected successfully
+[2025-04-14T07:23:49.991Z] INFO: User registered successfully
+[2025-04-14T07:23:50.113Z] INFO: User registered successfully
+[2025-04-14T07:23:50.140Z] INFO: User logged in successfully
+[2025-04-14T07:23:50.181Z] INFO: Database connected successfully
+[2025-04-14T07:23:50.411Z] INFO: User registered successfully
+[2025-04-14T07:23:50.462Z] INFO: User logged in successfully
+[2025-04-14T07:23:50.507Z] INFO: Note created successfully
+[2025-04-14T07:23:50.555Z] INFO: Note created successfully
+[2025-04-14T07:23:50.589Z] INFO: Note created successfully
+[2025-04-14T07:23:50.600Z] ERROR: Authorization header is missing
+[2025-04-14T07:23:50.651Z] INFO: Note created successfully
+[2025-04-14T07:23:50.682Z] INFO: Note fetched successfully
+[2025-04-14T07:23:50.718Z] INFO: Note created successfully
+[2025-04-14T07:23:50.747Z] INFO: Note deleted successfully
+[2025-04-14T07:23:50.776Z] INFO: Note created successfully
+[2025-04-14T07:23:50.799Z] ERROR: "_id" is not allowed
+[2025-04-14T07:27:41.782Z] INFO: Database connected successfully
+[2025-04-14T07:27:41.959Z] INFO: Database connected successfully
+[2025-04-14T07:27:42.015Z] INFO: User registered successfully
+[2025-04-14T07:27:42.127Z] INFO: User registered successfully
+[2025-04-14T07:27:42.145Z] INFO: User logged in successfully
+[2025-04-14T07:27:42.172Z] INFO: User registered successfully
+[2025-04-14T07:27:42.260Z] INFO: User logged in successfully
+[2025-04-14T07:27:42.307Z] INFO: Note created successfully
+[2025-04-14T07:27:42.337Z] INFO: Note created successfully
+[2025-04-14T07:27:42.353Z] INFO: Note created successfully
+[2025-04-14T07:27:42.366Z] INFO: All notes fetched successfully
+[2025-04-14T07:27:42.390Z] INFO: Note created successfully
+[2025-04-14T07:27:42.406Z] INFO: Note fetched successfully
+[2025-04-14T07:27:42.440Z] INFO: Note created successfully
+[2025-04-14T07:27:42.469Z] INFO: Note deleted successfully
+[2025-04-14T07:27:42.488Z] INFO: Note created successfully
+[2025-04-14T07:27:42.505Z] ERROR: "_id" is not allowed
+[2025-04-14T07:33:17.548Z] INFO: Database connected successfully
+[2025-04-14T07:33:17.689Z] INFO: Database connected successfully
+[2025-04-14T07:33:17.715Z] INFO: User registered successfully
+[2025-04-14T07:33:17.818Z] INFO: User registered successfully
+[2025-04-14T07:33:17.833Z] INFO: User logged in successfully
+[2025-04-14T07:33:17.853Z] INFO: User registered successfully
+[2025-04-14T07:33:17.896Z] INFO: User logged in successfully
+[2025-04-14T07:33:17.920Z] INFO: Note created successfully
+[2025-04-14T07:33:17.945Z] INFO: Note created successfully
+[2025-04-14T07:33:17.959Z] INFO: Note created successfully
+[2025-04-14T07:33:17.975Z] INFO: All notes fetched successfully
+[2025-04-14T07:33:17.992Z] INFO: Note created successfully
+[2025-04-14T07:33:18.006Z] INFO: Note fetched successfully
+[2025-04-14T07:33:18.022Z] INFO: Note created successfully
+[2025-04-14T07:33:18.033Z] INFO: Note deleted successfully
+[2025-04-14T07:33:18.043Z] INFO: Note created successfully
+[2025-04-14T07:33:18.055Z] INFO: Note updated successfully
+[2025-04-14T07:42:16.598Z] INFO: User fetched successfully
+[2025-04-14T07:45:01.463Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:45:01.483Z] INFO: Database connected successfully
+[2025-04-14T07:45:06.558Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:45:06.590Z] INFO: Database connected successfully
+[2025-04-14T07:45:35.392Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:45:35.422Z] INFO: Database connected successfully
+[2025-04-14T07:45:39.613Z] ERROR: User already exists
+[2025-04-14T07:45:48.959Z] INFO: All users fetched successfully
+[2025-04-14T07:46:09.182Z] INFO: User registered successfully
+[2025-04-14T07:46:56.591Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:46:56.617Z] INFO: Database connected successfully
+[2025-04-14T07:49:00.921Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:49:00.979Z] INFO: Database connected successfully
+[2025-04-14T07:49:04.137Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:49:04.170Z] INFO: Database connected successfully
+[2025-04-14T07:49:06.010Z] INFO: User logged in successfully
+[2025-04-14T07:49:06.019Z] ERROR: Failed to login
+[2025-04-14T07:49:21.513Z] INFO: All users fetched successfully
+[2025-04-14T07:49:35.849Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:49:35.881Z] INFO: Database connected successfully
+[2025-04-14T07:49:39.907Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:49:39.942Z] INFO: Database connected successfully
+[2025-04-14T07:49:51.542Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:49:51.570Z] INFO: Database connected successfully
+[2025-04-14T07:50:06.618Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T07:50:06.652Z] INFO: Database connected successfully
+[2025-04-14T07:50:08.832Z] INFO: User logged in successfully
+[2025-04-14T07:59:38.844Z] ERROR: Failed to update user
+[2025-04-14T08:00:11.234Z] INFO: User updated successfully
+[2025-04-14T08:02:19.879Z] INFO: User deleted successfully
+[2025-04-14T08:02:50.418Z] INFO: User registered successfully
+[2025-04-14T08:06:09.367Z] INFO: Database connected successfully
+[2025-04-14T08:06:09.385Z] INFO: Database connected successfully
+[2025-04-14T08:06:09.557Z] INFO: Database connected successfully
+[2025-04-14T08:06:09.628Z] INFO: User registered successfully
+[2025-04-14T08:06:09.635Z] ERROR: User registration failed
+[2025-04-14T08:06:09.658Z] ERROR: User already exists
+[2025-04-14T08:06:09.671Z] INFO: User logged in successfully
+[2025-04-14T08:06:09.696Z] ERROR: User does not exist
+[2025-04-14T08:06:09.738Z] ERROR: User does not exist
+[2025-04-14T08:06:09.795Z] ERROR: User does not exist
+[2025-04-14T08:06:09.821Z] ERROR: User does not exist
+[2025-04-14T08:06:09.816Z] INFO: User registered successfully
+[2025-04-14T08:06:09.851Z] ERROR: User does not exist
+[2025-04-14T08:06:09.861Z] INFO: User logged in successfully
+[2025-04-14T08:06:09.920Z] ERROR: User does not exist
+[2025-04-14T08:06:09.943Z] ERROR: User does not exist
+[2025-04-14T08:06:09.969Z] ERROR: User does not exist
+[2025-04-14T08:10:04.605Z] INFO: Database connected successfully
+[2025-04-14T08:10:04.951Z] INFO: User registered successfully
+[2025-04-14T08:10:04.964Z] INFO: Database connected successfully
+[2025-04-14T08:10:05.172Z] INFO: User registered successfully
+[2025-04-14T08:10:05.196Z] INFO: User logged in successfully
+[2025-04-14T08:10:05.273Z] INFO: User registered successfully
+[2025-04-14T08:10:05.322Z] INFO: User logged in successfully
+[2025-04-14T08:10:05.427Z] INFO: Note created successfully
+[2025-04-14T08:10:05.480Z] INFO: Note created successfully
+[2025-04-14T08:10:05.520Z] INFO: Note created successfully
+[2025-04-14T08:10:05.515Z] INFO: Database connected successfully
+[2025-04-14T08:10:05.572Z] INFO: All notes fetched successfully
+[2025-04-14T08:10:05.623Z] INFO: Note created successfully
+[2025-04-14T08:10:05.645Z] INFO: Note fetched successfully
+[2025-04-14T08:10:05.675Z] INFO: Note created successfully
+[2025-04-14T08:10:05.692Z] INFO: Note deleted successfully
+[2025-04-14T08:10:05.714Z] INFO: Note created successfully
+[2025-04-14T08:10:05.741Z] INFO: Note updated successfully
+[2025-04-14T08:10:05.829Z] INFO: User registered successfully
+[2025-04-14T08:10:05.959Z] INFO: User registered successfully
+[2025-04-14T08:10:05.978Z] INFO: User logged in successfully
+[2025-04-14T08:10:06.094Z] INFO: User registered successfully
+[2025-04-14T08:10:06.107Z] INFO: User logged in successfully
+[2025-04-14T08:10:06.142Z] INFO: User fetched successfully
+[2025-04-14T08:10:06.240Z] INFO: User registered successfully
+[2025-04-14T08:10:06.259Z] INFO: User logged in successfully
+[2025-04-14T08:10:06.364Z] INFO: User registered successfully
+[2025-04-14T08:10:06.383Z] INFO: User logged in successfully
+[2025-04-14T08:10:06.408Z] INFO: User deleted successfully
+[2025-04-14T08:13:42.988Z] INFO: Database connected successfully
+[2025-04-14T08:13:43.326Z] INFO: User registered successfully
+[2025-04-14T08:13:43.542Z] INFO: User registered successfully
+[2025-04-14T08:13:43.598Z] INFO: User logged in successfully
+[2025-04-14T08:13:46.390Z] INFO: Database connected successfully
+[2025-04-14T08:13:51.885Z] INFO: User registered successfully
+[2025-04-14T08:13:51.907Z] INFO: User registered successfully
+[2025-04-14T08:13:53.990Z] INFO: User logged in successfully
+[2025-04-14T08:13:54.075Z] INFO: User fetched successfully
+[2025-04-14T08:13:54.223Z] INFO: User registered successfully
+[2025-04-14T08:13:56.151Z] INFO: User registered successfully
+[2025-04-14T08:13:56.192Z] ERROR: User does not exist
+[2025-04-14T08:14:05.992Z] INFO: User logged in successfully
+[2025-04-14T08:14:06.224Z] INFO: User registered successfully
+[2025-04-14T08:14:06.256Z] INFO: User logged in successfully
+[2025-04-14T08:14:06.288Z] INFO: User deleted successfully
+[2025-04-14T08:14:11.859Z] INFO: Database connected successfully
+[2025-04-14T08:14:12.077Z] INFO: User registered successfully
+[2025-04-14T08:14:12.123Z] INFO: User logged in successfully
+[2025-04-14T08:14:12.182Z] INFO: Note created successfully
+[2025-04-14T08:14:12.238Z] INFO: Note created successfully
+[2025-04-14T08:14:12.291Z] INFO: Note created successfully
+[2025-04-14T08:14:12.327Z] INFO: All notes fetched successfully
+[2025-04-14T08:14:12.405Z] INFO: Note created successfully
+[2025-04-14T08:14:12.440Z] INFO: Note fetched successfully
+[2025-04-14T08:14:12.477Z] INFO: Note created successfully
+[2025-04-14T08:14:12.503Z] INFO: Note deleted successfully
+[2025-04-14T08:14:12.544Z] INFO: Note created successfully
+[2025-04-14T08:14:12.587Z] INFO: Note updated successfully
+[2025-04-14T08:14:34.218Z] INFO: Database connected successfully
+[2025-04-14T08:14:34.870Z] INFO: Database connected successfully
+[2025-04-14T08:14:35.122Z] ERROR: User already exists
+[2025-04-14T08:14:35.242Z] INFO: User logged in successfully
+[2025-04-14T08:14:35.632Z] INFO: Database connected successfully
+[2025-04-14T08:14:36.105Z] INFO: User registered successfully
+[2025-04-14T08:14:36.301Z] INFO: User registered successfully
+[2025-04-14T08:14:36.348Z] INFO: User logged in successfully
+[2025-04-14T08:14:56.617Z] INFO: User registered successfully
+[2025-04-14T08:14:56.633Z] INFO: User registered successfully
+[2025-04-14T08:14:57.637Z] INFO: User logged in successfully
+[2025-04-14T08:14:57.682Z] INFO: User fetched successfully
+[2025-04-14T08:14:57.823Z] INFO: User registered successfully
+[2025-04-14T08:15:05.894Z] INFO: User registered successfully
+[2025-04-14T08:15:05.939Z] ERROR: User does not exist
+[2025-04-14T08:18:20.483Z] INFO: Database connected successfully
+[2025-04-14T08:18:20.799Z] INFO: Database connected successfully
+[2025-04-14T08:18:20.996Z] ERROR: User already exists
+[2025-04-14T08:18:21.046Z] INFO: Database connected successfully
+[2025-04-14T08:18:21.068Z] INFO: User logged in successfully
+[2025-04-14T08:18:21.401Z] INFO: User registered successfully
+[2025-04-14T08:18:21.527Z] INFO: User registered successfully
+[2025-04-14T08:18:21.571Z] INFO: User logged in successfully
+[2025-04-14T08:18:41.754Z] ERROR: User does not exist
+[2025-04-14T08:18:41.785Z] ERROR: User does not exist
+[2025-04-14T08:18:41.818Z] ERROR: User does not exist
+[2025-04-14T08:18:41.846Z] ERROR: User does not exist
+[2025-04-14T08:18:41.897Z] ERROR: User does not exist
+[2025-04-14T08:18:41.933Z] ERROR: User does not exist
+[2025-04-14T08:18:41.981Z] ERROR: User does not exist
+[2025-04-14T08:18:56.092Z] INFO: User registered successfully
+[2025-04-14T08:18:56.126Z] INFO: User registered successfully
+[2025-04-14T08:19:44.363Z] INFO: Database connected successfully
+[2025-04-14T08:19:44.871Z] INFO: User registered successfully
+[2025-04-14T08:19:45.099Z] INFO: User registered successfully
+[2025-04-14T08:19:45.167Z] INFO: User logged in successfully
+[2025-04-14T08:19:45.236Z] INFO: Database connected successfully
+[2025-04-14T08:19:45.471Z] INFO: Database connected successfully
+[2025-04-14T08:19:45.658Z] INFO: User registered successfully
+[2025-04-14T08:19:45.725Z] INFO: User logged in successfully
+[2025-04-14T08:19:45.789Z] INFO: Note created successfully
+[2025-04-14T08:19:45.869Z] INFO: Note created successfully
+[2025-04-14T08:19:45.921Z] INFO: Note created successfully
+[2025-04-14T08:19:45.972Z] INFO: All notes fetched successfully
+[2025-04-14T08:19:46.022Z] INFO: Note created successfully
+[2025-04-14T08:19:46.054Z] INFO: Note fetched successfully
+[2025-04-14T08:19:46.116Z] INFO: Note created successfully
+[2025-04-14T08:19:46.170Z] INFO: Note deleted successfully
+[2025-04-14T08:19:46.221Z] INFO: Note created successfully
+[2025-04-14T08:19:46.288Z] INFO: Note updated successfully
+[2025-04-14T08:19:55.200Z] INFO: User registered successfully
+[2025-04-14T08:19:55.235Z] INFO: User registered successfully
+[2025-04-14T08:20:17.534Z] ERROR: User does not exist
+[2025-04-14T08:20:17.726Z] INFO: User registered successfully
+[2025-04-14T08:20:17.746Z] INFO: User registered successfully
+[2025-04-14T08:20:28.179Z] INFO: User logged in successfully
+[2025-04-14T08:20:28.377Z] ERROR: User does not exist
+[2025-04-14T08:21:18.710Z] ERROR: User registration failed
+[2025-04-14T08:21:18.735Z] ERROR: Failed to login
+[2025-04-14T09:22:10.652Z] INFO: Database connected successfully
+[2025-04-14T09:22:10.697Z] INFO: Database connected successfully
+[2025-04-14T09:22:10.705Z] INFO: Database connected successfully
+[2025-04-14T09:22:10.841Z] INFO: User registered successfully
+[2025-04-14T09:22:10.866Z] INFO: User registered successfully
+[2025-04-14T09:22:10.889Z] INFO: User registered successfully
+[2025-04-14T09:22:10.919Z] INFO: User logged in successfully
+[2025-04-14T09:22:10.939Z] INFO: Note created successfully
+[2025-04-14T09:22:10.960Z] INFO: Note created successfully
+[2025-04-14T09:22:10.973Z] INFO: Note created successfully
+[2025-04-14T09:22:10.988Z] ERROR: User registration failed
+[2025-04-14T09:22:11.006Z] INFO: All notes fetched successfully
+[2025-04-14T09:22:11.011Z] INFO: User registered successfully
+[2025-04-14T09:22:11.021Z] INFO: User logged in successfully
+[2025-04-14T09:22:11.033Z] INFO: User logged in successfully
+[2025-04-14T09:22:11.052Z] ERROR: User does not exist
+[2025-04-14T09:22:11.096Z] ERROR: User does not exist
+[2025-04-14T09:22:11.112Z] ERROR: User does not exist
+[2025-04-14T09:22:11.183Z] INFO: User registered successfully
+[2025-04-14T09:22:11.208Z] INFO: User logged in successfully
+[2025-04-14T09:22:11.233Z] INFO: User fetched successfully
+[2025-04-14T09:22:11.337Z] INFO: User registered successfully
+[2025-04-14T09:22:11.351Z] INFO: User logged in successfully
+[2025-04-14T09:22:11.450Z] INFO: User registered successfully
+[2025-04-14T09:22:11.457Z] INFO: User logged in successfully
+[2025-04-14T09:22:11.465Z] INFO: User deleted successfully
+[2025-04-14T09:22:52.151Z] INFO: Database connected successfully
+[2025-04-14T09:22:52.227Z] INFO: Database connected successfully
+[2025-04-14T09:22:52.239Z] INFO: Database connected successfully
+[2025-04-14T09:22:52.371Z] INFO: User registered successfully
+[2025-04-14T09:22:52.424Z] INFO: User registered successfully
+[2025-04-14T09:22:52.437Z] ERROR: User registration failed
+[2025-04-14T09:22:52.458Z] ERROR: User does not exist
+[2025-04-14T09:22:52.484Z] INFO: User registered successfully
+[2025-04-14T09:22:52.493Z] ERROR: User does not exist
+[2025-04-14T09:22:52.531Z] INFO: User registered successfully
+[2025-04-14T09:22:52.550Z] INFO: User logged in successfully
+[2025-04-14T09:22:52.629Z] INFO: User registered successfully
+[2025-04-14T09:22:52.650Z] INFO: User logged in successfully
+[2025-04-14T09:22:52.679Z] INFO: User fetched successfully
+[2025-04-14T09:22:52.779Z] INFO: User registered successfully
+[2025-04-14T09:22:52.785Z] INFO: User logged in successfully
+[2025-04-14T09:22:52.876Z] INFO: User registered successfully
+[2025-04-14T09:22:52.884Z] INFO: User logged in successfully
+[2025-04-14T09:22:52.894Z] INFO: User deleted successfully
+[2025-04-14T09:24:44.107Z] INFO: Database connected successfully
+[2025-04-14T09:24:44.160Z] INFO: Database connected successfully
+[2025-04-14T09:24:44.175Z] INFO: Database connected successfully
+[2025-04-14T09:24:44.284Z] INFO: User registered successfully
+[2025-04-14T09:24:44.329Z] INFO: User logged in successfully
+[2025-04-14T09:24:44.347Z] ERROR: User registration failed
+[2025-04-14T09:24:44.364Z] INFO: User registered successfully
+[2025-04-14T09:24:44.381Z] INFO: Note created successfully
+[2025-04-14T09:24:44.433Z] ERROR: User does not exist
+[2025-04-14T09:24:44.446Z] ERROR: User does not exist
+[2025-04-14T09:24:44.453Z] ERROR: User does not exist
+[2025-04-14T09:24:44.467Z] ERROR: User does not exist
+[2025-04-14T09:24:44.474Z] INFO: User registered successfully
+[2025-04-14T09:24:44.480Z] ERROR: User does not exist
+[2025-04-14T09:24:44.485Z] ERROR: User does not exist
+[2025-04-14T09:24:44.497Z] ERROR: User does not exist
+[2025-04-14T09:24:44.508Z] INFO: User registered successfully
+[2025-04-14T09:24:44.529Z] INFO: User logged in successfully
+[2025-04-14T09:24:44.596Z] INFO: User registered successfully
+[2025-04-14T09:24:44.618Z] INFO: User logged in successfully
+[2025-04-14T09:24:44.634Z] INFO: User fetched successfully
+[2025-04-14T09:24:44.737Z] INFO: User registered successfully
+[2025-04-14T09:24:44.745Z] INFO: User logged in successfully
+[2025-04-14T09:24:44.836Z] INFO: User registered successfully
+[2025-04-14T09:24:44.844Z] INFO: User logged in successfully
+[2025-04-14T09:24:44.853Z] INFO: User deleted successfully
+[2025-04-14T09:28:03.829Z] INFO: Database connected successfully
+[2025-04-14T09:28:04.108Z] INFO: Database connected successfully
+[2025-04-14T09:28:04.343Z] INFO: User registered successfully
+[2025-04-14T09:28:04.532Z] INFO: Database connected successfully
+[2025-04-14T09:28:04.544Z] INFO: User registered successfully
+[2025-04-14T09:28:04.586Z] INFO: User logged in successfully
+[2025-04-14T09:28:04.828Z] INFO: User registered successfully
+[2025-04-14T09:28:04.883Z] INFO: User logged in successfully
+[2025-04-14T09:28:18.273Z] INFO: User registered successfully
+[2025-04-14T09:28:18.283Z] INFO: User registered successfully
+[2025-04-14T09:28:38.984Z] ERROR: User does not exist
+[2025-04-14T09:28:39.118Z] INFO: User registered successfully
+[2025-04-14T09:28:39.138Z] INFO: User registered successfully
+[2025-04-14T09:28:50.202Z] INFO: User logged in successfully
+[2025-04-14T09:28:50.256Z] ERROR: User does not exist
+[2025-04-14T09:29:41.870Z] ERROR: User registration failed
+[2025-04-14T09:29:41.894Z] ERROR: Failed to login
+[2025-04-14T09:31:41.409Z] INFO: Database connected successfully
+[2025-04-14T09:31:41.995Z] INFO: Database connected successfully
+[2025-04-14T09:31:42.011Z] INFO: Database connected successfully
+[2025-04-14T09:31:42.385Z] INFO: User registered successfully
+[2025-04-14T09:31:42.472Z] ERROR: User registration failed
+[2025-04-14T09:31:42.641Z] INFO: User registered successfully
+[2025-04-14T09:31:51.900Z] INFO: User registered successfully
+[2025-04-14T09:31:51.924Z] INFO: User registered successfully
+[2025-04-14T09:32:54.480Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T09:32:54.525Z] INFO: Database connected successfully
+[2025-04-14T09:32:54.744Z] INFO: User logged in successfully
+[2025-04-14T09:33:30.708Z] INFO: Database connected successfully
+[2025-04-14T09:33:30.772Z] INFO: Database connected successfully
+[2025-04-14T09:33:31.079Z] INFO: Database connected successfully
+[2025-04-14T09:33:31.131Z] INFO: User registered successfully
+[2025-04-14T09:33:31.279Z] INFO: User registered successfully
+[2025-04-14T09:33:31.314Z] ERROR: User registration failed
+[2025-04-14T09:33:38.633Z] INFO: User registered successfully
+[2025-04-14T09:33:39.344Z] INFO: User registered successfully
+[2025-04-14T09:33:52.755Z] INFO: User registered successfully
+[2025-04-14T09:34:00.777Z] INFO: User logged in successfully
+[2025-04-14T09:34:21.614Z] ERROR: User does not exist
+[2025-04-14T09:34:21.753Z] ERROR: User does not exist
+[2025-04-14T09:34:21.824Z] INFO: User registered successfully
+[2025-04-14T09:34:22.039Z] ERROR: User already exists
+[2025-04-14T09:34:22.094Z] ERROR: User does not exist
+[2025-04-14T09:34:22.145Z] ERROR: User does not exist
+[2025-04-14T09:34:22.293Z] INFO: User logged in successfully
+[2025-04-14T09:34:22.308Z] INFO: User deleted successfully
+[2025-04-14T09:34:22.315Z] INFO: User logged in successfully
+[2025-04-14T09:34:34.862Z] INFO: Database connected successfully
+[2025-04-14T09:34:35.325Z] INFO: Database connected successfully
+[2025-04-14T09:34:35.428Z] INFO: Database connected successfully
+[2025-04-14T09:34:35.628Z] INFO: User registered successfully
+[2025-04-14T09:34:35.656Z] ERROR: User already exists
+[2025-04-14T09:34:35.850Z] INFO: User registered successfully
+[2025-04-14T09:35:20.960Z] INFO: User registered successfully
+[2025-04-14T09:35:20.974Z] INFO: User registered successfully
+[2025-04-14T09:35:58.762Z] INFO: User logged in successfully
+[2025-04-14T09:36:15.701Z] INFO: User registered successfully
+[2025-04-14T09:36:15.712Z] INFO: User registered successfully
+[2025-04-14T09:37:44.953Z] ERROR: User does not exist
+[2025-04-14T09:37:45.113Z] ERROR: User does not exist
+[2025-04-14T09:37:44.985Z] ERROR: User already exists
+[2025-04-14T09:37:45.348Z] ERROR: User does not exist
+[2025-04-14T09:37:45.421Z] ERROR: Failed to login
+[2025-04-14T09:37:45.427Z] ERROR: Failed to login
+[2025-04-14T09:37:45.533Z] ERROR: Failed to login
+[2025-04-14T09:38:16.337Z] INFO: Database connected successfully
+[2025-04-14T09:38:16.639Z] INFO: User registered successfully
+[2025-04-14T09:38:16.759Z] INFO: Database connected successfully
+[2025-04-14T09:38:17.149Z] INFO: User registered successfully
+[2025-04-14T09:38:17.301Z] INFO: User registered successfully
+[2025-04-14T09:38:45.718Z] INFO: Database connected successfully
+[2025-04-14T09:38:45.825Z] ERROR: User already exists
+[2025-04-14T09:38:45.855Z] INFO: Database connected successfully
+[2025-04-14T09:38:45.937Z] INFO: User logged in successfully
+[2025-04-14T09:38:45.957Z] ERROR: User does not exist
+[2025-04-14T09:38:45.978Z] ERROR: User does not exist
+[2025-04-14T09:38:45.989Z] ERROR: User does not exist
+[2025-04-14T09:38:45.998Z] ERROR: User does not exist
+[2025-04-14T09:38:46.014Z] ERROR: User does not exist
+[2025-04-14T09:38:46.027Z] ERROR: User does not exist
+[2025-04-14T09:38:46.035Z] INFO: User registered successfully
+[2025-04-14T09:38:46.042Z] ERROR: User does not exist
+[2025-04-14T09:38:46.159Z] INFO: User registered successfully
+[2025-04-14T09:38:46.293Z] INFO: User logged in successfully
+[2025-04-14T09:40:28.649Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T09:40:28.671Z] INFO: Database connected successfully
+[2025-04-14T09:40:35.714Z] INFO: Database connected successfully
+[2025-04-14T09:40:35.781Z] INFO: Database connected successfully
+[2025-04-14T09:40:35.986Z] INFO: User registered successfully
+[2025-04-14T09:40:36.004Z] ERROR: User registration failed
+[2025-04-14T09:40:36.034Z] ERROR: User does not exist
+[2025-04-14T09:40:36.180Z] INFO: User registered successfully
+[2025-04-14T09:40:36.361Z] INFO: User logged in successfully
+[2025-04-14T09:40:36.415Z] INFO: Database connected successfully
+[2025-04-14T09:40:36.635Z] INFO: User registered successfully
+[2025-04-14T09:40:36.744Z] INFO: User registered successfully
+[2025-04-14T09:40:36.860Z] INFO: User logged in successfully
+[2025-04-14T09:40:36.987Z] INFO: User registered successfully
+[2025-04-14T09:40:37.093Z] INFO: User logged in successfully
+[2025-04-14T09:40:37.120Z] INFO: User fetched successfully
+[2025-04-14T09:40:37.229Z] INFO: User registered successfully
+[2025-04-14T09:40:37.345Z] INFO: User logged in successfully
+[2025-04-14T09:40:37.468Z] INFO: User registered successfully
+[2025-04-14T09:40:37.588Z] INFO: User logged in successfully
+[2025-04-14T09:40:37.610Z] INFO: User deleted successfully
+[2025-04-14T09:43:07.562Z] INFO: Database connected successfully
+[2025-04-14T09:43:08.117Z] INFO: User registered successfully
+[2025-04-14T09:43:08.179Z] INFO: Database connected successfully
+[2025-04-14T09:43:08.372Z] INFO: User registered successfully
+[2025-04-14T09:43:08.469Z] INFO: User registered successfully
+[2025-04-14T09:43:08.624Z] INFO: User registered successfully
+[2025-04-14T09:43:08.638Z] INFO: User logged in successfully
+[2025-04-14T09:43:08.816Z] INFO: User logged in successfully
+[2025-04-14T09:43:08.842Z] INFO: Database connected successfully
+[2025-04-14T09:43:08.987Z] INFO: User registered successfully
+[2025-04-14T09:43:09.052Z] ERROR: User already exists
+[2025-04-14T09:43:09.166Z] INFO: User logged in successfully
+[2025-04-14T09:43:09.213Z] INFO: User fetched successfully
+[2025-04-14T09:43:09.253Z] INFO: User logged in successfully
+[2025-04-14T09:43:09.385Z] INFO: User registered successfully
+[2025-04-14T09:43:09.547Z] INFO: User logged in successfully
+[2025-04-14T09:43:09.737Z] INFO: User registered successfully
+[2025-04-14T09:43:09.873Z] INFO: User logged in successfully
+[2025-04-14T09:43:09.912Z] INFO: User deleted successfully
+[2025-04-14T09:43:15.364Z] ERROR: User does not exist
+[2025-04-14T09:43:15.416Z] ERROR: User does not exist
+[2025-04-14T09:44:12.746Z] INFO: User logged in successfully
+[2025-04-14T09:44:44.589Z] INFO: Note created successfully
+[2025-04-14T09:45:07.623Z] INFO: All notes fetched successfully
+[2025-04-14T09:45:51.274Z] INFO: Database connected successfully
+[2025-04-14T09:45:51.885Z] INFO: User registered successfully
+[2025-04-14T09:45:52.149Z] INFO: User registered successfully
+[2025-04-14T09:45:52.239Z] INFO: Database connected successfully
+[2025-04-14T09:45:52.344Z] INFO: User logged in successfully
+[2025-04-14T09:45:52.490Z] INFO: User registered successfully
+[2025-04-14T09:45:52.657Z] INFO: User logged in successfully
+[2025-04-14T09:45:52.700Z] INFO: User fetched successfully
+[2025-04-14T09:45:52.864Z] INFO: User registered successfully
+[2025-04-14T09:45:53.006Z] INFO: User logged in successfully
+[2025-04-14T09:45:53.155Z] INFO: User registered successfully
+[2025-04-14T09:45:53.389Z] INFO: User logged in successfully
+[2025-04-14T09:45:53.425Z] INFO: User deleted successfully
+[2025-04-14T09:45:54.005Z] INFO: Database connected successfully
+[2025-04-14T09:45:54.300Z] INFO: User registered successfully
+[2025-04-14T09:45:54.435Z] INFO: User registered successfully
+[2025-04-14T09:45:54.556Z] INFO: User logged in successfully
+[2025-04-14T09:46:07.991Z] ERROR: User registration failed
+[2025-04-14T09:46:29.882Z] INFO: Database connected successfully
+[2025-04-14T09:46:30.303Z] INFO: User registered successfully
+[2025-04-14T09:46:30.520Z] INFO: User registered successfully
+[2025-04-14T09:46:30.529Z] INFO: Database connected successfully
+[2025-04-14T09:46:30.626Z] INFO: User logged in successfully
+[2025-04-14T09:46:30.724Z] INFO: Database connected successfully
+[2025-04-14T09:46:30.779Z] INFO: User registered successfully
+[2025-04-14T09:46:30.786Z] ERROR: User registration failed
+[2025-04-14T09:46:30.925Z] INFO: User logged in successfully
+[2025-04-14T09:46:30.938Z] INFO: User registered successfully
+[2025-04-14T09:46:30.958Z] ERROR: User does not exist
+[2025-04-14T09:46:31.083Z] INFO: User logged in successfully
+[2025-04-14T09:46:31.118Z] INFO: User registered successfully
+[2025-04-14T09:46:31.275Z] INFO: User logged in successfully
+[2025-04-14T09:46:31.452Z] INFO: User registered successfully
+[2025-04-14T09:46:31.566Z] INFO: User logged in successfully
+[2025-04-14T09:46:31.613Z] INFO: User deleted successfully
+[2025-04-14T09:46:34.426Z] INFO: User registered successfully
+[2025-04-14T09:46:38.977Z] INFO: User logged in successfully
+[2025-04-14T09:49:24.632Z] INFO: Database connected successfully
+[2025-04-14T09:49:24.875Z] INFO: Database connected successfully
+[2025-04-14T09:49:25.037Z] INFO: User registered successfully
+[2025-04-14T09:49:25.270Z] INFO: User registered successfully
+[2025-04-14T09:49:25.281Z] INFO: User registered successfully
+[2025-04-14T09:49:25.481Z] INFO: User registered successfully
+[2025-04-14T09:49:25.519Z] INFO: User logged in successfully
+[2025-04-14T09:49:25.578Z] INFO: Database connected successfully
+[2025-04-14T09:49:25.634Z] INFO: User logged in successfully
+[2025-04-14T09:49:25.786Z] INFO: User registered successfully
+[2025-04-14T09:49:25.904Z] INFO: User logged in successfully
+[2025-04-14T09:49:25.944Z] INFO: User fetched successfully
+[2025-04-14T09:49:26.093Z] INFO: User registered successfully
+[2025-04-14T09:49:26.244Z] INFO: User logged in successfully
+[2025-04-14T09:49:26.370Z] INFO: User registered successfully
+[2025-04-14T09:49:26.484Z] INFO: User logged in successfully
+[2025-04-14T09:49:26.510Z] INFO: User deleted successfully
+[2025-04-14T09:49:31.463Z] ERROR: User registration failed
+[2025-04-14T09:50:05.789Z] INFO: Database connected successfully
+[2025-04-14T09:50:06.220Z] INFO: User registered successfully
+[2025-04-14T09:50:06.233Z] INFO: Database connected successfully
+[2025-04-14T09:50:06.358Z] INFO: User registered successfully
+[2025-04-14T09:50:06.381Z] ERROR: User does not exist
+[2025-04-14T09:50:06.502Z] INFO: User registered successfully
+[2025-04-14T09:50:06.518Z] ERROR: User registration failed
+[2025-04-14T09:50:06.543Z] ERROR: User does not exist
+[2025-04-14T09:50:06.586Z] INFO: Database connected successfully
+[2025-04-14T09:50:06.655Z] INFO: User registered successfully
+[2025-04-14T09:50:06.692Z] ERROR: User registration failed
+[2025-04-14T09:50:06.802Z] INFO: User logged in successfully
+[2025-04-14T09:50:06.831Z] INFO: User logged in successfully
+[2025-04-14T09:50:06.983Z] INFO: User registered successfully
+[2025-04-14T09:50:07.092Z] INFO: User logged in successfully
+[2025-04-14T09:50:07.140Z] INFO: User deleted successfully
+[2025-04-14T09:50:09.886Z] INFO: User registered successfully
+[2025-04-14T09:50:24.615Z] INFO: User logged in successfully
+[2025-04-14T09:50:51.184Z] INFO: Database connected successfully
+[2025-04-14T09:50:51.368Z] INFO: Database connected successfully
+[2025-04-14T09:50:51.609Z] INFO: Database connected successfully
+[2025-04-14T09:50:51.732Z] INFO: User registered successfully
+[2025-04-14T09:50:51.889Z] INFO: User registered successfully
+[2025-04-14T09:50:51.926Z] INFO: User registered successfully
+[2025-04-14T09:50:52.030Z] INFO: User logged in successfully
+[2025-04-14T09:50:52.092Z] INFO: User registered successfully
+[2025-04-14T09:50:52.182Z] ERROR: User registration failed
+[2025-04-14T09:50:52.209Z] INFO: User logged in successfully
+[2025-04-14T09:50:52.331Z] INFO: User logged in successfully
+[2025-04-14T09:50:52.363Z] ERROR: User does not exist
+[2025-04-14T09:50:52.487Z] INFO: User registered successfully
+[2025-04-14T09:50:52.583Z] INFO: User logged in successfully
+[2025-04-14T09:50:52.688Z] INFO: User registered successfully
+[2025-04-14T09:50:52.775Z] INFO: User logged in successfully
+[2025-04-14T09:50:52.793Z] INFO: User deleted successfully
+[2025-04-14T09:50:56.813Z] ERROR: User registration failed
+[2025-04-14T09:52:28.567Z] INFO: Database connected successfully
+[2025-04-14T09:52:29.083Z] INFO: Database connected successfully
+[2025-04-14T09:52:29.123Z] INFO: User registered successfully
+[2025-04-14T09:52:29.376Z] INFO: User registered successfully
+[2025-04-14T09:52:29.429Z] ERROR: User does not exist
+[2025-04-14T09:52:29.505Z] INFO: User registered successfully
+[2025-04-14T09:52:29.688Z] INFO: Database connected successfully
+[2025-04-14T09:52:29.711Z] INFO: User registered successfully
+[2025-04-14T09:52:29.784Z] ERROR: User registration failed
+[2025-04-14T09:52:29.827Z] INFO: User logged in successfully
+[2025-04-14T09:52:29.857Z] INFO: User fetched successfully
+[2025-04-14T09:52:29.992Z] INFO: User registered successfully
+[2025-04-14T09:52:29.993Z] INFO: User logged in successfully
+[2025-04-14T09:52:30.027Z] ERROR: User does not exist
+[2025-04-14T09:52:30.213Z] INFO: User registered successfully
+[2025-04-14T09:52:30.346Z] INFO: User logged in successfully
+[2025-04-14T09:52:30.388Z] INFO: User deleted successfully
+[2025-04-14T09:52:34.130Z] INFO: User registered successfully
+[2025-04-14T09:52:36.735Z] INFO: User logged in successfully
+[2025-04-14T09:53:04.219Z] INFO: Database connected successfully
+[2025-04-14T09:53:04.360Z] INFO: Database connected successfully
+[2025-04-14T09:53:04.575Z] INFO: User registered successfully
+[2025-04-14T09:53:04.731Z] INFO: User registered successfully
+[2025-04-14T09:53:04.838Z] ERROR: User registration failed
+[2025-04-14T09:53:04.863Z] INFO: User logged in successfully
+[2025-04-14T09:53:04.962Z] ERROR: User does not exist
+[2025-04-14T09:53:05.031Z] INFO: Database connected successfully
+[2025-04-14T09:53:05.420Z] INFO: User registered successfully
+[2025-04-14T09:53:05.615Z] INFO: User registered successfully
+[2025-04-14T09:53:05.746Z] INFO: User logged in successfully
+[2025-04-14T09:53:05.904Z] INFO: User registered successfully
+[2025-04-14T09:53:06.033Z] INFO: User logged in successfully
+[2025-04-14T09:53:06.060Z] INFO: User fetched successfully
+[2025-04-14T09:53:06.187Z] INFO: User registered successfully
+[2025-04-14T09:53:06.300Z] INFO: User logged in successfully
+[2025-04-14T09:53:06.408Z] INFO: User registered successfully
+[2025-04-14T09:53:06.521Z] INFO: User logged in successfully
+[2025-04-14T09:53:06.545Z] INFO: User deleted successfully
+[2025-04-14T09:54:06.065Z] INFO: Database connected successfully
+[2025-04-14T09:54:06.100Z] INFO: Database connected successfully
+[2025-04-14T09:54:06.219Z] INFO: Database connected successfully
+[2025-04-14T09:54:06.505Z] INFO: User registered successfully
+[2025-04-14T09:54:06.559Z] INFO: User registered successfully
+[2025-04-14T09:54:06.648Z] ERROR: User registration failed
+[2025-04-14T09:54:06.667Z] INFO: User logged in successfully
+[2025-04-14T09:54:06.734Z] INFO: User registered successfully
+[2025-04-14T09:54:06.761Z] ERROR: User does not exist
+[2025-04-14T09:54:06.881Z] INFO: User registered successfully
+[2025-04-14T09:54:06.975Z] ERROR: User registration failed
+[2025-04-14T09:54:07.062Z] INFO: User logged in successfully
+[2025-04-14T09:54:07.108Z] INFO: User logged in successfully
+[2025-04-14T09:54:07.142Z] ERROR: User does not exist
+[2025-04-14T09:54:07.312Z] INFO: User registered successfully
+[2025-04-14T09:54:07.479Z] INFO: User logged in successfully
+[2025-04-14T09:54:07.645Z] INFO: User registered successfully
+[2025-04-14T09:54:07.778Z] INFO: User logged in successfully
+[2025-04-14T09:54:07.812Z] INFO: User deleted successfully
+[2025-04-14T09:54:23.182Z] ERROR: User does not exist
+[2025-04-14T09:54:23.253Z] ERROR: User does not exist
+[2025-04-14T09:54:23.287Z] ERROR: User does not exist
+[2025-04-14T09:54:23.331Z] ERROR: User does not exist
+[2025-04-14T09:54:23.404Z] ERROR: User does not exist
+[2025-04-14T09:54:23.474Z] ERROR: User does not exist
+[2025-04-14T09:54:23.539Z] ERROR: User does not exist
+[2025-04-14T09:55:09.952Z] INFO: Database connected successfully
+[2025-04-14T09:55:09.967Z] INFO: Database connected successfully
+[2025-04-14T09:55:10.285Z] INFO: User registered successfully
+[2025-04-14T09:55:10.470Z] INFO: User registered successfully
+[2025-04-14T09:55:10.618Z] INFO: User registered successfully
+[2025-04-14T09:55:10.710Z] INFO: User logged in successfully
+[2025-04-14T09:55:10.883Z] INFO: User registered successfully
+[2025-04-14T09:55:10.912Z] ERROR: User does not exist
+[2025-04-14T09:55:11.157Z] INFO: User registered successfully
+[2025-04-14T09:55:11.329Z] INFO: User logged in successfully
+[2025-04-14T09:55:11.353Z] INFO: User fetched successfully
+[2025-04-14T09:55:11.484Z] INFO: Database connected successfully
+[2025-04-14T09:55:11.550Z] INFO: User registered successfully
+[2025-04-14T09:55:11.656Z] ERROR: User already exists
+[2025-04-14T09:55:11.725Z] INFO: User logged in successfully
+[2025-04-14T09:55:11.819Z] INFO: User logged in successfully
+[2025-04-14T09:55:11.855Z] ERROR: User does not exist
+[2025-04-14T09:55:11.887Z] INFO: User registered successfully
+[2025-04-14T09:55:11.903Z] ERROR: User does not exist
+[2025-04-14T09:55:11.940Z] ERROR: User does not exist
+[2025-04-14T09:55:11.967Z] ERROR: User does not exist
+[2025-04-14T09:55:12.004Z] ERROR: User does not exist
+[2025-04-14T09:55:12.017Z] ERROR: User does not exist
+[2025-04-14T09:55:12.040Z] INFO: User logged in successfully
+[2025-04-14T09:55:12.045Z] ERROR: User does not exist
+[2025-04-14T09:55:12.060Z] INFO: User deleted successfully
+[2025-04-14T09:57:49.864Z] INFO: Database connected successfully
+[2025-04-14T09:57:50.038Z] INFO: Database connected successfully
+[2025-04-14T09:57:50.175Z] INFO: User registered successfully
+[2025-04-14T09:57:50.314Z] INFO: User logged in successfully
+[2025-04-14T09:57:50.354Z] ERROR: User does not exist
+[2025-04-14T09:57:50.423Z] ERROR: User does not exist
+[2025-04-14T09:57:50.437Z] ERROR: User does not exist
+[2025-04-14T09:57:50.451Z] ERROR: User does not exist
+[2025-04-14T09:57:50.465Z] ERROR: User does not exist
+[2025-04-14T09:57:50.475Z] ERROR: User does not exist
+[2025-04-14T09:57:50.490Z] ERROR: User does not exist
+[2025-04-14T09:57:50.557Z] INFO: User registered successfully
+[2025-04-14T09:57:50.714Z] INFO: User registered successfully
+[2025-04-14T09:57:50.840Z] INFO: User logged in successfully
+[2025-04-14T09:57:52.147Z] INFO: Database connected successfully
+[2025-04-14T09:57:52.317Z] INFO: User registered successfully
+[2025-04-14T09:57:52.419Z] INFO: User registered successfully
+[2025-04-14T09:57:52.503Z] INFO: User logged in successfully
+[2025-04-14T09:57:52.592Z] INFO: User registered successfully
+[2025-04-14T09:57:52.677Z] INFO: User logged in successfully
+[2025-04-14T09:57:52.688Z] INFO: User fetched successfully
+[2025-04-14T09:57:52.772Z] INFO: User registered successfully
+[2025-04-14T09:57:52.854Z] INFO: User logged in successfully
+[2025-04-14T09:57:52.937Z] INFO: User registered successfully
+[2025-04-14T09:57:53.045Z] INFO: User logged in successfully
+[2025-04-14T09:57:53.059Z] INFO: User deleted successfully
+[2025-04-14T09:59:30.296Z] INFO: Database connected successfully
+[2025-04-14T09:59:30.421Z] INFO: Database connected successfully
+[2025-04-14T09:59:30.460Z] INFO: Database connected successfully
+[2025-04-14T09:59:30.543Z] INFO: User registered successfully
+[2025-04-14T09:59:30.600Z] ERROR: User already exists
+[2025-04-14T09:59:30.651Z] INFO: User logged in successfully
+[2025-04-14T09:59:30.668Z] INFO: User registered successfully
+[2025-04-14T09:59:30.676Z] ERROR: User does not exist
+[2025-04-14T09:59:30.701Z] ERROR: User does not exist
+[2025-04-14T09:59:30.712Z] ERROR: User does not exist
+[2025-04-14T09:59:30.724Z] ERROR: User does not exist
+[2025-04-14T09:59:30.727Z] INFO: User registered successfully
+[2025-04-14T09:59:30.745Z] ERROR: User does not exist
+[2025-04-14T09:59:30.765Z] ERROR: User does not exist
+[2025-04-14T09:59:30.778Z] ERROR: User does not exist
+[2025-04-14T09:59:30.787Z] INFO: User registered successfully
+[2025-04-14T09:59:30.847Z] INFO: User logged in successfully
+[2025-04-14T09:59:30.891Z] INFO: User logged in successfully
+[2025-04-14T09:59:31.012Z] INFO: User registered successfully
+[2025-04-14T09:59:31.103Z] INFO: User logged in successfully
+[2025-04-14T09:59:31.112Z] INFO: User fetched successfully
+[2025-04-14T09:59:31.198Z] INFO: User registered successfully
+[2025-04-14T09:59:31.280Z] INFO: User logged in successfully
+[2025-04-14T09:59:31.367Z] INFO: User registered successfully
+[2025-04-14T09:59:31.449Z] INFO: User logged in successfully
+[2025-04-14T09:59:31.457Z] INFO: User deleted successfully
+[2025-04-14T10:01:49.830Z] INFO: Database connected successfully
+[2025-04-14T10:01:50.258Z] INFO: Database connected successfully
+[2025-04-14T10:01:50.571Z] INFO: User registered successfully
+[2025-04-14T10:01:50.712Z] INFO: User registered successfully
+[2025-04-14T10:01:50.873Z] INFO: Database connected successfully
+[2025-04-14T10:01:50.893Z] INFO: User logged in successfully
+[2025-04-14T10:01:51.057Z] INFO: User registered successfully
+[2025-04-14T10:01:51.191Z] INFO: User logged in successfully
+[2025-04-14T10:01:51.196Z] ERROR: User registration failed
+[2025-04-14T10:01:51.250Z] INFO: User fetched successfully
+[2025-04-14T10:01:51.354Z] INFO: User logged in successfully
+[2025-04-14T10:01:51.395Z] INFO: User registered successfully
+[2025-04-14T10:01:51.393Z] ERROR: User does not exist
+[2025-04-14T10:01:51.445Z] ERROR: User does not exist
+[2025-04-14T10:01:51.470Z] ERROR: User does not exist
+[2025-04-14T10:01:51.489Z] ERROR: User does not exist
+[2025-04-14T10:01:51.516Z] INFO: User logged in successfully
+[2025-04-14T10:01:51.520Z] ERROR: User does not exist
+[2025-04-14T10:01:51.557Z] ERROR: User does not exist
+[2025-04-14T10:01:51.590Z] ERROR: User does not exist
+[2025-04-14T10:01:51.660Z] INFO: User registered successfully
+[2025-04-14T10:01:51.768Z] INFO: User logged in successfully
+[2025-04-14T10:01:51.790Z] INFO: User deleted successfully
+[2025-04-14T10:01:55.965Z] INFO: User registered successfully
+[2025-04-14T10:01:55.978Z] ERROR: User registration failed
+[2025-04-14T10:05:23.221Z] INFO: Database connected successfully
+[2025-04-14T10:05:23.349Z] ERROR: User already exists
+[2025-04-14T10:05:23.401Z] INFO: Database connected successfully
+[2025-04-14T10:05:23.464Z] INFO: Database connected successfully
+[2025-04-14T10:05:23.480Z] INFO: User logged in successfully
+[2025-04-14T10:05:23.510Z] ERROR: User does not exist
+[2025-04-14T10:05:23.536Z] ERROR: User does not exist
+[2025-04-14T10:05:23.549Z] ERROR: User does not exist
+[2025-04-14T10:05:23.562Z] ERROR: User does not exist
+[2025-04-14T10:05:23.575Z] ERROR: User does not exist
+[2025-04-14T10:05:23.586Z] ERROR: User does not exist
+[2025-04-14T10:05:23.599Z] ERROR: User does not exist
+[2025-04-14T10:05:23.620Z] INFO: User registered successfully
+[2025-04-14T10:05:23.679Z] INFO: User registered successfully
+[2025-04-14T10:05:23.755Z] INFO: User registered successfully
+[2025-04-14T10:05:23.805Z] INFO: User registered successfully
+[2025-04-14T10:05:23.851Z] INFO: User logged in successfully
+[2025-04-14T10:05:23.907Z] INFO: User logged in successfully
+[2025-04-14T10:05:24.013Z] INFO: User registered successfully
+[2025-04-14T10:05:24.098Z] INFO: User logged in successfully
+[2025-04-14T10:05:24.110Z] INFO: User fetched successfully
+[2025-04-14T10:05:24.200Z] INFO: User registered successfully
+[2025-04-14T10:05:24.284Z] INFO: User logged in successfully
+[2025-04-14T10:05:24.376Z] INFO: User registered successfully
+[2025-04-14T10:05:24.468Z] INFO: User logged in successfully
+[2025-04-14T10:05:24.481Z] INFO: User deleted successfully
+[2025-04-14T10:06:51.989Z] INFO: Database connected successfully
+[2025-04-14T10:06:52.056Z] INFO: Database connected successfully
+[2025-04-14T10:06:52.253Z] INFO: Database connected successfully
+[2025-04-14T10:06:52.338Z] INFO: User registered successfully
+[2025-04-14T10:06:52.371Z] INFO: User registered successfully
+[2025-04-14T10:06:52.421Z] ERROR: User already exists
+[2025-04-14T10:06:52.472Z] INFO: User registered successfully
+[2025-04-14T10:06:52.487Z] ERROR: User does not exist
+[2025-04-14T10:06:52.526Z] INFO: User logged in successfully
+[2025-04-14T10:06:52.592Z] INFO: User registered successfully
+[2025-04-14T10:06:52.636Z] ERROR: User registration failed
+[2025-04-14T10:06:52.717Z] INFO: User logged in successfully
+[2025-04-14T10:06:52.783Z] INFO: User logged in successfully
+[2025-04-14T10:06:52.814Z] ERROR: User does not exist
+[2025-04-14T10:06:52.956Z] INFO: User registered successfully
+[2025-04-14T10:06:53.061Z] INFO: User logged in successfully
+[2025-04-14T10:06:53.183Z] INFO: User registered successfully
+[2025-04-14T10:06:53.303Z] INFO: User logged in successfully
+[2025-04-14T10:06:53.330Z] INFO: User deleted successfully
+[2025-04-14T10:06:55.823Z] ERROR: User does not exist
+[2025-04-14T10:08:13.575Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:08:13.605Z] INFO: Database connected successfully
+[2025-04-14T10:08:19.035Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:08:19.063Z] INFO: Database connected successfully
+[2025-04-14T10:08:26.240Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:08:26.260Z] INFO: Database connected successfully
+[2025-04-14T10:08:29.159Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:08:29.187Z] INFO: Database connected successfully
+[2025-04-14T10:08:52.787Z] INFO: Database connected successfully
+[2025-04-14T10:08:53.315Z] INFO: Database connected successfully
+[2025-04-14T10:08:53.352Z] INFO: User registered successfully
+[2025-04-14T10:08:53.620Z] INFO: User registered successfully
+[2025-04-14T10:08:53.679Z] INFO: User logged in successfully
+[2025-04-14T10:08:53.835Z] INFO: User registered successfully
+[2025-04-14T10:08:53.846Z] INFO: Database connected successfully
+[2025-04-14T10:08:53.989Z] INFO: User logged in successfully
+[2025-04-14T10:08:54.125Z] INFO: User registered successfully
+[2025-04-14T10:08:54.148Z] ERROR: User registration failed
+[2025-04-14T10:08:54.244Z] INFO: User logged in successfully
+[2025-04-14T10:08:54.290Z] INFO: User registered successfully
+[2025-04-14T10:08:54.416Z] INFO: User logged in successfully
+[2025-04-14T10:11:24.981Z] INFO: Database connected successfully
+[2025-04-14T10:11:25.032Z] INFO: Database connected successfully
+[2025-04-14T10:11:25.142Z] INFO: Database connected successfully
+[2025-04-14T10:11:25.276Z] INFO: User registered successfully
+[2025-04-14T10:11:25.309Z] INFO: User registered successfully
+[2025-04-14T10:11:25.429Z] INFO: User registered successfully
+[2025-04-14T10:11:25.449Z] INFO: User logged in successfully
+[2025-04-14T10:11:25.448Z] ERROR: User registration failed
+[2025-04-14T10:11:25.546Z] INFO: Note created successfully
+[2025-04-14T10:11:25.605Z] ERROR: User does not exist
+[2025-04-14T10:11:25.622Z] ERROR: User does not exist
+[2025-04-14T10:11:25.637Z] ERROR: User does not exist
+[2025-04-14T10:11:25.671Z] ERROR: User does not exist
+[2025-04-14T10:11:25.673Z] INFO: User logged in successfully
+[2025-04-14T10:11:25.694Z] INFO: User registered successfully
+[2025-04-14T10:11:25.709Z] ERROR: User does not exist
+[2025-04-14T10:11:25.759Z] ERROR: User does not exist
+[2025-04-14T10:11:25.787Z] ERROR: User does not exist
+[2025-04-14T10:11:25.899Z] INFO: User registered successfully
+[2025-04-14T10:11:26.042Z] INFO: User logged in successfully
+[2025-04-14T10:11:26.085Z] INFO: User fetched successfully
+[2025-04-14T10:11:26.290Z] INFO: User registered successfully
+[2025-04-14T10:11:26.398Z] INFO: User logged in successfully
+[2025-04-14T10:11:26.496Z] INFO: User registered successfully
+[2025-04-14T10:11:26.585Z] INFO: User logged in successfully
+[2025-04-14T10:11:26.605Z] INFO: User deleted successfully
+[2025-04-14T10:12:19.921Z] INFO: Database connected successfully
+[2025-04-14T10:17:22.396Z] INFO: Database connected successfully
+[2025-04-14T10:17:26.527Z] INFO: Database connected successfully
+[2025-04-14T10:17:31.313Z] INFO: User registered successfully
+[2025-04-14T10:17:33.127Z] INFO: User registered successfully
+[2025-04-14T10:17:34.334Z] INFO: User registered successfully
+[2025-04-14T10:17:36.344Z] INFO: User logged in successfully
+[2025-04-14T10:17:38.024Z] ERROR: User does not exist
+[2025-04-14T10:17:43.860Z] ERROR: User does not exist
+[2025-04-14T10:17:43.905Z] INFO: User registered successfully
+[2025-04-14T10:17:45.284Z] ERROR: User already exists
+[2025-04-14T10:17:46.760Z] INFO: User logged in successfully
+[2025-04-14T10:17:46.866Z] INFO: User logged in successfully
+[2025-04-14T10:17:47.816Z] INFO: User deleted successfully
+[2025-04-14T10:17:59.504Z] ERROR: User registration failed
+[2025-04-14T10:18:00.796Z] ERROR: Failed to login
+[2025-04-14T10:18:03.872Z] INFO: Database connected successfully
+[2025-04-14T10:18:07.044Z] INFO: User registered successfully
+[2025-04-14T10:18:08.795Z] ERROR: User already exists
+[2025-04-14T10:18:10.743Z] INFO: User logged in successfully
+[2025-04-14T10:18:56.652Z] INFO: Database connected successfully
+[2025-04-14T10:18:56.674Z] INFO: Database connected successfully
+[2025-04-14T10:18:56.827Z] INFO: Database connected successfully
+[2025-04-14T10:18:56.922Z] INFO: User registered successfully
+[2025-04-14T10:18:56.970Z] INFO: User registered successfully
+[2025-04-14T10:18:57.051Z] ERROR: User already exists
+[2025-04-14T10:18:57.101Z] INFO: User logged in successfully
+[2025-04-14T10:18:57.100Z] INFO: User registered successfully
+[2025-04-14T10:18:57.162Z] INFO: Note created successfully
+[2025-04-14T10:18:57.203Z] INFO: Note created successfully
+[2025-04-14T10:18:57.224Z] INFO: Note created successfully
+[2025-04-14T10:18:57.240Z] INFO: User registered successfully
+[2025-04-14T10:18:57.245Z] INFO: All notes fetched successfully
+[2025-04-14T10:18:57.255Z] INFO: User logged in successfully
+[2025-04-14T10:18:57.326Z] INFO: Note created successfully
+[2025-04-14T10:18:57.356Z] INFO: Note fetched successfully
+[2025-04-14T10:18:57.407Z] INFO: Note created successfully
+[2025-04-14T10:18:57.421Z] INFO: User logged in successfully
+[2025-04-14T10:18:57.435Z] INFO: Note deleted successfully
+[2025-04-14T10:18:57.488Z] ERROR: User does not exist
+[2025-04-14T10:18:57.640Z] INFO: User registered successfully
+[2025-04-14T10:18:57.748Z] INFO: User logged in successfully
+[2025-04-14T10:18:57.788Z] INFO: User fetched successfully
+[2025-04-14T10:18:57.903Z] INFO: User registered successfully
+[2025-04-14T10:18:58.011Z] INFO: User logged in successfully
+[2025-04-14T10:18:58.128Z] INFO: User registered successfully
+[2025-04-14T10:18:58.214Z] INFO: User logged in successfully
+[2025-04-14T10:18:58.234Z] INFO: User deleted successfully
+[2025-04-14T10:21:03.365Z] INFO: Database connected successfully
+[2025-04-14T10:21:03.495Z] INFO: Database connected successfully
+[2025-04-14T10:21:03.686Z] INFO: User registered successfully
+[2025-04-14T10:21:03.716Z] ERROR: User already exists
+[2025-04-14T10:21:03.826Z] INFO: User logged in successfully
+[2025-04-14T10:21:04.009Z] INFO: User registered successfully
+[2025-04-14T10:21:04.177Z] INFO: User logged in successfully
+[2025-04-14T10:21:04.262Z] INFO: Note created successfully
+[2025-04-14T10:21:04.328Z] INFO: Note created successfully
+[2025-04-14T10:21:04.353Z] INFO: Note created successfully
+[2025-04-14T10:21:04.373Z] INFO: All notes fetched successfully
+[2025-04-14T10:21:04.418Z] INFO: Note created successfully
+[2025-04-14T10:21:04.440Z] INFO: Note fetched successfully
+[2025-04-14T10:21:04.468Z] INFO: Note created successfully
+[2025-04-14T10:21:04.493Z] INFO: Note deleted successfully
+[2025-04-14T10:21:04.545Z] INFO: Database connected successfully
+[2025-04-14T10:21:04.807Z] INFO: User registered successfully
+[2025-04-14T10:21:04.938Z] INFO: User registered successfully
+[2025-04-14T10:21:05.052Z] INFO: User logged in successfully
+[2025-04-14T10:21:05.201Z] INFO: User registered successfully
+[2025-04-14T10:21:05.363Z] INFO: User logged in successfully
+[2025-04-14T10:21:05.410Z] INFO: User fetched successfully
+[2025-04-14T10:21:05.547Z] INFO: User registered successfully
+[2025-04-14T10:21:05.643Z] INFO: User logged in successfully
+[2025-04-14T10:21:05.777Z] INFO: User registered successfully
+[2025-04-14T10:21:05.908Z] INFO: User logged in successfully
+[2025-04-14T10:21:05.943Z] INFO: User deleted successfully
+[2025-04-14T10:21:12.567Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:22:24.656Z] INFO: Database connected successfully
+[2025-04-14T10:22:24.845Z] INFO: Database connected successfully
+[2025-04-14T10:22:24.926Z] INFO: User registered successfully
+[2025-04-14T10:22:25.056Z] INFO: User logged in successfully
+[2025-04-14T10:22:25.095Z] ERROR: User does not exist
+[2025-04-14T10:22:25.127Z] ERROR: User does not exist
+[2025-04-14T10:22:25.151Z] ERROR: User does not exist
+[2025-04-14T10:22:25.171Z] ERROR: User does not exist
+[2025-04-14T10:22:25.224Z] ERROR: User does not exist
+[2025-04-14T10:22:25.251Z] ERROR: User does not exist
+[2025-04-14T10:22:25.301Z] INFO: User registered successfully
+[2025-04-14T10:22:25.361Z] ERROR: User already exists
+[2025-04-14T10:22:25.569Z] INFO: User logged in successfully
+[2025-04-14T10:22:25.604Z] INFO: Database connected successfully
+[2025-04-14T10:22:26.012Z] INFO: User registered successfully
+[2025-04-14T10:22:26.141Z] INFO: User registered successfully
+[2025-04-14T10:22:26.286Z] INFO: User logged in successfully
+[2025-04-14T10:22:26.453Z] INFO: User registered successfully
+[2025-04-14T10:22:26.582Z] INFO: User logged in successfully
+[2025-04-14T10:22:26.618Z] INFO: User fetched successfully
+[2025-04-14T10:22:26.757Z] INFO: User registered successfully
+[2025-04-14T10:22:26.877Z] INFO: User logged in successfully
+[2025-04-14T10:22:27.019Z] INFO: User registered successfully
+[2025-04-14T10:22:27.166Z] INFO: User logged in successfully
+[2025-04-14T10:22:27.202Z] INFO: User deleted successfully
+[2025-04-14T10:22:35.457Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:22:58.872Z] INFO: Database connected successfully
+[2025-04-14T10:22:59.227Z] INFO: User registered successfully
+[2025-04-14T10:22:59.441Z] INFO: User registered successfully
+[2025-04-14T10:22:59.690Z] INFO: User logged in successfully
+[2025-04-14T10:22:59.668Z] INFO: Database connected successfully
+[2025-04-14T10:22:59.773Z] INFO: Database connected successfully
+[2025-04-14T10:23:00.003Z] INFO: User registered successfully
+[2025-04-14T10:23:00.049Z] INFO: User registered successfully
+[2025-04-14T10:23:00.070Z] ERROR: User registration failed
+[2025-04-14T10:23:00.110Z] ERROR: User already exists
+[2025-04-14T10:23:00.193Z] INFO: User logged in successfully
+[2025-04-14T10:23:00.208Z] INFO: User logged in successfully
+[2025-04-14T10:23:00.270Z] INFO: User fetched successfully
+[2025-04-14T10:23:00.315Z] INFO: Note created successfully
+[2025-04-14T10:23:00.369Z] ERROR: User does not exist
+[2025-04-14T10:23:00.398Z] INFO: User logged in successfully
+[2025-04-14T10:23:00.399Z] ERROR: User does not exist
+[2025-04-14T10:23:00.425Z] ERROR: User does not exist
+[2025-04-14T10:23:00.496Z] ERROR: User does not exist
+[2025-04-14T10:23:00.523Z] INFO: User registered successfully
+[2025-04-14T10:23:00.525Z] ERROR: User does not exist
+[2025-04-14T10:23:00.660Z] INFO: User logged in successfully
+[2025-04-14T10:23:00.766Z] INFO: User registered successfully
+[2025-04-14T10:23:00.877Z] INFO: User logged in successfully
+[2025-04-14T10:23:00.899Z] INFO: User deleted successfully
+[2025-04-14T10:23:11.344Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:24:33.656Z] INFO: Database connected successfully
+[2025-04-14T10:24:33.973Z] INFO: User registered successfully
+[2025-04-14T10:24:34.028Z] ERROR: User already exists
+[2025-04-14T10:24:34.053Z] INFO: Database connected successfully
+[2025-04-14T10:24:34.216Z] INFO: User logged in successfully
+[2025-04-14T10:24:34.412Z] INFO: User registered successfully
+[2025-04-14T10:24:34.599Z] INFO: User registered successfully
+[2025-04-14T10:24:34.728Z] INFO: User logged in successfully
+[2025-04-14T10:24:34.899Z] INFO: User registered successfully
+[2025-04-14T10:24:35.050Z] INFO: User logged in successfully
+[2025-04-14T10:24:36.747Z] INFO: Database connected successfully
+[2025-04-14T10:24:37.005Z] INFO: User registered successfully
+[2025-04-14T10:24:37.133Z] INFO: User logged in successfully
+[2025-04-14T10:26:02.701Z] ERROR: Failed to fetch user
+[2025-04-14T10:26:02.882Z] INFO: User registered successfully
+[2025-04-14T10:26:03.028Z] INFO: User logged in successfully
+[2025-04-14T10:26:03.174Z] INFO: User registered successfully
+[2025-04-14T10:26:03.375Z] INFO: User logged in successfully
+[2025-04-14T10:27:00.106Z] ERROR: Failed to delete user
+[2025-04-14T10:28:08.108Z] ERROR: User does not exist
+[2025-04-14T10:28:11.430Z] ERROR: User does not exist
+[2025-04-14T10:28:11.471Z] ERROR: User does not exist
+[2025-04-14T10:28:11.540Z] ERROR: User does not exist
+[2025-04-14T10:28:11.577Z] ERROR: User does not exist
+[2025-04-14T10:28:11.605Z] ERROR: User does not exist
+[2025-04-14T10:28:11.637Z] ERROR: User does not exist
+[2025-04-14T10:29:29.522Z] INFO: Database connected successfully
+[2025-04-14T10:29:29.693Z] INFO: User registered successfully
+[2025-04-14T10:29:29.796Z] INFO: User logged in successfully
+[2025-04-14T10:30:01.344Z] INFO: Note created successfully
+[2025-04-14T10:30:20.218Z] INFO: Note created successfully
+[2025-04-14T10:30:44.388Z] INFO: Note created successfully
+[2025-04-14T10:31:16.571Z] INFO: Note created successfully
+[2025-04-14T10:31:16.594Z] INFO: Note created successfully
+[2025-04-14T10:31:19.103Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:31:19.119Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:31:19.434Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:31:19.486Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T10:32:13.500Z] INFO: Database connected successfully
+[2025-04-14T10:32:13.656Z] INFO: User registered successfully
+[2025-04-14T10:32:13.757Z] INFO: User logged in successfully
+[2025-04-14T10:32:13.783Z] INFO: Note created successfully
+[2025-04-14T10:32:13.809Z] INFO: Note created successfully
+[2025-04-14T10:32:13.822Z] INFO: Note created successfully
+[2025-04-14T10:32:13.837Z] INFO: All notes fetched successfully
+[2025-04-14T10:32:13.850Z] INFO: Note created successfully
+[2025-04-14T10:32:13.864Z] INFO: Note fetched successfully
+[2025-04-14T10:32:13.882Z] INFO: Note created successfully
+[2025-04-14T10:32:13.893Z] INFO: Note deleted successfully
+[2025-04-14T10:32:13.916Z] INFO: Note created successfully
+[2025-04-14T10:32:13.939Z] INFO: Note updated successfully
+[2025-04-14T10:33:34.188Z] INFO: Database connected successfully
+[2025-04-14T10:33:34.385Z] INFO: User registered successfully
+[2025-04-14T10:33:34.495Z] INFO: User registered successfully
+[2025-04-14T10:33:34.597Z] INFO: User logged in successfully
+[2025-04-14T10:34:02.563Z] INFO: Database connected successfully
+[2025-04-14T10:34:02.707Z] INFO: User registered successfully
+[2025-04-14T10:34:02.801Z] INFO: User registered successfully
+[2025-04-14T10:34:02.897Z] INFO: User logged in successfully
+[2025-04-14T10:34:03.001Z] INFO: User registered successfully
+[2025-04-14T10:34:03.102Z] INFO: User logged in successfully
+[2025-04-14T10:34:03.123Z] INFO: User fetched successfully
+[2025-04-14T10:34:03.218Z] INFO: User registered successfully
+[2025-04-14T10:34:03.302Z] INFO: User logged in successfully
+[2025-04-14T10:34:03.389Z] INFO: User registered successfully
+[2025-04-14T10:34:03.479Z] INFO: User logged in successfully
+[2025-04-14T10:34:03.495Z] INFO: User deleted successfully
+[2025-04-14T10:35:31.263Z] INFO: Database connected successfully
+[2025-04-14T10:35:33.990Z] INFO: User registered successfully
+[2025-04-14T10:35:43.510Z] INFO: User registered successfully
+[2025-04-14T10:35:43.519Z] INFO: User registered successfully
+[2025-04-14T10:35:53.882Z] ERROR: User does not exist
+[2025-04-14T10:35:53.922Z] ERROR: User does not exist
+[2025-04-14T10:37:30.788Z] INFO: Database connected successfully
+[2025-04-14T10:37:36.591Z] INFO: User registered successfully
+[2025-04-14T10:37:36.607Z] INFO: User registered successfully
+[2025-04-14T10:40:27.611Z] INFO: Database connected successfully
+[2025-04-14T10:40:37.053Z] INFO: User registered successfully
+[2025-04-14T10:40:37.082Z] INFO: User registered successfully
+[2025-04-14T10:40:58.903Z] INFO: User logged in successfully
+[2025-04-14T10:40:58.968Z] ERROR: User does not exist
+[2025-04-14T10:40:59.042Z] INFO: User registered successfully
+[2025-04-14T10:40:59.095Z] INFO: User registered successfully
+[2025-04-14T10:41:11.448Z] ERROR: User does not exist
+[2025-04-14T10:41:27.420Z] ERROR: User registration failed
+[2025-04-14T10:41:27.434Z] ERROR: User does not exist
+[2025-04-14T10:43:06.216Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:43:06.249Z] INFO: Database connected successfully
+[2025-04-14T10:43:30.859Z] INFO: Database connected successfully
+[2025-04-14T10:43:35.265Z] INFO: User registered successfully
+[2025-04-14T10:43:35.440Z] INFO: User registered successfully
+[2025-04-14T10:43:38.080Z] INFO: User logged in successfully
+[2025-04-14T10:43:38.128Z] INFO: User registered successfully
+[2025-04-14T10:43:39.462Z] INFO: User logged in successfully
+[2025-04-14T10:43:39.516Z] INFO: User fetched successfully
+[2025-04-14T10:43:39.674Z] INFO: User registered successfully
+[2025-04-14T10:43:40.724Z] INFO: User logged in successfully
+[2025-04-14T10:43:40.878Z] INFO: User registered successfully
+[2025-04-14T10:43:41.997Z] INFO: User logged in successfully
+[2025-04-14T10:43:42.059Z] INFO: User deleted successfully
+[2025-04-14T10:44:16.723Z] INFO: Database connected successfully
+[2025-04-14T10:44:16.887Z] INFO: User registered successfully
+[2025-04-14T10:44:16.988Z] INFO: User registered successfully
+[2025-04-14T10:44:17.082Z] INFO: User logged in successfully
+[2025-04-14T10:44:17.195Z] INFO: User registered successfully
+[2025-04-14T10:44:17.284Z] INFO: User logged in successfully
+[2025-04-14T10:44:17.306Z] INFO: User fetched successfully
+[2025-04-14T10:44:17.421Z] INFO: User registered successfully
+[2025-04-14T10:44:17.525Z] INFO: User logged in successfully
+[2025-04-14T10:44:17.618Z] INFO: User registered successfully
+[2025-04-14T10:44:17.714Z] INFO: User logged in successfully
+[2025-04-14T10:44:17.724Z] INFO: User deleted successfully
+[2025-04-14T10:45:17.438Z] INFO: Database connected successfully
+[2025-04-14T10:45:21.746Z] INFO: User registered successfully
+[2025-04-14T10:45:21.876Z] INFO: User registered successfully
+[2025-04-14T10:45:25.662Z] INFO: User logged in successfully
+[2025-04-14T10:45:30.522Z] INFO: User registered successfully
+[2025-04-14T10:45:43.740Z] INFO: User logged in successfully
+[2025-04-14T10:45:43.807Z] ERROR: User does not exist
+[2025-04-14T10:45:43.850Z] INFO: User registered successfully
+[2025-04-14T10:45:46.254Z] INFO: User logged in successfully
+[2025-04-14T10:45:46.442Z] INFO: User registered successfully
+[2025-04-14T10:45:47.820Z] INFO: User logged in successfully
+[2025-04-14T10:45:47.885Z] INFO: User deleted successfully
+[2025-04-14T10:49:18.390Z] INFO: Database connected successfully
+[2025-04-14T10:49:24.811Z] INFO: User registered successfully
+[2025-04-14T10:49:24.830Z] INFO: User registered successfully
+[2025-04-14T10:50:08.513Z] INFO: User logged in successfully
+[2025-04-14T10:50:08.560Z] INFO: User registered successfully
+[2025-04-14T10:50:08.600Z] ERROR: User does not exist
+[2025-04-14T10:50:08.643Z] INFO: User registered successfully
+[2025-04-14T10:51:14.525Z] INFO: User logged in successfully
+[2025-04-14T10:52:11.378Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:52:11.406Z] INFO: Database connected successfully
+[2025-04-14T10:52:15.017Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:52:15.054Z] INFO: Database connected successfully
+[2025-04-14T10:52:19.162Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:52:19.206Z] INFO: Database connected successfully
+[2025-04-14T10:52:23.991Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:52:24.017Z] INFO: Database connected successfully
+[2025-04-14T10:52:33.016Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:52:33.049Z] INFO: Database connected successfully
+[2025-04-14T10:52:40.225Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:52:40.272Z] INFO: Database connected successfully
+[2025-04-14T10:52:45.126Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T10:52:45.171Z] INFO: Database connected successfully
+[2025-04-14T10:53:01.891Z] INFO: Database connected successfully
+[2025-04-14T10:55:09.343Z] INFO: Database connected successfully
+[2025-04-14T10:56:37.643Z] INFO: User registered successfully
+[2025-04-14T10:56:37.659Z] INFO: User registered successfully
+[2025-04-14T10:56:40.693Z] INFO: User registered successfully
+[2025-04-14T10:57:31.017Z] ERROR: User registration failed
+[2025-04-14T11:04:40.748Z] INFO: Database connected successfully
+[2025-04-14T11:04:40.905Z] INFO: User registered successfully
+[2025-04-14T11:04:41.003Z] INFO: User logged in successfully
+[2025-04-14T11:04:41.091Z] INFO: User registered successfully
+[2025-04-14T11:04:41.106Z] INFO: All users fetched successfully
+[2025-04-14T11:04:41.123Z] INFO: User fetched successfully
+[2025-04-14T11:04:41.142Z] INFO: User updated successfully
+[2025-04-14T11:04:41.157Z] INFO: User deleted successfully
+[2025-04-14T11:05:32.801Z] INFO: Database connected successfully
+[2025-04-14T11:05:32.818Z] INFO: Database connected successfully
+[2025-04-14T11:05:32.887Z] INFO: Database connected successfully
+[2025-04-14T11:05:33.000Z] INFO: User registered successfully
+[2025-04-14T11:05:33.040Z] INFO: User registered successfully
+[2025-04-14T11:05:33.100Z] INFO: User registered successfully
+[2025-04-14T11:05:33.128Z] INFO: User logged in successfully
+[2025-04-14T11:05:33.180Z] INFO: User registered successfully
+[2025-04-14T11:05:33.208Z] INFO: User logged in successfully
+[2025-04-14T11:05:33.233Z] INFO: User registered successfully
+[2025-04-14T11:05:33.238Z] INFO: Note created successfully
+[2025-04-14T11:05:33.274Z] INFO: Note created successfully
+[2025-04-14T11:05:33.252Z] ERROR: User does not exist
+[2025-04-14T11:05:33.292Z] INFO: Note created successfully
+[2025-04-14T11:05:33.298Z] ERROR: User does not exist
+[2025-04-14T11:05:33.306Z] INFO: User logged in successfully
+[2025-04-14T11:05:33.308Z] INFO: All notes fetched successfully
+[2025-04-14T11:05:33.315Z] ERROR: User does not exist
+[2025-04-14T11:05:33.334Z] ERROR: User does not exist
+[2025-04-14T11:05:33.339Z] ERROR: User does not exist
+[2025-04-14T11:05:33.367Z] ERROR: User does not exist
+[2025-04-14T11:05:33.404Z] ERROR: User does not exist
+[2025-04-14T11:06:58.433Z] INFO: Database connected successfully
+[2025-04-14T11:06:58.444Z] INFO: Database connected successfully
+[2025-04-14T11:06:58.673Z] INFO: User registered successfully
+[2025-04-14T11:06:58.689Z] INFO: User registered successfully
+[2025-04-14T11:06:58.699Z] INFO: Database connected successfully
+[2025-04-14T11:06:58.712Z] ERROR: User does not exist
+[2025-04-14T11:06:58.795Z] INFO: User registered successfully
+[2025-04-14T11:06:58.923Z] INFO: User logged in successfully
+[2025-04-14T11:06:58.934Z] INFO: User registered successfully
+[2025-04-14T11:06:58.987Z] ERROR: User does not exist
+[2025-04-14T11:07:58.481Z] INFO: Database connected successfully
+[2025-04-14T11:07:58.606Z] INFO: Database connected successfully
+[2025-04-14T11:07:58.659Z] INFO: Database connected successfully
+[2025-04-14T11:07:58.711Z] INFO: User registered successfully
+[2025-04-14T11:07:58.743Z] ERROR: User does not exist
+[2025-04-14T11:07:58.837Z] INFO: User registered successfully
+[2025-04-14T11:07:58.931Z] INFO: User registered successfully
+[2025-04-14T11:07:58.956Z] INFO: User logged in successfully
+[2025-04-14T11:07:59.049Z] INFO: User registered successfully
+[2025-04-14T11:07:59.069Z] INFO: User registered successfully
+[2025-04-14T11:07:59.115Z] ERROR: User does not exist
+[2025-04-14T11:07:59.141Z] ERROR: User does not exist
+[2025-04-14T11:07:59.154Z] ERROR: User does not exist
+[2025-04-14T11:07:59.162Z] INFO: User logged in successfully
+[2025-04-14T11:07:59.165Z] ERROR: User does not exist
+[2025-04-14T11:08:51.152Z] INFO: Database connected successfully
+[2025-04-14T11:08:51.238Z] INFO: Database connected successfully
+[2025-04-14T11:08:51.307Z] INFO: Database connected successfully
+[2025-04-14T11:08:51.417Z] INFO: User registered successfully
+[2025-04-14T11:08:51.521Z] INFO: User registered successfully
+[2025-04-14T11:08:51.536Z] INFO: User registered successfully
+[2025-04-14T11:08:51.543Z] INFO: User registered successfully
+[2025-04-14T11:08:51.646Z] INFO: User logged in successfully
+[2025-04-14T11:08:51.662Z] INFO: User logged in successfully
+[2025-04-14T11:08:51.671Z] INFO: User logged in successfully
+[2025-04-14T11:08:51.673Z] INFO: Note created successfully
+[2025-04-14T11:08:51.698Z] ERROR: User does not exist
+[2025-04-14T11:08:51.713Z] ERROR: User does not exist
+[2025-04-14T11:08:51.730Z] ERROR: User does not exist
+[2025-04-14T11:08:51.748Z] ERROR: User does not exist
+[2025-04-14T11:08:51.763Z] ERROR: User does not exist
+[2025-04-14T11:08:51.779Z] ERROR: User does not exist
+[2025-04-14T11:08:51.846Z] INFO: User registered successfully
+[2025-04-14T11:08:51.874Z] ERROR: User does not exist
+[2025-04-14T11:08:51.921Z] ERROR: User does not exist
+[2025-04-14T11:08:51.954Z] ERROR: User does not exist
+[2025-04-14T11:08:51.966Z] ERROR: User does not exist
+[2025-04-14T11:09:52.829Z] INFO: Database connected successfully
+[2025-04-14T11:09:52.863Z] INFO: Database connected successfully
+[2025-04-14T11:09:53.147Z] INFO: Database connected successfully
+[2025-04-14T11:09:53.164Z] INFO: User registered successfully
+[2025-04-14T11:09:53.202Z] INFO: User registered successfully
+[2025-04-14T11:09:53.293Z] INFO: User logged in successfully
+[2025-04-14T11:09:53.315Z] INFO: User logged in successfully
+[2025-04-14T11:09:53.343Z] INFO: Note created successfully
+[2025-04-14T11:09:53.366Z] INFO: Note created successfully
+[2025-04-14T11:09:53.368Z] INFO: User registered successfully
+[2025-04-14T11:09:53.387Z] INFO: Note created successfully
+[2025-04-14T11:09:53.402Z] ERROR: User does not exist
+[2025-04-14T11:09:53.406Z] INFO: User registered successfully
+[2025-04-14T11:09:53.422Z] ERROR: User does not exist
+[2025-04-14T11:09:53.439Z] ERROR: User does not exist
+[2025-04-14T11:09:53.438Z] ERROR: User does not exist
+[2025-04-14T11:09:53.465Z] ERROR: User does not exist
+[2025-04-14T11:09:53.475Z] ERROR: User does not exist
+[2025-04-14T11:09:53.520Z] ERROR: User does not exist
+[2025-04-14T11:09:53.534Z] INFO: User registered successfully
+[2025-04-14T11:09:53.544Z] ERROR: User does not exist
+[2025-04-14T11:09:53.651Z] INFO: User logged in successfully
+[2025-04-14T11:14:08.723Z] INFO: Database connected successfully
+[2025-04-14T11:14:08.911Z] INFO: User registered successfully
+[2025-04-14T11:14:08.981Z] INFO: Database connected successfully
+[2025-04-14T11:14:09.017Z] INFO: User logged in successfully
+[2025-04-14T11:14:09.117Z] INFO: User registered successfully
+[2025-04-14T11:14:09.131Z] ERROR: User does not exist
+[2025-04-14T11:14:09.152Z] INFO: User registered successfully
+[2025-04-14T11:14:09.158Z] ERROR: User does not exist
+[2025-04-14T11:14:09.170Z] ERROR: User does not exist
+[2025-04-14T11:14:09.182Z] ERROR: User does not exist
+[2025-04-14T11:14:09.251Z] INFO: User logged in successfully
+[2025-04-14T11:14:09.302Z] INFO: Note created successfully
+[2025-04-14T11:14:09.348Z] INFO: Note created successfully
+[2025-04-14T11:14:09.374Z] INFO: Note created successfully
+[2025-04-14T11:14:09.400Z] INFO: All notes fetched successfully
+[2025-04-14T11:14:09.429Z] INFO: Note created successfully
+[2025-04-14T11:14:09.461Z] INFO: Note fetched successfully
+[2025-04-14T11:14:09.487Z] INFO: Note created successfully
+[2025-04-14T11:14:09.508Z] INFO: Note deleted successfully
+[2025-04-14T11:14:09.534Z] INFO: Note created successfully
+[2025-04-14T11:14:09.563Z] INFO: Note updated successfully
+[2025-04-14T11:14:09.814Z] INFO: Database connected successfully
+[2025-04-14T11:14:09.936Z] INFO: User registered successfully
+[2025-04-14T11:14:10.025Z] INFO: User registered successfully
+[2025-04-14T11:14:10.113Z] INFO: User logged in successfully
+[2025-04-14T11:14:45.458Z] INFO: Database connected successfully
+[2025-04-14T11:14:45.547Z] INFO: Database connected successfully
+[2025-04-14T11:14:45.713Z] INFO: User registered successfully
+[2025-04-14T11:14:45.759Z] INFO: User registered successfully
+[2025-04-14T11:14:45.813Z] INFO: User logged in successfully
+[2025-04-14T11:14:45.857Z] INFO: User logged in successfully
+[2025-04-14T11:14:45.882Z] INFO: Note created successfully
+[2025-04-14T11:14:45.902Z] INFO: Note created successfully
+[2025-04-14T11:14:45.910Z] INFO: User registered successfully
+[2025-04-14T11:14:45.935Z] INFO: Note created successfully
+[2025-04-14T11:14:45.939Z] INFO: All users fetched successfully
+[2025-04-14T11:14:45.964Z] INFO: All notes fetched successfully
+[2025-04-14T11:14:45.975Z] INFO: User fetched successfully
+[2025-04-14T11:14:45.985Z] INFO: Note created successfully
+[2025-04-14T11:14:46.004Z] INFO: User updated successfully
+[2025-04-14T11:14:46.010Z] INFO: Note fetched successfully
+[2025-04-14T11:14:46.044Z] INFO: User deleted successfully
+[2025-04-14T11:14:46.046Z] INFO: Note created successfully
+[2025-04-14T11:14:46.082Z] INFO: Note deleted successfully
+[2025-04-14T11:14:46.100Z] INFO: Note created successfully
+[2025-04-14T11:14:46.125Z] INFO: Note updated successfully
+[2025-04-14T11:14:57.592Z] INFO: Database connected successfully
+[2025-04-14T11:14:57.635Z] INFO: Database connected successfully
+[2025-04-14T11:14:57.847Z] INFO: User registered successfully
+[2025-04-14T11:14:57.862Z] INFO: User registered successfully
+[2025-04-14T11:14:57.945Z] INFO: User logged in successfully
+[2025-04-14T11:14:57.962Z] INFO: User logged in successfully
+[2025-04-14T11:14:57.968Z] INFO: Note created successfully
+[2025-04-14T11:14:57.992Z] INFO: Note created successfully
+[2025-04-14T11:14:58.007Z] INFO: Note created successfully
+[2025-04-14T11:14:58.019Z] INFO: All notes fetched successfully
+[2025-04-14T11:14:58.035Z] INFO: Note created successfully
+[2025-04-14T11:14:58.048Z] INFO: Note fetched successfully
+[2025-04-14T11:14:58.064Z] INFO: User registered successfully
+[2025-04-14T11:14:58.067Z] INFO: Note created successfully
+[2025-04-14T11:14:58.092Z] INFO: Note deleted successfully
+[2025-04-14T11:14:58.095Z] INFO: All users fetched successfully
+[2025-04-14T11:14:58.113Z] INFO: Note created successfully
+[2025-04-14T11:14:58.131Z] INFO: User fetched successfully
+[2025-04-14T11:14:58.140Z] INFO: Note updated successfully
+[2025-04-14T11:14:58.156Z] ERROR: User does not exist
+[2025-04-14T11:14:58.182Z] ERROR: User does not exist
+[2025-04-14T11:14:58.787Z] INFO: Database connected successfully
+[2025-04-14T11:14:58.895Z] INFO: User registered successfully
+[2025-04-14T11:14:58.978Z] INFO: User registered successfully
+[2025-04-14T11:14:59.062Z] INFO: User logged in successfully
+[2025-04-14T11:15:34.330Z] INFO: Database connected successfully
+[2025-04-14T11:15:34.467Z] INFO: Database connected successfully
+[2025-04-14T11:15:34.637Z] INFO: User registered successfully
+[2025-04-14T11:15:34.765Z] INFO: User registered successfully
+[2025-04-14T11:15:34.827Z] INFO: User logged in successfully
+[2025-04-14T11:15:34.906Z] INFO: User logged in successfully
+[2025-04-14T11:15:34.936Z] INFO: Note created successfully
+[2025-04-14T11:15:34.972Z] INFO: Note created successfully
+[2025-04-14T11:15:34.973Z] INFO: User registered successfully
+[2025-04-14T11:15:34.997Z] INFO: Note created successfully
+[2025-04-14T11:15:35.028Z] INFO: All users fetched successfully
+[2025-04-14T11:15:35.046Z] INFO: All notes fetched successfully
+[2025-04-14T11:15:35.097Z] INFO: Note created successfully
+[2025-04-14T11:15:35.121Z] INFO: User fetched successfully
+[2025-04-14T11:15:35.139Z] INFO: Note fetched successfully
+[2025-04-14T11:15:35.179Z] INFO: Note created successfully
+[2025-04-14T11:15:35.186Z] INFO: User updated successfully
+[2025-04-14T11:15:35.224Z] INFO: Note deleted successfully
+[2025-04-14T11:15:35.232Z] INFO: User deleted successfully
+[2025-04-14T11:15:35.249Z] INFO: Note created successfully
+[2025-04-14T11:15:35.294Z] INFO: Note updated successfully
+[2025-04-14T11:15:36.405Z] INFO: Database connected successfully
+[2025-04-14T11:15:36.529Z] INFO: User registered successfully
+[2025-04-14T11:15:36.658Z] INFO: User registered successfully
+[2025-04-14T11:15:36.774Z] INFO: User logged in successfully
+[2025-04-14T11:15:56.293Z] INFO: Database connected successfully
+[2025-04-14T11:15:56.365Z] INFO: Database connected successfully
+[2025-04-14T11:15:56.471Z] INFO: User registered successfully
+[2025-04-14T11:15:56.557Z] INFO: User registered successfully
+[2025-04-14T11:15:56.573Z] INFO: User logged in successfully
+[2025-04-14T11:15:56.624Z] INFO: Note created successfully
+[2025-04-14T11:15:56.661Z] INFO: Note created successfully
+[2025-04-14T11:15:56.686Z] INFO: User logged in successfully
+[2025-04-14T11:15:56.695Z] INFO: Note created successfully
+[2025-04-14T11:15:56.741Z] INFO: All notes fetched successfully
+[2025-04-14T11:15:56.776Z] INFO: Note created successfully
+[2025-04-14T11:15:56.811Z] INFO: Note fetched successfully
+[2025-04-14T11:15:56.814Z] INFO: User registered successfully
+[2025-04-14T11:15:56.856Z] INFO: Note created successfully
+[2025-04-14T11:15:56.869Z] INFO: All users fetched successfully
+[2025-04-14T11:15:56.893Z] INFO: Note deleted successfully
+[2025-04-14T11:15:56.932Z] INFO: Note created successfully
+[2025-04-14T11:15:56.945Z] INFO: User fetched successfully
+[2025-04-14T11:15:56.980Z] INFO: Note updated successfully
+[2025-04-14T11:15:57.030Z] ERROR: Failed to update user
+[2025-04-14T11:15:57.078Z] ERROR: User does not exist
+[2025-04-14T11:15:57.854Z] INFO: Database connected successfully
+[2025-04-14T11:15:57.958Z] INFO: User registered successfully
+[2025-04-14T11:15:58.046Z] INFO: User registered successfully
+[2025-04-14T11:15:58.138Z] INFO: User logged in successfully
+[2025-04-14T11:16:09.596Z] INFO: Database connected successfully
+[2025-04-14T11:16:09.642Z] INFO: Database connected successfully
+[2025-04-14T11:16:09.643Z] INFO: Database connected successfully
+[2025-04-14T11:16:09.944Z] INFO: User registered successfully
+[2025-04-14T11:16:09.946Z] INFO: User registered successfully
+[2025-04-14T11:16:10.056Z] INFO: User registered successfully
+[2025-04-14T11:16:10.097Z] INFO: User logged in successfully
+[2025-04-14T11:16:10.101Z] INFO: User logged in successfully
+[2025-04-14T11:16:10.189Z] ERROR: User does not exist
+[2025-04-14T11:16:10.255Z] ERROR: User does not exist
+[2025-04-14T11:16:10.277Z] INFO: User registered successfully
+[2025-04-14T11:16:10.288Z] ERROR: User does not exist
+[2025-04-14T11:16:10.313Z] INFO: User registered successfully
+[2025-04-14T11:16:10.327Z] ERROR: User does not exist
+[2025-04-14T11:16:10.361Z] ERROR: User does not exist
+[2025-04-14T11:16:10.384Z] ERROR: User does not exist
+[2025-04-14T11:16:10.386Z] ERROR: User does not exist
+[2025-04-14T11:16:10.411Z] ERROR: User does not exist
+[2025-04-14T11:16:10.458Z] ERROR: User does not exist
+[2025-04-14T11:16:10.493Z] ERROR: User does not exist
+[2025-04-14T11:16:10.527Z] INFO: User logged in successfully
+[2025-04-14T11:16:10.542Z] ERROR: User does not exist
+[2025-04-14T11:16:17.077Z] INFO: Database connected successfully
+[2025-04-14T11:16:17.146Z] INFO: Database connected successfully
+[2025-04-14T11:16:17.234Z] INFO: Database connected successfully
+[2025-04-14T11:16:17.578Z] INFO: User registered successfully
+[2025-04-14T11:16:17.592Z] INFO: User registered successfully
+[2025-04-14T11:16:17.686Z] INFO: User registered successfully
+[2025-04-14T11:16:17.754Z] INFO: User logged in successfully
+[2025-04-14T11:16:17.806Z] ERROR: User does not exist
+[2025-04-14T11:16:17.811Z] INFO: User registered successfully
+[2025-04-14T11:16:17.847Z] ERROR: User does not exist
+[2025-04-14T11:16:17.860Z] INFO: User logged in successfully
+[2025-04-14T11:16:17.880Z] ERROR: User does not exist
+[2025-04-14T11:16:17.917Z] ERROR: User does not exist
+[2025-04-14T11:16:17.954Z] ERROR: User does not exist
+[2025-04-14T11:16:17.986Z] ERROR: User does not exist
+[2025-04-14T11:16:17.988Z] INFO: User logged in successfully
+[2025-04-14T11:16:18.029Z] ERROR: User does not exist
+[2025-04-14T11:16:18.028Z] INFO: User registered successfully
+[2025-04-14T11:16:18.085Z] ERROR: User does not exist
+[2025-04-14T11:16:18.151Z] ERROR: User does not exist
+[2025-04-14T11:16:18.179Z] ERROR: User does not exist
+[2025-04-14T11:16:18.209Z] ERROR: User does not exist
+[2025-04-14T11:17:44.257Z] INFO: Database connected successfully
+[2025-04-14T11:17:44.460Z] INFO: User registered successfully
+[2025-04-14T11:17:44.568Z] INFO: User logged in successfully
+[2025-04-14T11:17:44.603Z] INFO: Note created successfully
+[2025-04-14T11:17:44.652Z] INFO: Note created successfully
+[2025-04-14T11:17:44.686Z] INFO: Note created successfully
+[2025-04-14T11:17:44.724Z] INFO: All notes fetched successfully
+[2025-04-14T11:17:44.789Z] INFO: Note created successfully
+[2025-04-14T11:17:44.834Z] INFO: Note fetched successfully
+[2025-04-14T11:17:44.888Z] INFO: Note created successfully
+[2025-04-14T11:17:44.937Z] INFO: Note deleted successfully
+[2025-04-14T11:17:44.983Z] INFO: Note created successfully
+[2025-04-14T11:17:45.033Z] INFO: Note updated successfully
+[2025-04-14T11:18:38.048Z] INFO: Database connected successfully
+[2025-04-14T11:18:38.247Z] INFO: User registered successfully
+[2025-04-14T11:18:38.363Z] INFO: User logged in successfully
+[2025-04-14T11:18:38.464Z] INFO: User registered successfully
+[2025-04-14T11:18:38.499Z] INFO: All users fetched successfully
+[2025-04-14T11:18:38.549Z] INFO: User fetched successfully
+[2025-04-14T11:18:38.604Z] INFO: User updated successfully
+[2025-04-14T11:18:38.661Z] INFO: User deleted successfully
+[2025-04-14T11:19:04.347Z] INFO: Database connected successfully
+[2025-04-14T11:19:04.592Z] INFO: User registered successfully
+[2025-04-14T11:19:04.737Z] INFO: User registered successfully
+[2025-04-14T11:19:04.867Z] INFO: User logged in successfully
+[2025-04-14T11:19:29.535Z] INFO: Database connected successfully
+[2025-04-14T11:19:29.573Z] INFO: Database connected successfully
+[2025-04-14T11:19:29.849Z] INFO: User registered successfully
+[2025-04-14T11:19:29.935Z] INFO: User registered successfully
+[2025-04-14T11:19:30.055Z] INFO: User registered successfully
+[2025-04-14T11:19:30.120Z] INFO: User logged in successfully
+[2025-04-14T11:19:30.171Z] INFO: Note created successfully
+[2025-04-14T11:19:30.206Z] INFO: Note created successfully
+[2025-04-14T11:19:30.228Z] INFO: User logged in successfully
+[2025-04-14T11:19:30.247Z] INFO: Note created successfully
+[2025-04-14T11:19:30.304Z] ERROR: User does not exist
+[2025-04-14T11:19:30.348Z] ERROR: User does not exist
+[2025-04-14T11:19:30.395Z] ERROR: User does not exist
+[2025-04-14T11:19:30.431Z] ERROR: User does not exist
+[2025-04-14T11:19:52.359Z] INFO: Database connected successfully
+[2025-04-14T11:19:52.543Z] INFO: User registered successfully
+[2025-04-14T11:19:52.649Z] INFO: User logged in successfully
+[2025-04-14T11:19:52.686Z] INFO: Note created successfully
+[2025-04-14T11:19:52.727Z] INFO: Note created successfully
+[2025-04-14T11:19:52.760Z] INFO: Note created successfully
+[2025-04-14T11:19:52.800Z] INFO: All notes fetched successfully
+[2025-04-14T11:19:52.848Z] INFO: Note created successfully
+[2025-04-14T11:19:52.885Z] INFO: Note fetched successfully
+[2025-04-14T11:19:52.927Z] INFO: Note created successfully
+[2025-04-14T11:19:52.964Z] INFO: Note deleted successfully
+[2025-04-14T11:19:52.995Z] INFO: Note created successfully
+[2025-04-14T11:19:53.035Z] INFO: Note updated successfully
+[2025-04-14T11:21:17.435Z] INFO: Database connected successfully
+[2025-04-14T11:21:17.618Z] INFO: User registered successfully
+[2025-04-14T11:21:17.725Z] INFO: User logged in successfully
+[2025-04-14T11:21:17.754Z] INFO: Note created successfully
+[2025-04-14T11:21:17.793Z] INFO: Note created successfully
+[2025-04-14T11:21:17.822Z] INFO: Note created successfully
+[2025-04-14T11:21:17.861Z] INFO: All notes fetched successfully
+[2025-04-14T11:21:17.892Z] INFO: Note created successfully
+[2025-04-14T11:21:17.925Z] INFO: Note fetched successfully
+[2025-04-14T11:21:17.962Z] INFO: Note created successfully
+[2025-04-14T11:21:18.016Z] INFO: Note deleted successfully
+[2025-04-14T11:21:18.048Z] INFO: Note created successfully
+[2025-04-14T11:21:18.073Z] ERROR: "_id" is required
+[2025-04-14T11:22:29.758Z] INFO: Database connected successfully
+[2025-04-14T11:22:42.257Z] ERROR: User registration failed
+[2025-04-14T11:23:11.281Z] INFO: Database connected successfully
+[2025-04-14T11:23:11.490Z] INFO: User registered successfully
+[2025-04-14T11:23:11.603Z] INFO: User logged in successfully
+[2025-04-14T11:23:11.670Z] INFO: Note created successfully
+[2025-04-14T11:23:11.716Z] INFO: Note created successfully
+[2025-04-14T11:23:11.752Z] INFO: Note created successfully
+[2025-04-14T11:23:11.792Z] INFO: All notes fetched successfully
+[2025-04-14T11:23:11.832Z] INFO: Note created successfully
+[2025-04-14T11:23:11.867Z] INFO: Note fetched successfully
+[2025-04-14T11:23:11.904Z] INFO: Note created successfully
+[2025-04-14T11:23:11.946Z] INFO: Note deleted successfully
+[2025-04-14T11:23:11.982Z] INFO: Note created successfully
+[2025-04-14T11:23:12.007Z] ERROR: "_id" is required
+[2025-04-14T11:23:40.973Z] INFO: Database connected successfully
+[2025-04-14T11:23:41.173Z] INFO: User registered successfully
+[2025-04-14T11:23:41.280Z] INFO: User logged in successfully
+[2025-04-14T11:23:41.321Z] INFO: Note created successfully
+[2025-04-14T11:23:41.363Z] INFO: Note created successfully
+[2025-04-14T11:23:41.395Z] INFO: Note created successfully
+[2025-04-14T11:23:41.426Z] INFO: All notes fetched successfully
+[2025-04-14T11:23:41.463Z] INFO: Note created successfully
+[2025-04-14T11:23:41.496Z] INFO: Note fetched successfully
+[2025-04-14T11:23:41.530Z] INFO: Note created successfully
+[2025-04-14T11:23:41.570Z] INFO: Note deleted successfully
+[2025-04-14T11:23:47.642Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T11:25:31.138Z] INFO: Database connected successfully
+[2025-04-14T11:25:31.344Z] INFO: User registered successfully
+[2025-04-14T11:25:31.455Z] INFO: User logged in successfully
+[2025-04-14T11:25:31.511Z] INFO: Note created successfully
+[2025-04-14T11:25:31.565Z] INFO: Note created successfully
+[2025-04-14T11:25:31.602Z] INFO: Note created successfully
+[2025-04-14T11:25:31.643Z] INFO: All notes fetched successfully
+[2025-04-14T11:25:31.679Z] INFO: Note created successfully
+[2025-04-14T11:25:31.715Z] INFO: Note fetched successfully
+[2025-04-14T11:25:31.760Z] INFO: Note created successfully
+[2025-04-14T11:25:31.801Z] INFO: Note deleted successfully
+[2025-04-14T11:25:54.026Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T11:26:42.072Z] INFO: Database connected successfully
+[2025-04-14T11:26:42.459Z] INFO: User registered successfully
+[2025-04-14T11:26:42.595Z] INFO: User logged in successfully
+[2025-04-14T11:26:42.674Z] INFO: Note created successfully
+[2025-04-14T11:26:42.735Z] INFO: Note created successfully
+[2025-04-14T11:26:42.791Z] INFO: Note created successfully
+[2025-04-14T11:26:42.853Z] INFO: All notes fetched successfully
+[2025-04-14T11:26:42.920Z] INFO: Note created successfully
+[2025-04-14T11:26:42.979Z] INFO: Note fetched successfully
+[2025-04-14T11:26:43.070Z] INFO: Note created successfully
+[2025-04-14T11:26:43.139Z] INFO: Note deleted successfully
+[2025-04-14T11:26:46.527Z] INFO: Note created successfully
+[2025-04-14T11:28:48.153Z] INFO: Database connected successfully
+[2025-04-14T11:28:48.409Z] INFO: User registered successfully
+[2025-04-14T11:28:48.524Z] INFO: User logged in successfully
+[2025-04-14T11:28:48.603Z] INFO: Note created successfully
+[2025-04-14T11:28:48.695Z] INFO: Note created successfully
+[2025-04-14T11:28:48.764Z] INFO: Note created successfully
+[2025-04-14T11:28:48.831Z] INFO: All notes fetched successfully
+[2025-04-14T11:28:48.894Z] INFO: Note created successfully
+[2025-04-14T11:28:48.952Z] INFO: Note fetched successfully
+[2025-04-14T11:28:49.043Z] INFO: Note created successfully
+[2025-04-14T11:28:49.093Z] INFO: Note deleted successfully
+[2025-04-14T11:29:08.142Z] ERROR: Unauthorized access Error: Client must be connected before running operations
+[2025-04-14T11:30:44.583Z] INFO: Database connected successfully
+[2025-04-14T11:30:44.945Z] INFO: User registered successfully
+[2025-04-14T11:30:45.073Z] INFO: User logged in successfully
+[2025-04-14T11:30:50.814Z] INFO: Note created successfully
+[2025-04-14T11:30:52.349Z] INFO: Note created successfully
+[2025-04-14T11:30:54.888Z] INFO: Note created successfully
+[2025-04-14T11:30:54.985Z] INFO: All notes fetched successfully
+[2025-04-14T11:30:56.615Z] INFO: Note created successfully
+[2025-04-14T11:30:56.706Z] INFO: Note fetched successfully
+[2025-04-14T11:30:58.073Z] INFO: Note created successfully
+[2025-04-14T11:30:58.142Z] INFO: Note deleted successfully
+[2025-04-14T11:33:25.093Z] INFO: Note created successfully
+[2025-04-14T11:35:22.899Z] INFO: Database connected successfully
+[2025-04-14T11:35:23.132Z] INFO: User registered successfully
+[2025-04-14T11:35:23.245Z] INFO: User logged in successfully
+[2025-04-14T11:35:31.455Z] INFO: Note created successfully
+[2025-04-14T11:35:52.010Z] INFO: Note created successfully
+[2025-04-14T11:35:52.061Z] INFO: Note created successfully
+[2025-04-14T11:35:52.096Z] INFO: Note created successfully
+[2025-04-14T11:35:52.140Z] INFO: Note fetched successfully
+[2025-04-14T11:35:52.218Z] INFO: All notes fetched successfully
+[2025-04-14T11:35:52.260Z] INFO: Note created successfully
+[2025-04-14T11:35:52.308Z] INFO: Note deleted successfully
+[2025-04-14T11:35:52.359Z] INFO: Note created successfully
+[2025-04-14T11:35:52.396Z] INFO: Note updated successfully
+[2025-04-14T11:36:12.741Z] INFO: Database connected successfully
+[2025-04-14T11:36:13.074Z] INFO: User registered successfully
+[2025-04-14T11:36:16.290Z] INFO: User logged in successfully
+[2025-04-14T11:36:18.248Z] INFO: Note created successfully
+[2025-04-14T11:36:20.751Z] INFO: Note created successfully
+[2025-04-14T11:36:24.563Z] INFO: Note created successfully
+[2025-04-14T11:36:26.869Z] INFO: Note created successfully
+[2025-04-14T11:36:27.850Z] INFO: All notes fetched successfully
+[2025-04-14T11:36:27.939Z] INFO: Note fetched successfully
+[2025-04-14T11:36:28.981Z] INFO: Note created successfully
+[2025-04-14T11:36:30.031Z] INFO: Note deleted successfully
+[2025-04-14T11:36:33.056Z] INFO: Note created successfully
+[2025-04-14T11:36:35.357Z] INFO: Note updated successfully
+[2025-04-14T11:37:45.274Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T11:37:45.302Z] INFO: Database connected successfully
+[2025-04-14T11:37:48.210Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T11:37:48.254Z] INFO: Database connected successfully
+[2025-04-14T11:38:00.372Z] INFO: Server Started at: http://localhost:4000
+[2025-04-14T11:38:00.416Z] INFO: Database connected successfully
+[2025-04-14T11:38:21.146Z] INFO: Database connected successfully
+[2025-04-14T11:38:21.337Z] INFO: User registered successfully
+[2025-04-14T11:38:21.438Z] INFO: User logged in successfully
+[2025-04-14T11:38:21.477Z] INFO: Note created successfully
+[2025-04-14T11:38:21.515Z] INFO: Note created successfully
+[2025-04-14T11:38:21.545Z] INFO: Note created successfully
+[2025-04-14T11:38:21.585Z] INFO: All notes fetched successfully
+[2025-04-14T11:38:21.611Z] INFO: Note created successfully
+[2025-04-14T11:38:21.642Z] INFO: Note fetched successfully
+[2025-04-14T11:38:21.680Z] INFO: Note created successfully
+[2025-04-14T11:38:21.716Z] INFO: Note deleted successfully
+[2025-04-14T11:38:21.765Z] INFO: Note created successfully
+[2025-04-14T11:38:21.797Z] INFO: Note updated successfully
+[2025-04-14T11:38:29.773Z] INFO: Database connected successfully
+[2025-04-14T11:38:29.983Z] INFO: User registered successfully
+[2025-04-14T11:38:30.088Z] INFO: User logged in successfully
+[2025-04-14T11:38:30.122Z] INFO: Note created successfully
+[2025-04-14T11:38:30.157Z] INFO: Note created successfully
+[2025-04-14T11:38:30.187Z] INFO: Note created successfully
+[2025-04-14T11:38:30.235Z] INFO: All notes fetched successfully
+[2025-04-14T11:38:30.281Z] INFO: Note created successfully
+[2025-04-14T11:38:30.322Z] INFO: Note fetched successfully
+[2025-04-14T11:38:30.366Z] INFO: Note created successfully
+[2025-04-14T11:38:30.405Z] INFO: Note deleted successfully
+[2025-04-14T11:38:30.441Z] INFO: Note created successfully
+[2025-04-14T11:38:30.486Z] INFO: Note updated successfully
+[2025-04-14T11:38:35.391Z] INFO: Database connected successfully
+[2025-04-14T11:38:35.588Z] INFO: User registered successfully
+[2025-04-14T11:38:35.687Z] INFO: User logged in successfully
+[2025-04-14T11:38:35.723Z] INFO: Note created successfully
+[2025-04-14T11:38:35.759Z] INFO: Note created successfully
+[2025-04-14T11:38:35.796Z] INFO: Note created successfully
+[2025-04-14T11:38:35.832Z] INFO: All notes fetched successfully
+[2025-04-14T11:38:35.868Z] INFO: Note created successfully
+[2025-04-14T11:38:35.909Z] INFO: Note fetched successfully
+[2025-04-14T11:38:35.954Z] INFO: Note created successfully
+[2025-04-14T11:38:36.003Z] INFO: Note deleted successfully
+[2025-04-14T11:38:36.031Z] INFO: Note created successfully
+[2025-04-14T11:38:36.074Z] INFO: Note updated successfully
+[2025-04-14T11:38:51.447Z] INFO: Database connected successfully
+[2025-04-14T11:38:51.567Z] INFO: Database connected successfully
+[2025-04-14T11:38:51.697Z] INFO: User registered successfully
+[2025-04-14T11:38:51.787Z] INFO: User registered successfully
+[2025-04-14T11:38:51.820Z] INFO: User logged in successfully
+[2025-04-14T11:38:51.902Z] INFO: User logged in successfully
+[2025-04-14T11:38:51.948Z] INFO: Note created successfully
+[2025-04-14T11:38:51.964Z] INFO: User registered successfully
+[2025-04-14T11:38:52.006Z] INFO: Note created successfully
+[2025-04-14T11:38:52.023Z] INFO: All users fetched successfully
+[2025-04-14T11:38:52.046Z] INFO: Note created successfully
+[2025-04-14T11:38:52.109Z] INFO: User fetched successfully
+[2025-04-14T11:38:52.112Z] INFO: All notes fetched successfully
+[2025-04-14T11:38:52.154Z] INFO: Note created successfully
+[2025-04-14T11:38:52.185Z] INFO: User updated successfully
+[2025-04-14T11:38:52.195Z] INFO: Note fetched successfully
+[2025-04-14T11:38:52.238Z] INFO: Note created successfully
+[2025-04-14T11:38:52.247Z] INFO: User deleted successfully
+[2025-04-14T11:38:52.278Z] INFO: Note deleted successfully
+[2025-04-14T11:38:52.330Z] INFO: Note created successfully
+[2025-04-14T11:38:52.366Z] INFO: Note updated successfully
+[2025-04-14T11:38:58.745Z] INFO: Database connected successfully
+[2025-04-14T11:38:58.815Z] INFO: Database connected successfully
+[2025-04-14T11:38:58.994Z] INFO: User registered successfully
+[2025-04-14T11:38:59.067Z] INFO: User registered successfully
+[2025-04-14T11:38:59.135Z] INFO: User logged in successfully
+[2025-04-14T11:38:59.181Z] INFO: Note created successfully
+[2025-04-14T11:38:59.187Z] INFO: User logged in successfully
+[2025-04-14T11:38:59.262Z] INFO: Note created successfully
+[2025-04-14T11:38:59.313Z] INFO: Note created successfully
+[2025-04-14T11:38:59.365Z] INFO: All notes fetched successfully
+[2025-04-14T11:38:59.396Z] INFO: User registered successfully
+[2025-04-14T11:38:59.405Z] INFO: Note created successfully
+[2025-04-14T11:38:59.455Z] INFO: All users fetched successfully
+[2025-04-14T11:38:59.456Z] INFO: Note fetched successfully
+[2025-04-14T11:38:59.536Z] INFO: Note created successfully
+[2025-04-14T11:38:59.568Z] INFO: User fetched successfully
+[2025-04-14T11:38:59.577Z] INFO: Note deleted successfully
+[2025-04-14T11:38:59.615Z] INFO: Note created successfully
+[2025-04-14T11:38:59.655Z] INFO: User updated successfully
+[2025-04-14T11:38:59.660Z] INFO: Note updated successfully
+[2025-04-14T11:38:59.754Z] ERROR: User does not exist
+[2025-04-14T11:39:26.686Z] INFO: Database connected successfully
+[2025-04-14T11:39:26.764Z] INFO: Database connected successfully
+[2025-04-14T11:39:27.048Z] INFO: User registered successfully
+[2025-04-14T11:39:27.100Z] INFO: User registered successfully
+[2025-04-14T11:39:27.166Z] INFO: User logged in successfully
+[2025-04-14T11:39:27.229Z] INFO: User logged in successfully
+[2025-04-14T11:39:27.287Z] INFO: Note created successfully
+[2025-04-14T11:39:27.301Z] INFO: User registered successfully
+[2025-04-14T11:39:27.349Z] INFO: Note created successfully
+[2025-04-14T11:39:27.366Z] INFO: All users fetched successfully
+[2025-04-14T11:39:27.393Z] INFO: Note created successfully
+[2025-04-14T11:39:27.439Z] INFO: All notes fetched successfully
+[2025-04-14T11:39:27.441Z] INFO: User fetched successfully
+[2025-04-14T11:39:27.499Z] INFO: User updated successfully
+[2025-04-14T11:39:27.528Z] INFO: Note created successfully
+[2025-04-14T11:39:27.572Z] INFO: User deleted successfully
+[2025-04-14T11:39:27.573Z] INFO: Note fetched successfully
+[2025-04-14T11:39:27.625Z] INFO: Note created successfully
+[2025-04-14T11:39:27.680Z] INFO: Note deleted successfully
+[2025-04-14T11:39:27.717Z] INFO: Note created successfully
+[2025-04-14T11:39:27.750Z] INFO: Note updated successfully
+[2025-04-14T11:39:35.493Z] INFO: Database connected successfully
+[2025-04-14T11:39:35.531Z] INFO: Database connected successfully
+[2025-04-14T11:39:35.744Z] INFO: User registered successfully
+[2025-04-14T11:39:35.751Z] INFO: User registered successfully
+[2025-04-14T11:39:35.862Z] INFO: User logged in successfully
+[2025-04-14T11:39:35.911Z] INFO: User logged in successfully
+[2025-04-14T11:39:35.977Z] INFO: Note created successfully
+[2025-04-14T11:39:36.005Z] INFO: User registered successfully
+[2025-04-14T11:39:36.034Z] INFO: Note created successfully
+[2025-04-14T11:39:36.059Z] INFO: All users fetched successfully
+[2025-04-14T11:39:36.090Z] INFO: Note created successfully
+[2025-04-14T11:39:36.134Z] INFO: All notes fetched successfully
+[2025-04-14T11:39:36.153Z] INFO: User fetched successfully
+[2025-04-14T11:39:36.182Z] INFO: Note created successfully
+[2025-04-14T11:39:36.224Z] INFO: Note fetched successfully
+[2025-04-14T11:39:36.223Z] INFO: User updated successfully
+[2025-04-14T11:39:36.272Z] INFO: User deleted successfully
+[2025-04-14T11:39:36.282Z] INFO: Note created successfully
+[2025-04-14T11:39:36.339Z] INFO: Note deleted successfully
+[2025-04-14T11:39:36.383Z] INFO: Note created successfully
+[2025-04-14T11:39:36.427Z] INFO: Note updated successfully
+[2025-04-14T11:39:51.765Z] INFO: Database connected successfully
+[2025-04-14T11:39:51.847Z] INFO: Database connected successfully
+[2025-04-14T11:39:51.875Z] INFO: Database connected successfully
+[2025-04-14T11:39:52.079Z] INFO: User registered successfully
+[2025-04-14T11:39:52.173Z] INFO: User registered successfully
+[2025-04-14T11:39:52.212Z] INFO: User registered successfully
+[2025-04-14T11:39:52.242Z] INFO: User registered successfully
+[2025-04-14T11:39:52.315Z] INFO: User logged in successfully
+[2025-04-14T11:39:52.368Z] INFO: User logged in successfully
+[2025-04-14T11:39:52.396Z] INFO: User logged in successfully
+[2025-04-14T11:39:52.439Z] ERROR: User does not exist
+[2025-04-14T11:39:52.459Z] INFO: User registered successfully
+[2025-04-14T11:39:52.544Z] ERROR: User does not exist
+[2025-04-14T11:39:52.544Z] ERROR: User does not exist
+[2025-04-14T11:39:52.579Z] ERROR: User does not exist
+[2025-04-14T11:39:52.605Z] ERROR: User does not exist
+[2025-04-14T11:39:52.616Z] ERROR: User does not exist
+[2025-04-14T11:39:52.637Z] ERROR: User does not exist
+[2025-04-14T11:39:52.657Z] ERROR: User does not exist
+[2025-04-14T11:39:52.679Z] ERROR: User does not exist
+[2025-04-14T11:39:52.688Z] ERROR: User does not exist
+[2025-04-14T11:39:52.732Z] ERROR: User does not exist
+[2025-04-14T11:40:01.916Z] INFO: Database connected successfully
+[2025-04-14T11:40:01.985Z] INFO: Database connected successfully
+[2025-04-14T11:40:02.147Z] INFO: Database connected successfully
+[2025-04-14T11:40:02.262Z] INFO: User registered successfully
+[2025-04-14T11:40:02.361Z] INFO: User registered successfully
+[2025-04-14T11:40:02.446Z] INFO: User logged in successfully
+[2025-04-14T11:40:02.447Z] INFO: User registered successfully
+[2025-04-14T11:40:02.537Z] ERROR: User does not exist
+[2025-04-14T11:40:02.593Z] INFO: User logged in successfully
+[2025-04-14T11:40:02.597Z] ERROR: User does not exist
+[2025-04-14T11:40:02.618Z] INFO: User registered successfully
+[2025-04-14T11:40:02.642Z] ERROR: User does not exist
+[2025-04-14T11:40:02.693Z] ERROR: User does not exist
+[2025-04-14T11:40:02.738Z] ERROR: User does not exist
+[2025-04-14T11:40:02.760Z] INFO: User logged in successfully
+[2025-04-14T11:40:02.779Z] ERROR: User does not exist
+[2025-04-14T11:40:02.784Z] INFO: User registered successfully
+[2025-04-14T11:40:02.825Z] ERROR: User does not exist
+[2025-04-14T11:40:02.840Z] ERROR: User does not exist
+[2025-04-14T11:40:02.882Z] ERROR: User does not exist
+[2025-04-14T11:40:02.919Z] ERROR: User does not exist
+[2025-04-14T11:40:02.948Z] ERROR: User does not exist
+[2025-04-14T11:40:10.585Z] INFO: Database connected successfully
+[2025-04-14T11:40:10.722Z] INFO: Database connected successfully
+[2025-04-14T11:40:10.723Z] INFO: Database connected successfully
+[2025-04-14T11:40:10.894Z] INFO: User registered successfully
+[2025-04-14T11:40:10.999Z] INFO: User registered successfully
+[2025-04-14T11:40:11.053Z] INFO: User registered successfully
+[2025-04-14T11:40:11.061Z] INFO: User logged in successfully
+[2025-04-14T11:40:11.151Z] INFO: User logged in successfully
+[2025-04-14T11:40:11.206Z] INFO: User registered successfully
+[2025-04-14T11:40:11.221Z] ERROR: User does not exist
+[2025-04-14T11:40:11.261Z] INFO: User registered successfully
+[2025-04-14T11:40:11.295Z] ERROR: User does not exist
+[2025-04-14T11:40:11.329Z] INFO: User logged in successfully
+[2025-04-14T11:40:11.329Z] ERROR: User does not exist
+[2025-04-14T11:40:11.334Z] ERROR: User does not exist
+[2025-04-14T11:40:11.385Z] ERROR: User does not exist
+[2025-04-14T11:40:11.409Z] ERROR: User does not exist
+[2025-04-14T11:40:11.424Z] ERROR: User does not exist
+[2025-04-14T11:40:11.468Z] ERROR: User does not exist
+[2025-04-14T11:40:11.496Z] ERROR: User does not exist
+[2025-04-14T11:40:11.515Z] ERROR: User does not exist
+[2025-04-14T11:40:11.579Z] ERROR: User does not exist
+[2025-04-14T11:40:23.197Z] INFO: Database connected successfully
+[2025-04-14T11:40:23.410Z] INFO: Database connected successfully
+[2025-04-14T11:40:23.489Z] INFO: User registered successfully
+[2025-04-14T11:40:23.611Z] INFO: User logged in successfully
+[2025-04-14T11:40:23.620Z] INFO: User registered successfully
+[2025-04-14T11:40:23.662Z] INFO: Note created successfully
+[2025-04-14T11:40:23.703Z] INFO: Note created successfully
+[2025-04-14T11:40:23.730Z] INFO: Note created successfully
+[2025-04-14T11:40:23.754Z] INFO: User logged in successfully
+[2025-04-14T11:40:23.776Z] INFO: All notes fetched successfully
+[2025-04-14T11:40:23.818Z] INFO: Note created successfully
+[2025-04-14T11:40:23.850Z] INFO: Note fetched successfully
+[2025-04-14T11:40:23.894Z] INFO: Note created successfully
+[2025-04-14T11:40:23.910Z] INFO: User registered successfully
+[2025-04-14T11:40:23.937Z] INFO: Note deleted successfully
+[2025-04-14T11:40:23.957Z] INFO: All users fetched successfully
+[2025-04-14T11:40:23.994Z] INFO: Note created successfully
+[2025-04-14T11:40:24.053Z] INFO: Note updated successfully
+[2025-04-14T11:40:24.062Z] INFO: User fetched successfully
+[2025-04-14T11:40:24.107Z] ERROR: User does not exist
+[2025-04-14T11:40:24.167Z] ERROR: User does not exist
+[2025-04-14T11:40:37.504Z] INFO: Database connected successfully
+[2025-04-14T11:40:37.608Z] INFO: Database connected successfully
+[2025-04-14T11:40:37.766Z] INFO: User registered successfully
+[2025-04-14T11:40:37.848Z] INFO: User registered successfully
+[2025-04-14T11:40:37.875Z] INFO: User logged in successfully
+[2025-04-14T11:40:37.966Z] INFO: User logged in successfully
+[2025-04-14T11:40:37.997Z] INFO: User registered successfully
+[2025-04-14T11:40:38.008Z] INFO: Note created successfully
+[2025-04-14T11:40:38.059Z] INFO: Note created successfully
+[2025-04-14T11:40:38.072Z] INFO: All users fetched successfully
+[2025-04-14T11:40:38.100Z] INFO: Note created successfully
+[2025-04-14T11:40:38.147Z] INFO: User fetched successfully
+[2025-04-14T11:40:38.169Z] INFO: All notes fetched successfully
+[2025-04-14T11:40:38.197Z] INFO: User updated successfully
+[2025-04-14T11:40:38.237Z] INFO: Note created successfully
+[2025-04-14T11:40:38.250Z] INFO: User deleted successfully
+[2025-04-14T11:40:38.314Z] INFO: Note fetched successfully
+[2025-04-14T11:40:38.354Z] INFO: Note created successfully
+[2025-04-14T11:40:38.388Z] INFO: Note deleted successfully
+[2025-04-14T11:40:38.425Z] INFO: Note created successfully
+[2025-04-14T11:40:38.470Z] INFO: Note updated successfully
+[2025-04-14T11:42:49.915Z] INFO: Database connected successfully
+[2025-04-14T11:42:50.008Z] INFO: Database connected successfully
+[2025-04-14T11:42:50.205Z] INFO: User registered successfully
+[2025-04-14T11:42:50.396Z] INFO: User logged in successfully
+[2025-04-14T11:42:50.461Z] INFO: Database connected successfully
+[2025-04-14T11:42:50.471Z] INFO: User registered successfully
+[2025-04-14T11:42:50.565Z] INFO: User registered successfully
+[2025-04-14T11:42:50.611Z] ERROR: User does not exist
+[2025-04-14T11:42:50.624Z] INFO: User logged in successfully
+[2025-04-14T11:42:50.663Z] ERROR: User does not exist
+[2025-04-14T11:42:50.681Z] ERROR: User does not exist
+[2025-04-14T11:42:50.702Z] ERROR: User does not exist
+[2025-04-14T11:42:50.734Z] ERROR: User does not exist
+[2025-04-14T11:42:50.738Z] ERROR: User does not exist
+[2025-04-14T11:42:50.790Z] INFO: User registered successfully
+[2025-04-14T11:42:50.818Z] ERROR: User does not exist
+[2025-04-14T11:42:50.874Z] ERROR: User does not exist
+[2025-04-14T11:42:50.925Z] ERROR: User does not exist
+[2025-04-14T11:42:50.949Z] INFO: User logged in successfully
+[2025-04-14T11:42:50.988Z] ERROR: User does not exist
+[2025-04-14T11:42:51.038Z] ERROR: User does not exist
+[2025-04-14T11:42:51.122Z] INFO: User registered successfully
+[2025-04-14T11:42:51.161Z] ERROR: User does not exist
+[2025-04-14T11:42:57.567Z] INFO: Database connected successfully
+[2025-04-14T11:42:57.578Z] INFO: Database connected successfully
+[2025-04-14T11:42:57.673Z] INFO: Database connected successfully
+[2025-04-14T11:42:57.880Z] INFO: User registered successfully
+[2025-04-14T11:42:57.912Z] INFO: User registered successfully
+[2025-04-14T11:42:57.955Z] INFO: User registered successfully
+[2025-04-14T11:42:58.028Z] INFO: User logged in successfully
+[2025-04-14T11:42:58.064Z] INFO: User logged in successfully
+[2025-04-14T11:42:58.124Z] INFO: User logged in successfully
+[2025-04-14T11:42:58.165Z] INFO: User registered successfully
+[2025-04-14T11:42:58.194Z] INFO: User registered successfully
+[2025-04-14T11:42:58.205Z] INFO: Note created successfully
+[2025-04-14T11:42:58.212Z] INFO: All users fetched successfully
+[2025-04-14T11:42:58.260Z] INFO: Note created successfully
+[2025-04-14T11:42:58.320Z] INFO: Note created successfully
+[2025-04-14T11:42:58.335Z] INFO: User fetched successfully
+[2025-04-14T11:42:58.355Z] INFO: All notes fetched successfully
+[2025-04-14T11:42:58.388Z] INFO: Note created successfully
+[2025-04-14T11:42:58.398Z] INFO: User updated successfully
+[2025-04-14T11:42:58.426Z] INFO: Note fetched successfully
+[2025-04-14T11:42:58.429Z] INFO: User logged in successfully
+[2025-04-14T11:42:58.458Z] ERROR: User does not exist
+[2025-04-14T11:42:58.467Z] ERROR: User does not exist
+[2025-04-14T11:42:58.511Z] ERROR: User does not exist
+[2025-04-14T11:43:43.510Z] INFO: Database connected successfully
+[2025-04-14T11:43:43.516Z] INFO: Database connected successfully
+[2025-04-14T11:43:43.601Z] INFO: Database connected successfully
+[2025-04-14T11:43:43.801Z] INFO: User registered successfully
+[2025-04-14T11:43:43.811Z] INFO: User registered successfully
+[2025-04-14T11:43:43.869Z] INFO: User registered successfully
+[2025-04-14T11:43:43.943Z] INFO: User logged in successfully
+[2025-04-14T11:43:43.969Z] INFO: User logged in successfully
+[2025-04-14T11:43:44.015Z] INFO: Note created successfully
+[2025-04-14T11:43:44.019Z] INFO: User logged in successfully
+[2025-04-14T11:43:44.062Z] INFO: Note created successfully
+[2025-04-14T11:43:44.093Z] INFO: Note created successfully
+[2025-04-14T11:43:44.117Z] INFO: User registered successfully
+[2025-04-14T11:43:44.156Z] INFO: All notes fetched successfully
+[2025-04-14T11:43:44.182Z] INFO: All users fetched successfully
+[2025-04-14T11:43:44.229Z] INFO: User registered successfully
+[2025-04-14T11:43:44.225Z] INFO: Note created successfully
+[2025-04-14T11:43:44.273Z] INFO: User fetched successfully
+[2025-04-14T11:43:44.300Z] INFO: Note fetched successfully
+[2025-04-14T11:43:44.348Z] INFO: User updated successfully
+[2025-04-14T11:43:44.382Z] INFO: User deleted successfully
+[2025-04-14T11:43:44.390Z] INFO: Note created successfully
+[2025-04-14T11:43:44.416Z] INFO: User logged in successfully
+[2025-04-14T11:43:44.460Z] ERROR: User does not exist
+[2025-04-14T11:43:44.520Z] ERROR: User does not exist
+[2025-04-14T11:44:03.179Z] INFO: Database connected successfully
+[2025-04-14T11:44:03.227Z] INFO: Database connected successfully
+[2025-04-14T11:44:03.291Z] INFO: Database connected successfully
+[2025-04-14T11:44:03.544Z] INFO: User registered successfully
+[2025-04-14T11:44:03.544Z] INFO: User registered successfully
+[2025-04-14T11:44:03.580Z] INFO: User registered successfully
+[2025-04-14T11:44:03.692Z] INFO: User logged in successfully
+[2025-04-14T11:44:03.694Z] INFO: User logged in successfully
+[2025-04-14T11:44:03.738Z] INFO: User logged in successfully
+[2025-04-14T11:44:03.760Z] INFO: Note created successfully
+[2025-04-14T11:44:03.811Z] INFO: Note created successfully
+[2025-04-14T11:44:03.828Z] INFO: User registered successfully
+[2025-04-14T11:44:03.846Z] INFO: Note created successfully
+[2025-04-14T11:44:03.895Z] INFO: User registered successfully
+[2025-04-14T11:44:03.898Z] INFO: All notes fetched successfully
+[2025-04-14T11:44:03.932Z] INFO: Note created successfully
+[2025-04-14T11:44:03.944Z] INFO: All users fetched successfully
+[2025-04-14T11:44:03.968Z] INFO: Note fetched successfully
+[2025-04-14T11:44:04.011Z] INFO: Note created successfully
+[2025-04-14T11:44:04.019Z] INFO: User logged in successfully
+[2025-04-14T11:44:04.044Z] ERROR: Failed to fetch user
+[2025-04-14T11:44:04.057Z] ERROR: User does not exist
+[2025-04-14T11:44:04.105Z] ERROR: User does not exist
+[2025-04-14T11:44:04.166Z] ERROR: User does not exist
+[2025-04-14T11:44:04.229Z] ERROR: User does not exist
+[2025-04-14T11:44:27.569Z] INFO: Database connected successfully
+[2025-04-14T11:44:27.616Z] INFO: Database connected successfully
+[2025-04-14T11:44:27.823Z] INFO: User registered successfully
+[2025-04-14T11:44:27.879Z] INFO: User registered successfully
+[2025-04-14T11:44:27.938Z] INFO: User logged in successfully
+[2025-04-14T11:44:28.016Z] INFO: User logged in successfully
+[2025-04-14T11:44:28.062Z] INFO: Note created successfully
+[2025-04-14T11:44:28.072Z] INFO: User registered successfully
+[2025-04-14T11:44:28.125Z] INFO: Note created successfully
+[2025-04-14T11:44:28.138Z] INFO: All users fetched successfully
+[2025-04-14T11:44:28.177Z] INFO: Note created successfully
+[2025-04-14T11:44:28.207Z] INFO: User fetched successfully
+[2025-04-14T11:44:28.240Z] INFO: All notes fetched successfully
+[2025-04-14T11:44:28.254Z] INFO: User updated successfully
+[2025-04-14T11:44:28.328Z] INFO: User deleted successfully
+[2025-04-14T11:44:28.327Z] INFO: Note created successfully
+[2025-04-14T11:44:28.409Z] INFO: Note fetched successfully
+[2025-04-14T11:44:28.455Z] INFO: Note created successfully
+[2025-04-14T11:44:28.493Z] INFO: Note deleted successfully
+[2025-04-14T11:44:28.530Z] INFO: Note created successfully
+[2025-04-14T11:44:28.563Z] INFO: Note updated successfully
+[2025-04-14T11:45:50.316Z] INFO: Database connected successfully
+[2025-04-14T11:45:50.436Z] INFO: Database connected successfully
+[2025-04-14T11:45:50.523Z] INFO: Database connected successfully
+[2025-04-14T11:45:50.717Z] INFO: User registered successfully
+[2025-04-14T11:45:50.757Z] INFO: User registered successfully
+[2025-04-14T11:45:50.840Z] INFO: User registered successfully
+[2025-04-14T11:45:50.891Z] INFO: User logged in successfully
+[2025-04-14T11:45:50.927Z] INFO: User logged in successfully
+[2025-04-14T11:45:50.979Z] INFO: Note created successfully
+[2025-04-14T11:45:50.977Z] INFO: User logged in successfully
+[2025-04-14T11:45:51.023Z] INFO: Note created successfully
+[2025-04-14T11:45:51.076Z] INFO: Note created successfully
+[2025-04-14T11:45:51.088Z] INFO: User registered successfully
+[2025-04-14T11:45:51.140Z] INFO: All notes fetched successfully
+[2025-04-14T11:45:51.155Z] INFO: User registered successfully
+[2025-04-14T11:45:51.179Z] INFO: Note created successfully
+[2025-04-14T11:45:51.212Z] INFO: All users fetched successfully
+[2025-04-14T11:45:51.232Z] INFO: Note fetched successfully
+[2025-04-14T11:45:51.254Z] INFO: User logged in successfully
+[2025-04-14T11:45:51.281Z] INFO: Note created successfully
+[2025-04-14T11:45:51.336Z] ERROR: User does not exist
+[2025-04-14T11:45:51.336Z] ERROR: Failed to fetch user
+[2025-04-14T11:45:51.375Z] ERROR: User does not exist
+[2025-04-14T11:45:51.404Z] ERROR: User does not exist
+[2025-04-14T11:45:51.499Z] ERROR: User does not exist
+[2025-04-14T11:48:13.149Z] INFO: Database connected successfully
+[2025-04-14T11:48:13.162Z] INFO: Database connected successfully
+[2025-04-14T11:48:13.353Z] INFO: Database connected successfully
+[2025-04-14T11:48:13.499Z] INFO: User registered successfully
+[2025-04-14T11:48:13.542Z] INFO: User registered successfully
+[2025-04-14T11:48:13.650Z] INFO: User logged in successfully
+[2025-04-14T11:48:13.657Z] INFO: User registered successfully
+[2025-04-14T11:48:13.707Z] ERROR: User does not exist
+[2025-04-14T11:48:13.708Z] INFO: Note created successfully
+[2025-04-14T11:48:13.750Z] ERROR: User does not exist
+[2025-04-14T11:48:13.768Z] INFO: User logged in successfully
+[2025-04-14T11:48:13.788Z] ERROR: User does not exist
+[2025-04-14T11:48:13.831Z] ERROR: User does not exist
+[2025-04-14T11:48:13.870Z] ERROR: User does not exist
+[2025-04-14T11:48:13.896Z] ERROR: User does not exist
+[2025-04-14T11:48:13.937Z] ERROR: User does not exist
+[2025-04-14T11:48:13.945Z] INFO: User registered successfully
+[2025-04-14T11:48:14.041Z] ERROR: User does not exist
+[2025-04-14T11:48:14.115Z] ERROR: User does not exist
+[2025-04-14T11:48:14.147Z] ERROR: User does not exist
+[2025-04-14T11:48:14.188Z] ERROR: User does not exist
+[2025-04-14T11:48:20.636Z] INFO: Database connected successfully
+[2025-04-14T11:48:20.684Z] INFO: Database connected successfully
+[2025-04-14T11:48:20.692Z] INFO: Database connected successfully
+[2025-04-14T11:48:20.978Z] INFO: User registered successfully
+[2025-04-14T11:48:21.015Z] INFO: User registered successfully
+[2025-04-14T11:48:21.029Z] ERROR: User does not exist
+[2025-04-14T11:48:21.079Z] ERROR: User does not exist
+[2025-04-14T11:48:21.097Z] INFO: User registered successfully
+[2025-04-14T11:48:21.272Z] INFO: User logged in successfully
+[2025-04-14T11:48:21.317Z] INFO: Note created successfully
+[2025-04-14T11:48:21.361Z] INFO: Note created successfully
+[2025-04-14T11:48:21.404Z] INFO: Note created successfully
+[2025-04-14T11:48:21.445Z] INFO: All notes fetched successfully
+[2025-04-14T11:48:21.492Z] INFO: Note created successfully
+[2025-04-14T11:48:21.534Z] INFO: Note fetched successfully
+[2025-04-14T11:48:21.591Z] INFO: Note created successfully
+[2025-04-14T11:48:21.634Z] INFO: Note deleted successfully
+[2025-04-14T11:48:21.679Z] INFO: Note created successfully
+[2025-04-14T11:48:21.727Z] INFO: Note updated successfully
+[2025-04-14T11:51:17.418Z] INFO: Database connected successfully
+[2025-04-14T11:51:17.612Z] INFO: User registered successfully
+[2025-04-14T11:51:17.717Z] INFO: User logged in successfully
+[2025-04-14T11:51:17.841Z] INFO: User registered successfully
+[2025-04-14T11:51:17.871Z] INFO: All users fetched successfully
+[2025-04-14T11:51:17.924Z] INFO: User fetched successfully
+[2025-04-14T11:51:17.976Z] INFO: User updated successfully
+[2025-04-14T11:51:18.021Z] INFO: User deleted successfully
+[2025-04-14T11:51:18.466Z] INFO: Database connected successfully
+[2025-04-14T11:51:18.632Z] INFO: User registered successfully
+[2025-04-14T11:51:18.650Z] ERROR: User does not exist
+[2025-04-14T11:51:19.064Z] INFO: Database connected successfully
+[2025-04-14T11:51:19.209Z] INFO: User registered successfully
+[2025-04-14T11:51:19.307Z] INFO: User logged in successfully
+[2025-04-14T11:51:19.325Z] INFO: Note created successfully
+[2025-04-14T11:51:19.355Z] INFO: Note created successfully
+[2025-04-14T11:51:19.394Z] INFO: Note created successfully
+[2025-04-14T11:51:19.430Z] INFO: All notes fetched successfully
+[2025-04-14T11:51:19.469Z] INFO: Note created successfully
+[2025-04-14T11:51:19.507Z] INFO: Note fetched successfully
+[2025-04-14T11:51:19.554Z] INFO: Note created successfully
+[2025-04-14T11:51:19.606Z] INFO: Note deleted successfully
+[2025-04-14T11:51:19.659Z] INFO: Note created successfully
+[2025-04-14T11:51:19.693Z] INFO: Note updated successfully
+[2025-04-14T11:52:11.112Z] INFO: Database connected successfully
+[2025-04-14T11:52:11.327Z] INFO: User registered successfully
+[2025-04-14T11:52:11.449Z] INFO: User logged in successfully
+[2025-04-14T11:52:11.826Z] INFO: Database connected successfully
+[2025-04-14T11:52:11.978Z] INFO: User registered successfully
+[2025-04-14T11:52:12.071Z] INFO: User logged in successfully
+[2025-04-14T11:52:12.166Z] INFO: User registered successfully
+[2025-04-14T11:52:12.197Z] INFO: All users fetched successfully
+[2025-04-14T11:52:12.244Z] INFO: User fetched successfully
+[2025-04-14T11:52:12.296Z] INFO: User updated successfully
+[2025-04-14T11:52:12.337Z] INFO: User deleted successfully
+[2025-04-14T11:52:12.796Z] INFO: Database connected successfully
+[2025-04-14T11:52:12.937Z] INFO: User registered successfully
+[2025-04-14T11:52:13.029Z] INFO: User logged in successfully
+[2025-04-14T11:52:13.046Z] INFO: Note created successfully
+[2025-04-14T11:52:13.086Z] INFO: Note created successfully
+[2025-04-14T11:52:13.125Z] INFO: Note created successfully
+[2025-04-14T11:52:13.157Z] INFO: All notes fetched successfully
+[2025-04-14T11:52:13.187Z] INFO: Note created successfully
+[2025-04-14T11:52:13.224Z] INFO: Note fetched successfully
+[2025-04-14T11:52:13.275Z] INFO: Note created successfully
+[2025-04-14T11:52:13.323Z] INFO: Note deleted successfully
+[2025-04-14T11:52:13.356Z] INFO: Note created successfully
+[2025-04-14T11:52:13.392Z] INFO: Note updated successfully
+[2025-04-14T11:52:25.068Z] INFO: Database connected successfully
+[2025-04-14T11:52:25.277Z] INFO: User registered successfully
+[2025-04-14T11:52:25.393Z] INFO: User logged in successfully
+[2025-04-14T11:52:25.808Z] INFO: Database connected successfully
+[2025-04-14T11:52:25.949Z] INFO: User registered successfully
+[2025-04-14T11:52:26.044Z] INFO: User logged in successfully
+[2025-04-14T11:52:26.077Z] INFO: Note created successfully
+[2025-04-14T11:52:26.127Z] INFO: Note created successfully
+[2025-04-14T11:52:26.165Z] INFO: Note created successfully
+[2025-04-14T11:52:26.207Z] INFO: All notes fetched successfully
+[2025-04-14T11:52:26.246Z] INFO: Note created successfully
+[2025-04-14T11:52:26.303Z] INFO: Note fetched successfully
+[2025-04-14T11:52:26.357Z] INFO: Note created successfully
+[2025-04-14T11:52:26.392Z] INFO: Note deleted successfully
+[2025-04-14T11:52:26.427Z] INFO: Note created successfully
+[2025-04-14T11:52:26.464Z] INFO: Note updated successfully
+[2025-04-14T11:52:26.966Z] INFO: Database connected successfully
+[2025-04-14T11:52:27.098Z] INFO: User registered successfully
+[2025-04-14T11:52:27.188Z] INFO: User logged in successfully
+[2025-04-14T11:52:27.282Z] INFO: User registered successfully
+[2025-04-14T11:52:27.316Z] INFO: All users fetched successfully
+[2025-04-14T11:52:27.349Z] INFO: User fetched successfully
+[2025-04-14T11:52:27.384Z] INFO: User updated successfully
+[2025-04-14T11:52:27.426Z] INFO: User deleted successfully
+[2025-04-14T11:55:58.527Z] INFO: Database connected successfully
+[2025-04-14T11:55:58.723Z] INFO: User registered successfully
+[2025-04-14T11:55:58.838Z] INFO: User logged in successfully
+[2025-04-14T11:55:59.232Z] INFO: Database connected successfully
+[2025-04-14T11:55:59.390Z] INFO: User registered successfully
+[2025-04-14T11:55:59.482Z] INFO: User logged in successfully
+[2025-04-14T11:55:59.515Z] INFO: Note created successfully
+[2025-04-14T11:55:59.562Z] INFO: Note created successfully
+[2025-04-14T11:55:59.589Z] INFO: Note created successfully
+[2025-04-14T11:55:59.642Z] INFO: All notes fetched successfully
+[2025-04-14T11:55:59.710Z] INFO: Note created successfully
+[2025-04-14T11:55:59.763Z] INFO: Note fetched successfully
+[2025-04-14T11:55:59.800Z] INFO: Note created successfully
+[2025-04-14T11:55:59.843Z] INFO: Note deleted successfully
+[2025-04-14T11:55:59.890Z] INFO: Note created successfully
+[2025-04-14T11:55:59.932Z] INFO: Note updated successfully
+[2025-04-14T11:56:00.405Z] INFO: Database connected successfully
+[2025-04-14T11:56:00.563Z] INFO: User registered successfully
+[2025-04-14T11:56:00.659Z] INFO: User logged in successfully
+[2025-04-14T11:56:00.749Z] INFO: User registered successfully
+[2025-04-14T11:56:00.767Z] INFO: All users fetched successfully
+[2025-04-14T11:56:00.830Z] INFO: User fetched successfully
+[2025-04-14T11:56:00.868Z] INFO: User updated successfully
+[2025-04-14T11:56:00.912Z] INFO: User deleted successfully
+[2025-04-14T11:57:35.135Z] INFO: Database connected successfully
+[2025-04-14T11:57:35.337Z] INFO: User registered successfully
+[2025-04-14T11:57:35.449Z] INFO: User registered successfully
+[2025-04-14T11:57:35.546Z] INFO: User logged in successfully
+[2025-04-14T11:57:35.902Z] INFO: Database connected successfully
+[2025-04-14T11:57:36.042Z] INFO: User registered successfully
+[2025-04-14T11:57:36.138Z] INFO: User logged in successfully
+[2025-04-14T11:57:36.176Z] INFO: Note created successfully
+[2025-04-14T11:57:36.217Z] INFO: Note created successfully
+[2025-04-14T11:57:36.252Z] INFO: Note created successfully
+[2025-04-14T11:57:36.299Z] INFO: All notes fetched successfully
+[2025-04-14T11:57:36.334Z] INFO: Note created successfully
+[2025-04-14T11:57:36.387Z] INFO: Note fetched successfully
+[2025-04-14T11:57:36.431Z] INFO: Note created successfully
+[2025-04-14T11:57:36.473Z] INFO: Note deleted successfully
+[2025-04-14T11:57:36.502Z] INFO: Note created successfully
+[2025-04-14T11:57:36.535Z] INFO: Note updated successfully
+[2025-04-14T11:57:36.944Z] INFO: Database connected successfully
+[2025-04-14T11:57:37.093Z] INFO: User registered successfully
+[2025-04-14T11:57:37.188Z] INFO: User logged in successfully
+[2025-04-14T11:57:37.289Z] INFO: User registered successfully
+[2025-04-14T11:57:37.311Z] INFO: All users fetched successfully
+[2025-04-14T11:57:37.364Z] INFO: User fetched successfully
+[2025-04-14T11:57:37.400Z] INFO: User updated successfully
+[2025-04-14T11:57:37.444Z] INFO: User deleted successfully
+[2025-04-14T11:59:48.671Z] INFO: Database connected successfully
+[2025-04-14T11:59:48.878Z] INFO: User registered successfully
+[2025-04-14T11:59:48.992Z] INFO: User registered successfully
+[2025-04-14T11:59:49.095Z] INFO: User logged in successfully
+[2025-04-14T11:59:49.505Z] INFO: Database connected successfully
+[2025-04-14T11:59:49.640Z] INFO: User registered successfully
+[2025-04-14T11:59:49.739Z] INFO: User logged in successfully
+[2025-04-14T11:59:49.762Z] INFO: Note created successfully
+[2025-04-14T11:59:49.799Z] INFO: Note created successfully
+[2025-04-14T11:59:49.829Z] INFO: Note created successfully
+[2025-04-14T11:59:49.874Z] INFO: All notes fetched successfully
+[2025-04-14T11:59:49.927Z] INFO: Note created successfully
+[2025-04-14T11:59:49.962Z] INFO: Note fetched successfully
+[2025-04-14T11:59:50.007Z] INFO: Note created successfully
+[2025-04-14T11:59:50.051Z] INFO: Note deleted successfully
+[2025-04-14T11:59:50.095Z] INFO: Note created successfully
+[2025-04-14T11:59:50.130Z] INFO: Note updated successfully
+[2025-04-14T11:59:50.592Z] INFO: Database connected successfully
+[2025-04-14T11:59:50.756Z] INFO: User registered successfully
+[2025-04-14T11:59:50.848Z] INFO: User logged in successfully
+[2025-04-14T11:59:50.939Z] INFO: User registered successfully
+[2025-04-14T11:59:50.963Z] INFO: All users fetched successfully
+[2025-04-14T11:59:51.013Z] INFO: User fetched successfully
+[2025-04-14T11:59:51.045Z] INFO: User updated successfully
+[2025-04-14T11:59:51.079Z] INFO: User deleted successfully
+[2025-04-14T12:00:37.653Z] INFO: Database connected successfully
+[2025-04-14T12:00:37.908Z] INFO: User registered successfully
+[2025-04-14T12:00:38.085Z] INFO: User registered successfully
+[2025-04-14T12:00:38.248Z] INFO: User logged in successfully
+[2025-04-14T12:00:38.704Z] INFO: Database connected successfully
+[2025-04-14T12:00:38.839Z] INFO: User registered successfully
+[2025-04-14T12:00:38.933Z] INFO: User logged in successfully
+[2025-04-14T12:00:38.955Z] INFO: Note created successfully
+[2025-04-14T12:00:39.004Z] INFO: Note created successfully
+[2025-04-14T12:00:39.036Z] INFO: Note created successfully
+[2025-04-14T12:00:39.077Z] INFO: All notes fetched successfully
+[2025-04-14T12:00:39.120Z] INFO: Note created successfully
+[2025-04-14T12:00:39.158Z] INFO: Note fetched successfully
+[2025-04-14T12:00:39.191Z] INFO: Note created successfully
+[2025-04-14T12:00:39.229Z] INFO: Note deleted successfully
+[2025-04-14T12:00:39.265Z] INFO: Note created successfully
+[2025-04-14T12:00:39.307Z] INFO: Note updated successfully
+[2025-04-14T12:00:39.770Z] INFO: Database connected successfully
+[2025-04-14T12:00:39.904Z] INFO: User registered successfully
+[2025-04-14T12:00:39.989Z] INFO: User registered successfully
+[2025-04-14T12:00:40.082Z] INFO: User logged in successfully
+[2025-04-14T12:00:40.179Z] INFO: User registered successfully
+[2025-04-14T12:00:40.263Z] INFO: User logged in successfully
+[2025-04-14T12:00:40.290Z] INFO: User fetched successfully
+[2025-04-14T12:00:40.419Z] INFO: User registered successfully
+[2025-04-14T12:00:40.514Z] INFO: User logged in successfully
+[2025-04-14T12:00:40.613Z] INFO: User registered successfully
+[2025-04-14T12:00:40.710Z] INFO: User logged in successfully
+[2025-04-14T12:00:40.737Z] INFO: User deleted successfully
+[2025-04-14T12:01:42.434Z] INFO: Database connected successfully
+[2025-04-14T12:01:42.725Z] INFO: User registered successfully
+[2025-04-14T12:01:42.827Z] INFO: User registered successfully
+[2025-04-14T12:01:42.926Z] INFO: User logged in successfully
+[2025-04-14T12:01:43.039Z] INFO: User registered successfully
+[2025-04-14T12:01:43.136Z] INFO: User logged in successfully
+[2025-04-14T12:01:43.174Z] INFO: User fetched successfully
+[2025-04-14T12:01:43.294Z] INFO: User registered successfully
+[2025-04-14T12:01:43.388Z] INFO: User logged in successfully
+[2025-04-14T12:01:43.525Z] INFO: User registered successfully
+[2025-04-14T12:01:43.646Z] INFO: User logged in successfully
+[2025-04-14T12:01:43.681Z] INFO: User deleted successfully
+[2025-04-14T12:01:44.140Z] INFO: Database connected successfully
+[2025-04-14T12:01:44.271Z] INFO: User registered successfully
+[2025-04-14T12:01:44.368Z] INFO: User registered successfully
+[2025-04-14T12:01:44.454Z] INFO: User logged in successfully
+[2025-04-14T12:01:44.814Z] INFO: Database connected successfully
+[2025-04-14T12:01:44.939Z] INFO: User registered successfully
+[2025-04-14T12:01:45.027Z] INFO: User logged in successfully
+[2025-04-14T12:01:45.040Z] INFO: Note created successfully
+[2025-04-14T12:01:45.061Z] INFO: Note created successfully
+[2025-04-14T12:01:45.093Z] INFO: Note created successfully
+[2025-04-14T12:01:45.125Z] INFO: All notes fetched successfully
+[2025-04-14T12:01:45.157Z] INFO: Note created successfully
+[2025-04-14T12:01:45.191Z] INFO: Note fetched successfully
+[2025-04-14T12:01:45.227Z] INFO: Note created successfully
+[2025-04-14T12:01:45.255Z] INFO: Note deleted successfully
+[2025-04-14T12:01:45.298Z] INFO: Note created successfully
+[2025-04-14T12:01:45.349Z] INFO: Note updated successfully
+[2025-04-14T12:02:11.906Z] INFO: Database connected successfully
+[2025-04-14T12:02:12.126Z] INFO: User registered successfully
+[2025-04-14T12:02:12.259Z] INFO: User logged in successfully
+[2025-04-14T12:02:12.372Z] INFO: User registered successfully
+[2025-04-14T12:02:12.407Z] INFO: All users fetched successfully
+[2025-04-14T12:02:12.473Z] INFO: User fetched successfully
+[2025-04-14T12:02:12.525Z] INFO: User updated successfully
+[2025-04-14T12:02:12.579Z] INFO: User deleted successfully
+[2025-04-14T12:02:13.110Z] INFO: Database connected successfully
+[2025-04-14T12:02:13.264Z] INFO: User registered successfully
+[2025-04-14T12:02:13.351Z] INFO: User logged in successfully
+[2025-04-14T12:02:13.373Z] INFO: Note created successfully
+[2025-04-14T12:02:13.406Z] INFO: Note created successfully
+[2025-04-14T12:02:13.432Z] INFO: Note created successfully
+[2025-04-14T12:02:13.462Z] INFO: All notes fetched successfully
+[2025-04-14T12:02:13.498Z] INFO: Note created successfully
+[2025-04-14T12:02:13.536Z] INFO: Note fetched successfully
+[2025-04-14T12:02:13.591Z] INFO: Note created successfully
+[2025-04-14T12:02:13.631Z] INFO: Note deleted successfully
+[2025-04-14T12:02:13.670Z] INFO: Note created successfully
+[2025-04-14T12:02:13.698Z] INFO: Note updated successfully
+[2025-04-14T12:02:14.181Z] INFO: Database connected successfully
+[2025-04-14T12:02:14.324Z] INFO: User registered successfully
+[2025-04-14T12:02:14.420Z] INFO: User registered successfully
+[2025-04-14T12:02:14.506Z] INFO: User logged in successfully
+[2025-04-14T12:04:27.001Z] INFO: Database connected successfully
+[2025-04-14T12:04:27.237Z] INFO: User registered successfully
+[2025-04-14T12:04:27.343Z] INFO: User registered successfully
+[2025-04-14T12:04:27.453Z] INFO: User logged in successfully
+[2025-04-14T12:04:27.552Z] INFO: User registered successfully
+[2025-04-14T12:04:27.643Z] INFO: User logged in successfully
+[2025-04-14T12:04:27.677Z] INFO: User fetched successfully
+[2025-04-14T12:04:27.785Z] INFO: User registered successfully
+[2025-04-14T12:04:27.877Z] INFO: User logged in successfully
+[2025-04-14T12:04:27.977Z] INFO: User registered successfully
+[2025-04-14T12:04:28.068Z] INFO: User logged in successfully
+[2025-04-14T12:04:28.101Z] INFO: User deleted successfully
+[2025-04-14T12:04:28.540Z] INFO: Database connected successfully
+[2025-04-14T12:04:28.676Z] INFO: User registered successfully
+[2025-04-14T12:04:28.761Z] INFO: User logged in successfully
+[2025-04-14T12:04:28.782Z] INFO: Note created successfully
+[2025-04-14T12:04:28.810Z] INFO: Note created successfully
+[2025-04-14T12:04:28.853Z] INFO: Note created successfully
+[2025-04-14T12:04:28.881Z] INFO: All notes fetched successfully
+[2025-04-14T12:04:28.914Z] INFO: Note created successfully
+[2025-04-14T12:04:28.944Z] INFO: Note fetched successfully
+[2025-04-14T12:04:28.979Z] INFO: Note created successfully
+[2025-04-14T12:04:29.010Z] INFO: Note deleted successfully
+[2025-04-14T12:04:29.042Z] INFO: Note created successfully
+[2025-04-14T12:04:29.073Z] INFO: Note updated successfully
+[2025-04-14T12:04:29.526Z] INFO: Database connected successfully
+[2025-04-14T12:04:29.697Z] INFO: User registered successfully
+[2025-04-14T12:04:29.793Z] INFO: User registered successfully
+[2025-04-14T12:04:29.883Z] INFO: User logged in successfully
+[2025-04-14T12:05:24.821Z] INFO: Database connected successfully
+[2025-04-14T12:05:29.563Z] INFO: User registered successfully
+[2025-04-14T12:05:35.640Z] INFO: User registered successfully
+[2025-04-14T12:05:35.649Z] INFO: User registered successfully
+[2025-04-14T12:05:44.905Z] ERROR: User does not exist
+[2025-04-14T12:06:36.052Z] INFO: Database connected successfully
+[2025-04-14T12:06:36.388Z] INFO: User registered successfully
+[2025-04-14T12:06:36.523Z] INFO: User registered successfully
+[2025-04-14T12:06:36.662Z] INFO: User logged in successfully
+[2025-04-14T12:06:36.822Z] INFO: User registered successfully
+[2025-04-14T12:06:36.942Z] INFO: User logged in successfully
+[2025-04-14T12:06:37.017Z] INFO: User fetched successfully
+[2025-04-14T12:06:37.198Z] INFO: User registered successfully
+[2025-04-14T12:06:37.319Z] INFO: User logged in successfully
+[2025-04-14T12:06:37.478Z] INFO: User registered successfully
+[2025-04-14T12:06:37.585Z] INFO: User logged in successfully
+[2025-04-14T12:06:37.636Z] INFO: User deleted successfully
+[2025-04-14T12:06:38.260Z] INFO: Database connected successfully
+[2025-04-14T12:06:38.486Z] INFO: User registered successfully
+[2025-04-14T12:06:38.624Z] INFO: User logged in successfully
+[2025-04-14T12:06:38.680Z] INFO: Note created successfully
+[2025-04-14T12:06:38.784Z] INFO: Note created successfully
+[2025-04-14T12:06:38.866Z] INFO: Note created successfully
+[2025-04-14T12:06:38.941Z] INFO: All notes fetched successfully
+[2025-04-14T12:06:39.052Z] INFO: Note created successfully
+[2025-04-14T12:06:39.127Z] INFO: Note fetched successfully
+[2025-04-14T12:06:39.219Z] INFO: Note created successfully
+[2025-04-14T12:06:39.301Z] INFO: Note deleted successfully
+[2025-04-14T12:06:39.408Z] INFO: Note created successfully
+[2025-04-14T12:06:39.501Z] INFO: Note updated successfully
+[2025-04-14T12:06:40.007Z] INFO: Database connected successfully
+[2025-04-14T12:06:40.200Z] INFO: User registered successfully
+[2025-04-14T12:06:40.350Z] INFO: User registered successfully
+[2025-04-14T12:06:40.463Z] INFO: User logged in successfully
+[2025-04-14T12:10:50.720Z] INFO: Database connected successfully
+[2025-04-14T12:10:51.042Z] INFO: User registered successfully
+[2025-04-14T12:10:51.212Z] INFO: User registered successfully
+[2025-04-14T12:10:51.347Z] INFO: User logged in successfully
+[2025-04-14T12:10:51.416Z] INFO: All users fetched successfully
+[2025-04-14T12:10:51.599Z] INFO: User registered successfully
+[2025-04-14T12:10:51.730Z] INFO: User logged in successfully
+[2025-04-14T12:10:51.790Z] INFO: User fetched successfully
+[2025-04-14T12:10:51.949Z] INFO: User registered successfully
+[2025-04-14T12:10:52.075Z] INFO: User logged in successfully
+[2025-04-14T12:10:52.139Z] INFO: User updated successfully
+[2025-04-14T12:10:52.321Z] INFO: User registered successfully
+[2025-04-14T12:10:52.437Z] INFO: User logged in successfully
+[2025-04-14T12:10:52.490Z] INFO: User deleted successfully
+[2025-04-14T12:10:53.010Z] INFO: Database connected successfully
+[2025-04-14T12:10:53.205Z] INFO: User registered successfully
+[2025-04-14T12:10:53.326Z] INFO: User logged in successfully
+[2025-04-14T12:10:53.381Z] INFO: Note created successfully
+[2025-04-14T12:10:53.473Z] INFO: Note created successfully
+[2025-04-14T12:10:53.551Z] INFO: Note created successfully
+[2025-04-14T12:10:53.632Z] INFO: All notes fetched successfully
+[2025-04-14T12:10:53.712Z] INFO: Note created successfully
+[2025-04-14T12:10:53.781Z] INFO: Note fetched successfully
+[2025-04-14T12:10:53.856Z] INFO: Note created successfully
+[2025-04-14T12:10:53.911Z] INFO: Note deleted successfully
+[2025-04-14T12:10:53.982Z] INFO: Note created successfully
+[2025-04-14T12:10:54.053Z] INFO: Note updated successfully
+[2025-04-14T12:10:54.739Z] INFO: Database connected successfully
+[2025-04-14T12:10:54.929Z] INFO: User registered successfully
+[2025-04-14T12:10:55.051Z] INFO: User registered successfully
+[2025-04-14T12:10:55.163Z] INFO: User logged in successfully
+[2025-04-14T12:14:54.281Z] INFO: User updated successfully
+[2025-04-14T12:15:35.375Z] INFO: Database connected successfully
+[2025-04-14T12:15:35.722Z] INFO: User registered successfully
+[2025-04-14T12:15:35.897Z] INFO: User registered successfully
+[2025-04-14T12:15:36.032Z] INFO: User logged in successfully
+[2025-04-14T12:15:36.104Z] INFO: All users fetched successfully
+[2025-04-14T12:15:36.286Z] INFO: User registered successfully
+[2025-04-14T12:15:36.406Z] INFO: User logged in successfully
+[2025-04-14T12:15:36.459Z] INFO: User fetched successfully
+[2025-04-14T12:15:36.623Z] INFO: User registered successfully
+[2025-04-14T12:15:36.749Z] INFO: User logged in successfully
+[2025-04-14T12:15:36.822Z] INFO: User updated successfully
+[2025-04-14T12:15:36.975Z] INFO: User registered successfully
+[2025-04-14T12:15:37.094Z] INFO: User logged in successfully
+[2025-04-14T12:15:37.146Z] INFO: User deleted successfully
+[2025-04-14T12:15:37.711Z] INFO: Database connected successfully
+[2025-04-14T12:15:37.923Z] INFO: User registered successfully
+[2025-04-14T12:15:38.036Z] INFO: User logged in successfully
+[2025-04-14T12:15:38.093Z] INFO: Note created successfully
+[2025-04-14T12:15:38.170Z] INFO: Note created successfully
+[2025-04-14T12:15:38.252Z] INFO: Note created successfully
+[2025-04-14T12:15:38.327Z] INFO: All notes fetched successfully
+[2025-04-14T12:15:38.426Z] INFO: Note created successfully
+[2025-04-14T12:15:38.496Z] INFO: Note fetched successfully
+[2025-04-14T12:15:38.611Z] INFO: Note created successfully
+[2025-04-14T12:15:38.688Z] INFO: Note deleted successfully
+[2025-04-14T12:15:38.785Z] INFO: Note created successfully
+[2025-04-14T12:15:38.871Z] INFO: Note updated successfully
+[2025-04-14T12:15:39.476Z] INFO: Database connected successfully
+[2025-04-14T12:15:39.705Z] INFO: User registered successfully
+[2025-04-14T12:15:39.856Z] INFO: User registered successfully
+[2025-04-14T12:15:39.977Z] INFO: User logged in successfully
+[2025-04-14T12:16:38.084Z] INFO: Database connected successfully
+[2025-04-14T12:16:38.512Z] INFO: User registered successfully
+[2025-04-14T12:16:38.740Z] INFO: User registered successfully
+[2025-04-14T12:16:38.893Z] INFO: User logged in successfully
+[2025-04-14T12:16:38.962Z] INFO: All users fetched successfully
+[2025-04-14T12:16:39.128Z] INFO: User registered successfully
+[2025-04-14T12:16:39.251Z] INFO: User logged in successfully
+[2025-04-14T12:16:39.328Z] INFO: User fetched successfully
+[2025-04-14T12:16:39.507Z] INFO: User registered successfully
+[2025-04-14T12:16:39.632Z] INFO: User logged in successfully
+[2025-04-14T12:16:39.720Z] INFO: User updated successfully
+[2025-04-14T12:16:39.862Z] INFO: User registered successfully
+[2025-04-14T12:16:39.980Z] INFO: User logged in successfully
+[2025-04-14T12:16:40.034Z] INFO: User deleted successfully
+[2025-04-14T12:16:40.585Z] INFO: Database connected successfully
+[2025-04-14T12:16:40.780Z] INFO: User registered successfully
+[2025-04-14T12:16:40.908Z] INFO: User logged in successfully
+[2025-04-14T12:16:40.976Z] INFO: Note created successfully
+[2025-04-14T12:16:41.075Z] INFO: Note created successfully
+[2025-04-14T12:16:41.143Z] INFO: Note created successfully
+[2025-04-14T12:16:41.212Z] INFO: All notes fetched successfully
+[2025-04-14T12:16:41.306Z] INFO: Note created successfully
+[2025-04-14T12:16:41.375Z] INFO: Note fetched successfully
+[2025-04-14T12:16:41.462Z] INFO: Note created successfully
+[2025-04-14T12:16:41.531Z] INFO: Note deleted successfully
+[2025-04-14T12:16:41.613Z] INFO: Note created successfully
+[2025-04-14T12:16:41.687Z] INFO: Note updated successfully
+[2025-04-14T12:16:42.192Z] INFO: Database connected successfully
+[2025-04-14T12:16:42.408Z] INFO: User registered successfully
+[2025-04-14T12:16:42.532Z] INFO: User registered successfully
+[2025-04-14T12:16:42.644Z] INFO: User logged in successfully

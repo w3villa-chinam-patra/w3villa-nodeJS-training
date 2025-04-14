@@ -1,17 +1,12 @@
-const express = require("express");
-const cors = require("cors");
-const { notesRouter } = require("./router");
 require("dotenv").config();
-require("./database/dbConfig");
+const app = require("./app");
+const { connectDB } = require("./database/dbConfig");
+const logger = require("./utils/logger.util");
 
-const app = express();
 const PORT = process.env.PORT || 4000;
 
-app.use(express.json());
-app.use(cors());
-
-app.use("/notes", notesRouter);
+connectDB(process.env.MONGO_URI);
 
 app.listen(PORT, () =>
-  console.log(`Server Started at: http://localhost:${PORT}`)
+  logger.info(`Server Started at: http://localhost:${PORT}`)
 );
