@@ -66,12 +66,13 @@ module.exports = {
       return successResponse(res, SuccessMessages.AUTH.LOGIN_SUCCESS, {
         token,
         id: user._id,
+        name: user.name,
       });
     } catch (error) {
       // logger.error(
       //   `${LogMessages.AUTH.ERROR.LOGIN_FAILED} Error: ${error.message}`
       // );
-      return next(new AppError(ErrorMessages.AUTH.LOGIN_FAILED), error.message);
+      return next(new AppError(ErrorMessages.AUTH.LOGIN_FAILED, error.message));
     }
   },
 };

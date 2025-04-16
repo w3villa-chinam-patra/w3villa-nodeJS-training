@@ -2819,3 +2819,279 @@
 [2025-04-14T12:16:42.408Z] INFO: User registered successfully
 [2025-04-14T12:16:42.532Z] INFO: User registered successfully
 [2025-04-14T12:16:42.644Z] INFO: User logged in successfully
+[2025-04-14T12:50:29.128Z] ERROR: Route not found
+[2025-04-14T12:54:30.290Z] INFO: User logged in successfully
+[2025-04-15T04:49:11.349Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T04:49:41.353Z] ERROR: Database did not connect Error: connect ECONNREFUSED 127.0.0.1:27017
+[2025-04-15T04:53:11.401Z] ERROR: Failed to login
+[2025-04-15T04:53:14.245Z] ERROR: Failed to login
+[2025-04-15T05:00:22.283Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:00:35.999Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T05:00:52.281Z] ERROR: Database did not connect Error: connect ECONNREFUSED 127.0.0.1:27017
+[2025-04-15T05:01:55.310Z] ERROR: Failed to login
+[2025-04-15T05:01:58.455Z] ERROR: Failed to login
+[2025-04-15T05:02:36.281Z] ERROR: Failed to login
+[2025-04-15T05:04:10.376Z] ERROR: Failed to login
+[2025-04-15T05:04:18.264Z] ERROR: Failed to login
+[2025-04-15T05:04:29.045Z] ERROR: Failed to login
+[2025-04-15T05:05:57.021Z] ERROR: Failed to login
+[2025-04-15T05:09:29.344Z] ERROR: Failed to login
+[2025-04-15T05:17:35.599Z] ERROR: Failed to login
+[2025-04-15T05:21:03.696Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:21:03.764Z] INFO: Database connected successfully
+[2025-04-15T05:21:09.748Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:21:09.794Z] INFO: Database connected successfully
+[2025-04-15T05:23:05.101Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:23:05.151Z] INFO: Database connected successfully
+[2025-04-15T05:23:07.898Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:23:07.944Z] INFO: Database connected successfully
+[2025-04-15T05:23:23.157Z] INFO: User logged in successfully
+[2025-04-15T05:23:23.315Z] ERROR: Route not found
+[2025-04-15T05:23:23.323Z] ERROR: Route not found
+[2025-04-15T05:23:39.758Z] INFO: User logged in successfully
+[2025-04-15T05:23:39.886Z] ERROR: Route not found
+[2025-04-15T05:23:39.903Z] ERROR: Route not found
+[2025-04-15T05:28:18.030Z] INFO: User logged in successfully
+[2025-04-15T05:28:18.226Z] ERROR: Route not found
+[2025-04-15T05:28:18.235Z] ERROR: Route not found
+[2025-04-15T05:29:35.943Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:29:35.985Z] INFO: Database connected successfully
+[2025-04-15T05:29:39.638Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:29:39.687Z] INFO: Database connected successfully
+[2025-04-15T05:29:44.274Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T05:29:44.304Z] INFO: Database connected successfully
+[2025-04-15T05:29:58.981Z] INFO: User logged in successfully
+[2025-04-15T05:30:27.275Z] ERROR: Route not found
+[2025-04-15T05:30:27.301Z] ERROR: Route not found
+[2025-04-15T05:30:38.461Z] ERROR: Route not found
+[2025-04-15T05:30:38.478Z] ERROR: Route not found
+[2025-04-15T05:30:43.806Z] ERROR: Route not found
+[2025-04-15T05:30:43.838Z] ERROR: Route not found
+[2025-04-15T05:30:47.316Z] ERROR: Route not found
+[2025-04-15T05:30:47.356Z] ERROR: Route not found
+[2025-04-15T05:30:54.308Z] ERROR: Route not found
+[2025-04-15T05:30:54.325Z] ERROR: Route not found
+[2025-04-15T05:34:35.403Z] INFO: User logged in successfully
+[2025-04-15T05:34:35.461Z] ERROR: Route not found
+[2025-04-15T05:34:35.465Z] ERROR: Route not found
+[2025-04-15T05:34:47.251Z] ERROR: Route not found
+[2025-04-15T05:34:47.259Z] ERROR: Route not found
+[2025-04-15T05:34:55.790Z] ERROR: Route not found
+[2025-04-15T05:34:55.803Z] ERROR: Route not found
+[2025-04-15T05:35:00.145Z] ERROR: Route not found
+[2025-04-15T05:35:00.162Z] ERROR: Route not found
+[2025-04-15T05:35:27.833Z] ERROR: Route not found
+[2025-04-15T05:35:27.839Z] ERROR: Route not found
+[2025-04-15T05:37:02.336Z] INFO: All users fetched successfully
+[2025-04-15T05:37:21.439Z] INFO: User deleted successfully
+[2025-04-15T05:37:26.572Z] INFO: All users fetched successfully
+[2025-04-15T05:37:51.516Z] INFO: User registered successfully
+[2025-04-15T05:38:01.515Z] INFO: All users fetched successfully
+[2025-04-15T05:38:08.575Z] INFO: User deleted successfully
+[2025-04-15T05:38:11.485Z] INFO: All users fetched successfully
+[2025-04-15T05:38:28.211Z] INFO: User registered successfully
+[2025-04-15T05:39:25.713Z] INFO: User logged in successfully
+[2025-04-15T05:39:25.754Z] ERROR: Route not found
+[2025-04-15T05:39:25.762Z] ERROR: Route not found
+[2025-04-15T05:39:56.474Z] ERROR: Route not found
+[2025-04-15T05:39:56.486Z] ERROR: Route not found
+[2025-04-15T05:52:57.556Z] INFO: All notes fetched successfully
+[2025-04-15T05:53:44.836Z] INFO: User logged in successfully
+[2025-04-15T05:56:23.866Z] INFO: User logged in successfully
+[2025-04-15T05:57:20.904Z] INFO: User logged in successfully
+[2025-04-15T05:57:56.583Z] INFO: User logged in successfully
+[2025-04-15T05:59:08.651Z] INFO: User logged in successfully
+[2025-04-15T05:59:28.046Z] INFO: User logged in successfully
+[2025-04-15T06:00:34.028Z] INFO: User logged in successfully
+[2025-04-15T06:02:28.142Z] ERROR: Route not found
+[2025-04-15T06:03:07.195Z] INFO: All notes fetched successfully
+[2025-04-15T06:03:07.203Z] INFO: All notes fetched successfully
+[2025-04-15T06:14:42.901Z] ERROR: Route not found
+[2025-04-15T06:15:16.893Z] INFO: User logged in successfully
+[2025-04-15T06:15:16.952Z] INFO: All notes fetched successfully
+[2025-04-15T06:15:16.972Z] INFO: All notes fetched successfully
+[2025-04-15T06:15:25.110Z] ERROR: Route not found
+[2025-04-15T06:15:25.161Z] INFO: All notes fetched successfully
+[2025-04-15T06:15:38.026Z] INFO: All notes fetched successfully
+[2025-04-15T06:15:38.054Z] INFO: All notes fetched successfully
+[2025-04-15T06:16:07.151Z] ERROR: Route not found
+[2025-04-15T06:16:07.203Z] INFO: All notes fetched successfully
+[2025-04-15T06:18:03.446Z] ERROR: Authorization header is missing
+[2025-04-15T06:18:03.488Z] INFO: All notes fetched successfully
+[2025-04-15T06:19:00.700Z] ERROR: Authorization header is missing
+[2025-04-15T06:19:00.786Z] INFO: All notes fetched successfully
+[2025-04-15T06:19:22.082Z] INFO: All notes fetched successfully
+[2025-04-15T06:19:22.102Z] INFO: All notes fetched successfully
+[2025-04-15T06:21:33.182Z] INFO: Note created successfully
+[2025-04-15T06:21:33.222Z] INFO: All notes fetched successfully
+[2025-04-15T06:21:36.393Z] ERROR: Failed to delete note
+[2025-04-15T06:21:36.418Z] INFO: All notes fetched successfully
+[2025-04-15T06:22:55.347Z] INFO: All notes fetched successfully
+[2025-04-15T06:22:55.396Z] INFO: All notes fetched successfully
+[2025-04-15T06:22:57.649Z] INFO: All notes fetched successfully
+[2025-04-15T06:22:57.668Z] INFO: All notes fetched successfully
+[2025-04-15T06:23:00.204Z] INFO: All notes fetched successfully
+[2025-04-15T06:23:00.224Z] INFO: All notes fetched successfully
+[2025-04-15T06:23:07.266Z] INFO: Note deleted successfully
+[2025-04-15T06:23:07.380Z] INFO: All notes fetched successfully
+[2025-04-15T06:23:21.027Z] ERROR: "_id" is required
+[2025-04-15T06:23:21.133Z] INFO: All notes fetched successfully
+[2025-04-15T06:25:14.476Z] INFO: Note updated successfully
+[2025-04-15T06:25:14.579Z] INFO: All notes fetched successfully
+[2025-04-15T06:27:31.620Z] INFO: All notes fetched successfully
+[2025-04-15T06:27:31.664Z] INFO: All notes fetched successfully
+[2025-04-15T06:29:12.772Z] INFO: User logged in successfully
+[2025-04-15T06:29:12.900Z] INFO: All notes fetched successfully
+[2025-04-15T06:29:12.935Z] INFO: All notes fetched successfully
+[2025-04-15T06:29:15.159Z] INFO: All notes fetched successfully
+[2025-04-15T06:29:15.171Z] INFO: All notes fetched successfully
+[2025-04-15T06:34:30.823Z] INFO: All notes fetched successfully
+[2025-04-15T06:34:30.847Z] INFO: All notes fetched successfully
+[2025-04-15T06:34:57.992Z] INFO: All notes fetched successfully
+[2025-04-15T06:34:58.013Z] INFO: All notes fetched successfully
+[2025-04-15T06:37:15.319Z] INFO: All notes fetched successfully
+[2025-04-15T06:37:15.332Z] INFO: All notes fetched successfully
+[2025-04-15T06:44:36.433Z] INFO: User logged in successfully
+[2025-04-15T06:44:36.536Z] INFO: All notes fetched successfully
+[2025-04-15T06:44:36.556Z] INFO: All notes fetched successfully
+[2025-04-15T06:44:39.627Z] INFO: All notes fetched successfully
+[2025-04-15T06:44:39.638Z] INFO: All notes fetched successfully
+[2025-04-15T06:47:40.255Z] INFO: Server Started at: http://localhost:4000
+[2025-04-15T06:47:40.302Z] INFO: Database connected successfully
+[2025-04-15T07:36:09.472Z] INFO: All notes fetched successfully
+[2025-04-15T07:36:09.496Z] INFO: All notes fetched successfully
+[2025-04-15T07:37:17.460Z] INFO: All notes fetched successfully
+[2025-04-15T07:37:17.481Z] INFO: All notes fetched successfully
+[2025-04-15T07:38:15.621Z] INFO: All notes fetched successfully
+[2025-04-15T07:38:15.647Z] INFO: All notes fetched successfully
+[2025-04-15T07:39:04.885Z] INFO: All notes fetched successfully
+[2025-04-15T07:39:04.914Z] INFO: All notes fetched successfully
+[2025-04-15T07:39:10.271Z] INFO: All notes fetched successfully
+[2025-04-15T07:39:10.285Z] INFO: All notes fetched successfully
+[2025-04-15T07:39:19.324Z] ERROR: "password" length must be at least 6 characters long
+[2025-04-15T07:39:26.617Z] INFO: User logged in successfully
+[2025-04-15T07:39:26.706Z] INFO: All notes fetched successfully
+[2025-04-15T07:39:26.727Z] INFO: All notes fetched successfully
+[2025-04-15T07:40:04.657Z] INFO: All notes fetched successfully
+[2025-04-15T07:40:04.680Z] INFO: All notes fetched successfully
+[2025-04-15T07:40:15.744Z] INFO: User logged in successfully
+[2025-04-15T07:40:15.849Z] INFO: All notes fetched successfully
+[2025-04-15T07:40:15.869Z] INFO: All notes fetched successfully
+[2025-04-15T07:40:28.621Z] INFO: All notes fetched successfully
+[2025-04-15T07:40:28.650Z] INFO: All notes fetched successfully
+[2025-04-15T07:41:52.263Z] INFO: User logged in successfully
+[2025-04-15T07:44:19.551Z] INFO: User logged in successfully
+[2025-04-15T07:44:19.710Z] INFO: All notes fetched successfully
+[2025-04-15T07:44:19.725Z] INFO: All notes fetched successfully
+[2025-04-15T07:44:31.854Z] INFO: User logged in successfully
+[2025-04-15T07:44:31.937Z] INFO: All notes fetched successfully
+[2025-04-15T07:44:31.964Z] INFO: All notes fetched successfully
+[2025-04-15T07:45:31.078Z] INFO: User logged in successfully
+[2025-04-15T07:45:31.181Z] INFO: All notes fetched successfully
+[2025-04-15T07:45:31.196Z] INFO: All notes fetched successfully
+[2025-04-15T07:45:33.416Z] INFO: Note deleted successfully
+[2025-04-15T07:45:33.430Z] INFO: All notes fetched successfully
+[2025-04-15T07:45:42.432Z] INFO: Note updated successfully
+[2025-04-15T07:45:42.456Z] INFO: All notes fetched successfully
+[2025-04-15T07:53:37.575Z] INFO: User logged in successfully
+[2025-04-15T07:53:37.647Z] INFO: All notes fetched successfully
+[2025-04-15T07:53:37.662Z] INFO: All notes fetched successfully
+[2025-04-15T07:54:04.405Z] INFO: Note updated successfully
+[2025-04-15T07:54:04.427Z] INFO: All notes fetched successfully
+[2025-04-15T07:54:22.213Z] INFO: User logged in successfully
+[2025-04-15T07:54:22.285Z] INFO: All notes fetched successfully
+[2025-04-15T07:54:22.305Z] INFO: All notes fetched successfully
+[2025-04-15T07:54:32.819Z] INFO: Note created successfully
+[2025-04-15T07:54:32.842Z] INFO: All notes fetched successfully
+[2025-04-15T07:55:45.741Z] INFO: User logged in successfully
+[2025-04-15T07:55:45.832Z] INFO: All notes fetched successfully
+[2025-04-15T07:55:45.850Z] INFO: All notes fetched successfully
+[2025-04-15T07:55:50.988Z] INFO: All notes fetched successfully
+[2025-04-15T07:55:51.016Z] INFO: All notes fetched successfully
+[2025-04-15T07:56:04.950Z] INFO: User logged in successfully
+[2025-04-15T07:56:05.041Z] INFO: All notes fetched successfully
+[2025-04-15T07:56:05.063Z] INFO: All notes fetched successfully
+[2025-04-15T08:01:14.539Z] INFO: Note created successfully
+[2025-04-15T08:01:14.575Z] INFO: All notes fetched successfully
+[2025-04-15T08:01:39.384Z] INFO: Note created successfully
+[2025-04-15T08:01:39.412Z] INFO: All notes fetched successfully
+[2025-04-15T08:02:29.785Z] INFO: Note created successfully
+[2025-04-15T08:02:29.830Z] INFO: All notes fetched successfully
+[2025-04-15T08:02:37.067Z] INFO: Note created successfully
+[2025-04-15T08:02:37.098Z] INFO: All notes fetched successfully
+[2025-04-15T08:03:39.820Z] INFO: Note created successfully
+[2025-04-15T08:03:39.852Z] INFO: All notes fetched successfully
+[2025-04-15T08:04:46.550Z] INFO: Note created successfully
+[2025-04-15T08:04:46.601Z] INFO: All notes fetched successfully
+[2025-04-15T08:05:22.188Z] INFO: All notes fetched successfully
+[2025-04-15T08:05:22.218Z] INFO: All notes fetched successfully
+[2025-04-15T08:05:25.200Z] INFO: Note created successfully
+[2025-04-15T08:05:25.245Z] INFO: All notes fetched successfully
+[2025-04-15T08:05:27.976Z] INFO: Note deleted successfully
+[2025-04-15T08:05:27.999Z] INFO: All notes fetched successfully
+[2025-04-15T08:05:29.912Z] INFO: Note deleted successfully
+[2025-04-15T08:05:29.941Z] INFO: All notes fetched successfully
+[2025-04-15T08:05:35.828Z] INFO: Note updated successfully
+[2025-04-15T08:05:35.863Z] INFO: All notes fetched successfully
+[2025-04-15T08:06:08.708Z] INFO: Note deleted successfully
+[2025-04-15T08:06:08.733Z] INFO: All notes fetched successfully
+[2025-04-15T08:06:25.979Z] INFO: All notes fetched successfully
+[2025-04-15T08:06:25.999Z] INFO: All notes fetched successfully
+[2025-04-15T08:06:28.627Z] INFO: Note deleted successfully
+[2025-04-15T08:06:28.651Z] INFO: All notes fetched successfully
+[2025-04-15T08:06:30.964Z] INFO: Note deleted successfully
+[2025-04-15T08:06:30.991Z] INFO: All notes fetched successfully
+[2025-04-15T08:09:19.326Z] INFO: User logged in successfully
+[2025-04-15T08:09:19.493Z] INFO: All notes fetched successfully
+[2025-04-15T08:09:19.514Z] INFO: All notes fetched successfully
+[2025-04-15T08:09:26.145Z] INFO: All notes fetched successfully
+[2025-04-15T08:09:26.166Z] INFO: All notes fetched successfully
+[2025-04-15T08:12:01.729Z] INFO: User deleted successfully
+[2025-04-15T08:12:17.773Z] INFO: User deleted successfully
+[2025-04-15T08:12:22.509Z] INFO: All users fetched successfully
+[2025-04-15T08:12:55.198Z] INFO: User registered successfully
+[2025-04-15T08:16:09.861Z] ERROR: User already exists
+[2025-04-15T08:16:30.272Z] ERROR: User already exists
+[2025-04-15T08:17:06.076Z] ERROR: "name" is not allowed to be empty
+[2025-04-15T08:17:53.082Z] ERROR: User already exists
+[2025-04-15T08:18:09.772Z] ERROR: "password" is not allowed to be empty
+[2025-04-15T08:18:16.857Z] ERROR: "name" is not allowed to be empty
+[2025-04-15T08:19:53.338Z] INFO: User registered successfully
+[2025-04-15T08:20:09.888Z] INFO: User logged in successfully
+[2025-04-15T08:20:10.037Z] INFO: All notes fetched successfully
+[2025-04-15T08:20:10.050Z] INFO: All notes fetched successfully
+[2025-04-15T08:20:22.541Z] INFO: All users fetched successfully
+[2025-04-15T08:20:36.425Z] INFO: User deleted successfully
+[2025-04-15T08:20:51.082Z] INFO: User deleted successfully
+[2025-04-15T08:21:42.776Z] INFO: User logged in successfully
+[2025-04-15T08:21:42.886Z] INFO: All notes fetched successfully
+[2025-04-15T08:21:42.902Z] INFO: All notes fetched successfully
+[2025-04-15T08:21:58.537Z] INFO: All notes fetched successfully
+[2025-04-15T08:21:58.551Z] INFO: All notes fetched successfully
+[2025-04-15T08:24:08.541Z] ERROR: User does not exist
+[2025-04-15T08:24:10.874Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:12.242Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:12.896Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:13.239Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:13.422Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:31.164Z] INFO: User registered successfully
+[2025-04-15T08:24:45.522Z] ERROR: Credentials are not valid
+[2025-04-15T08:24:55.769Z] INFO: User logged in successfully
+[2025-04-15T08:24:55.891Z] INFO: All notes fetched successfully
+[2025-04-15T08:24:55.907Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:02.886Z] INFO: Note created successfully
+[2025-04-15T08:25:02.929Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:08.147Z] INFO: Note updated successfully
+[2025-04-15T08:25:08.189Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:20.609Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:20.620Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:24.906Z] INFO: Note created successfully
+[2025-04-15T08:25:24.937Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:29.294Z] INFO: Note created successfully
+[2025-04-15T08:25:29.327Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:35.356Z] INFO: Note updated successfully
+[2025-04-15T08:25:35.381Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:37.322Z] INFO: Note deleted successfully
+[2025-04-15T08:25:37.341Z] INFO: All notes fetched successfully
+[2025-04-15T08:25:40.374Z] INFO: Note deleted successfully
+[2025-04-15T08:25:40.391Z] INFO: All notes fetched successfully

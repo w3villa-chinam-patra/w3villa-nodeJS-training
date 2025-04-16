@@ -490,3 +490,70 @@
 [2025-04-14T11:48:21.079Z] ERROR: User does not exist
 [2025-04-14T11:51:18.650Z] ERROR: User does not exist
 [2025-04-14T12:05:44.905Z] ERROR: User does not exist
+[2025-04-14T12:50:29.128Z] ERROR: Route not found
+[2025-04-15T04:49:41.353Z] ERROR: Database did not connect Error: connect ECONNREFUSED 127.0.0.1:27017
+[2025-04-15T04:53:11.401Z] ERROR: Failed to login
+[2025-04-15T04:53:14.245Z] ERROR: Failed to login
+[2025-04-15T05:00:35.999Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T05:00:52.281Z] ERROR: Database did not connect Error: connect ECONNREFUSED 127.0.0.1:27017
+[2025-04-15T05:01:55.310Z] ERROR: Failed to login
+[2025-04-15T05:01:58.455Z] ERROR: Failed to login
+[2025-04-15T05:02:36.281Z] ERROR: Failed to login
+[2025-04-15T05:04:10.376Z] ERROR: Failed to login
+[2025-04-15T05:04:18.264Z] ERROR: Failed to login
+[2025-04-15T05:04:29.045Z] ERROR: Failed to login
+[2025-04-15T05:05:57.021Z] ERROR: Failed to login
+[2025-04-15T05:09:29.344Z] ERROR: Failed to login
+[2025-04-15T05:17:35.599Z] ERROR: Failed to login
+[2025-04-15T05:23:23.315Z] ERROR: Route not found
+[2025-04-15T05:23:23.323Z] ERROR: Route not found
+[2025-04-15T05:23:39.886Z] ERROR: Route not found
+[2025-04-15T05:23:39.903Z] ERROR: Route not found
+[2025-04-15T05:28:18.226Z] ERROR: Route not found
+[2025-04-15T05:28:18.235Z] ERROR: Route not found
+[2025-04-15T05:30:27.275Z] ERROR: Route not found
+[2025-04-15T05:30:27.301Z] ERROR: Route not found
+[2025-04-15T05:30:38.461Z] ERROR: Route not found
+[2025-04-15T05:30:38.478Z] ERROR: Route not found
+[2025-04-15T05:30:43.806Z] ERROR: Route not found
+[2025-04-15T05:30:43.838Z] ERROR: Route not found
+[2025-04-15T05:30:47.316Z] ERROR: Route not found
+[2025-04-15T05:30:47.356Z] ERROR: Route not found
+[2025-04-15T05:30:54.308Z] ERROR: Route not found
+[2025-04-15T05:30:54.325Z] ERROR: Route not found
+[2025-04-15T05:34:35.461Z] ERROR: Route not found
+[2025-04-15T05:34:35.465Z] ERROR: Route not found
+[2025-04-15T05:34:47.251Z] ERROR: Route not found
+[2025-04-15T05:34:47.259Z] ERROR: Route not found
+[2025-04-15T05:34:55.790Z] ERROR: Route not found
+[2025-04-15T05:34:55.803Z] ERROR: Route not found
+[2025-04-15T05:35:00.145Z] ERROR: Route not found
+[2025-04-15T05:35:00.162Z] ERROR: Route not found
+[2025-04-15T05:35:27.833Z] ERROR: Route not found
+[2025-04-15T05:35:27.839Z] ERROR: Route not found
+[2025-04-15T05:39:25.754Z] ERROR: Route not found
+[2025-04-15T05:39:25.762Z] ERROR: Route not found
+[2025-04-15T05:39:56.474Z] ERROR: Route not found
+[2025-04-15T05:39:56.486Z] ERROR: Route not found
+[2025-04-15T06:02:28.142Z] ERROR: Route not found
+[2025-04-15T06:14:42.901Z] ERROR: Route not found
+[2025-04-15T06:15:25.110Z] ERROR: Route not found
+[2025-04-15T06:16:07.151Z] ERROR: Route not found
+[2025-04-15T06:18:03.446Z] ERROR: Authorization header is missing
+[2025-04-15T06:19:00.700Z] ERROR: Authorization header is missing
+[2025-04-15T06:21:36.393Z] ERROR: Failed to delete note
+[2025-04-15T06:23:21.027Z] ERROR: "_id" is required
+[2025-04-15T07:39:19.324Z] ERROR: "password" length must be at least 6 characters long
+[2025-04-15T08:16:09.861Z] ERROR: User already exists
+[2025-04-15T08:16:30.272Z] ERROR: User already exists
+[2025-04-15T08:17:06.076Z] ERROR: "name" is not allowed to be empty
+[2025-04-15T08:17:53.082Z] ERROR: User already exists
+[2025-04-15T08:18:09.772Z] ERROR: "password" is not allowed to be empty
+[2025-04-15T08:18:16.857Z] ERROR: "name" is not allowed to be empty
+[2025-04-15T08:24:08.541Z] ERROR: User does not exist
+[2025-04-15T08:24:10.874Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:12.242Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:12.896Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:13.239Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:13.422Z] ERROR: "username" is not allowed to be empty
+[2025-04-15T08:24:45.522Z] ERROR: Credentials are not valid
