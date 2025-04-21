@@ -5,4 +5,16 @@ import {
   getUserById,
 } from "./user.service.js";
 
-export { createUser, getAllUsers, getUserByUsername, getUserById };
+import {
+  insertChatIntoTable,
+  getAllMessageOfPrivateRoom,
+} from "./privateChatRoom.service.js";
+
+export {
+  createUser,
+  getAllUsers,
+  getUserByUsername,
+  getUserById,
+  insertChatIntoTable,
+  getAllMessageOfPrivateRoom,
+};

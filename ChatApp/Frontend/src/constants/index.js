@@ -1,2 +1,4 @@
 import AppRoutes from "./AppRoutes";
-export { AppRoutes };
+import SuccessMessages from "./SuccessMessages";
+import ErrorMessages from "./ErrorMessages";
+export { AppRoutes, SuccessMessages, ErrorMessages };

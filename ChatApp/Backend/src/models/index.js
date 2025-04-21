@@ -1,2 +1,3 @@
 import createUserTable from "./user.model.js";
-export { createUserTable };
+import createPrivateChatRoomTable from "./privateChatRoom.model.js";
+export { createUserTable, createPrivateChatRoomTable };

@@ -48,7 +48,7 @@ export const loginHandler = async (req, res, next) => {
     logger.info(SuccessMessages.AUTH.LOGIN_SUCCESS.responseMessage);
     return successResponse(res, SuccessMessages.AUTH.LOGIN_SUCCESS, {
       token,
-      id: dbRes.id,
+      userData: dbRes,
     });
   } catch (error) {
     return next(new AppError(ErrorMessages.AUTH.LOGIN_FAILED, error.message));
