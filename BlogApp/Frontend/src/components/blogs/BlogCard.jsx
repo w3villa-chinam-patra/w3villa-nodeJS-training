@@ -93,58 +93,62 @@ function BlogCard({ blogData }) {
   };
 
   return (
-    <div className=" bg-amber-50 my-4 rounded-2xl max-w-2xl border border-amber-300 flex flex-col">
-      <div className="w-xl m-4">
-        <img
-          className="w-full rounded-2xl border border-neutral-300 "
-          src={blogData.image}
-          alt="image"
-        />
-      </div>
-      <div className="flex bg-neutral-100 border border-t-neutral-300 border-b-neutral-300 border-r-0 border-l-0 justify-between py-1 px-6 mb-4 items-center text-neutral-600">
-        <div className="posted-by flex flex-col text-sm ">
-          <div className="font-black text-xs">Posted By</div>
-          <div className="bg-white border border-neutral-300  px-2 rounded-full">
-            {blogData.user.name}
-          </div>
-        </div>
-        <button
-          onClick={likeHandler}
-          className="like-button flex gap-1 items-center"
-        >
-          <div className="mt-2 text-neutral-500">{totalLikes}</div>
-          <AiFillLike className="text-2xl text-neutral-500 cursor-pointer" />
-        </button>
-      </div>
-      <div className="mx-4 mb-4 max-w-xl">
-        <h1 className="text-3xl my-2 font-bold">{blogData.title}</h1>
-        <div className="description text-neutral-600">
-          {blogData.description}
-        </div>
-      </div>
-
-      <div className="comment p-4 flex gap-4">
-        <div className="flex-1">
-          <input
-            onChange={(e) => setNewComment(e.target.value)}
-            value={newComment}
-            className="w-full text-neutral-600 bg-white outline-none border border-amber-300 rounded-2xl px-2 py-1"
-            type="text"
-            name=""
-            id=""
+    <div className=" bg-amber-50 my-4 rounded-2xl  border border-amber-300 flex">
+      <div className="flex-1 flex flex-col items-start">
+        <div className="w-2xl m-4">
+          <img
+            className="w-full rounded-2xl border border-neutral-300 "
+            src={blogData.image}
+            alt="image"
           />
         </div>
-        <button
-          onClick={sendCommentHandler}
-          className="bg-amber-500 px-4 text-white rounded-2xl cursor-pointer"
-        >
-          Comment
-        </button>
+        <div className="flex gap-4 rounded-r-full bg-neutral-100 border border-t-neutral-300 border-b-neutral-300 border-r-neutral-300 border-l-0 justify-between py-1 px-6 mb-4 items-center text-neutral-600">
+          <div className="posted-by flex flex-col text-sm ">
+            <div className="font-black text-xs">Posted By</div>
+            <div className="bg-white border border-neutral-300  px-2 rounded-full">
+              {blogData.user.name}
+            </div>
+          </div>
+          <button
+            onClick={likeHandler}
+            className="like-button flex gap-1 items-center"
+          >
+            <div className="mt-2 text-neutral-500">{totalLikes}</div>
+            <AiFillLike className="text-2xl text-neutral-500 cursor-pointer" />
+          </button>
+        </div>
       </div>
-      <div className="comment-box m-4 flex flex-col gap-2 items-start px-8">
-        {allComments?.map((commentData, i) => (
-          <CommentBlock key={i} commentData={commentData} />
-        ))}
+      <div>
+        <div className="m-4 max-w-xl">
+          <h1 className="text-5xl my-6 font-bold">{blogData.title}</h1>
+          <div className="description text-neutral-600">
+            {blogData.description}
+          </div>
+        </div>
+
+        <div className="comment p-4 flex gap-4">
+          <div className="flex-1">
+            <input
+              onChange={(e) => setNewComment(e.target.value)}
+              value={newComment}
+              className="w-full text-neutral-600 bg-white outline-none border border-amber-300 rounded-2xl px-2 py-1"
+              type="text"
+              name=""
+              id=""
+            />
+          </div>
+          <button
+            onClick={sendCommentHandler}
+            className="bg-amber-500 px-4 text-white rounded-2xl cursor-pointer"
+          >
+            Comment
+          </button>
+        </div>
+        <div className="comment-box m-4 flex flex-col gap-2 items-start px-8">
+          {allComments?.map((commentData, i) => (
+            <CommentBlock key={i} commentData={commentData} />
+          ))}
+        </div>
       </div>
     </div>
   );

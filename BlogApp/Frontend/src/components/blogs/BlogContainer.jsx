@@ -16,7 +16,6 @@ function BlogContainer() {
       const response = await fetch("http://localhost:1337/api/blog");
       if (response.ok) {
         const { data } = await response.json();
-        console.log(data);
         setBlogsData(data);
       } else {
         toast.error("Failed to fetch blogs data");
