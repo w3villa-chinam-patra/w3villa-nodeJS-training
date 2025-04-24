@@ -8,8 +8,9 @@ import CommentBlock from "./CommentBlock";
 function BlogCard({ blogData }) {
   const navigate = useNavigate();
   const [totalLikes, setTotalLikes] = useState(0);
-  const [newComment, setNewComment] = useState();
-  const [allComments, setAllComments] = useState();
+  const [newComment, setNewComment] = useState("");
+  const [allComments, setAllComments] = useState([]);
+
   const fetchTotalLikes = async () => {
     const response = await fetch(
       `http://localhost:1337/api/total-likes/${blogData.id}`
@@ -43,7 +44,7 @@ function BlogCard({ blogData }) {
     const token = localStorage.getItem("token");
     try {
       if (token) {
-        const response = await fetch(`http://localhost:1337/api/comment`, {
+        await fetch(`http://localhost:1337/api/comment`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -55,8 +56,9 @@ function BlogCard({ blogData }) {
           }),
         });
         setNewComment("");
+        fetchAllComments();
       } else {
-        toast.error("Login to like the blog");
+        toast.error("Login to comment on blog");
         navigate(AppRoutes.LOGIN_ROUTE);
       }
     } catch (error) {
@@ -99,19 +101,28 @@ function BlogCard({ blogData }) {
           alt="image"
         />
       </div>
-      <button
-        onClick={likeHandler}
-        className="like-button mx-8 place-items-end flex gap-1 justify-end items-center"
-      >
-        <div className="mt-2 text-neutral-500">{totalLikes}</div>
-        <AiFillLike className="text-2xl text-neutral-500 cursor-pointer" />
-      </button>
+      <div className="flex bg-neutral-100 border border-t-neutral-300 border-b-neutral-300 border-r-0 border-l-0 justify-between py-1 px-6 mb-4 items-center text-neutral-600">
+        <div className="posted-by flex flex-col text-sm ">
+          <div className="font-black text-xs">Posted By</div>
+          <div className="bg-white border border-neutral-300  px-2 rounded-full">
+            {blogData.user.name}
+          </div>
+        </div>
+        <button
+          onClick={likeHandler}
+          className="like-button flex gap-1 items-center"
+        >
+          <div className="mt-2 text-neutral-500">{totalLikes}</div>
+          <AiFillLike className="text-2xl text-neutral-500 cursor-pointer" />
+        </button>
+      </div>
       <div className="mx-4 mb-4 max-w-xl">
         <h1 className="text-3xl my-2 font-bold">{blogData.title}</h1>
         <div className="description text-neutral-600">
           {blogData.description}
         </div>
       </div>
+
       <div className="comment p-4 flex gap-4">
         <div className="flex-1">
           <input

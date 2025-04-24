@@ -11,7 +11,7 @@ module.exports = {
 
   fn: async function (_, exits) {
     try {
-      const blogs = await Blog.find();
+      const blogs = await Blog.find().populate("user");
       if (!blogs) {
         sails.log.error("Failed to fetch blogs");
         return exits.serverError({ message: "Failed to fetch blogs" });
