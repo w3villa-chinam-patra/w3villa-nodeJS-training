@@ -42,7 +42,7 @@ function BlogContainer() {
 
   return (
     <div className="h-full flex flex-col items-center ">
-      {blogsData?.map((blogData, i) => (
+      {blogsData?.toReversed()?.map((blogData, i) => (
         <BlogCard key={i} blogData={blogData} />
       ))}
       <div

@@ -4,12 +4,14 @@ import { AiFillLike } from "react-icons/ai";
 import { useNavigate } from "react-router";
 import { AppRoutes } from "../../constants";
 import CommentBlock from "./CommentBlock";
+import { useUser } from "../../contexts";
 
 function BlogCard({ blogData }) {
   const navigate = useNavigate();
-  const [totalLikes, setTotalLikes] = useState(0);
+  const [totalLikes, setTotalLikes] = useState([]);
   const [newComment, setNewComment] = useState("");
   const [allComments, setAllComments] = useState([]);
+  const { user } = useUser();
 
   const fetchTotalLikes = async () => {
     const response = await fetch(
@@ -111,10 +113,16 @@ function BlogCard({ blogData }) {
           </div>
           <button
             onClick={likeHandler}
-            className="like-button flex gap-1 items-center"
+            className="like-button flex gap-1 items-end"
           >
-            <div className="mt-2 text-neutral-500">{totalLikes}</div>
-            <AiFillLike className="text-2xl text-neutral-500 cursor-pointer" />
+            <div className="mb-0.5 text-neutral-500">{totalLikes.length}</div>
+            <AiFillLike
+              className={`text-3xl p-1 cursor-pointer ${
+                totalLikes?.find((like) => like.user === user.id)
+                  ? "bg-amber-100 rounded-full text-amber-500 border border-amber-300 next-amber-300"
+                  : "text-neutral-500"
+              }`}
+            />
           </button>
         </div>
       </div>
@@ -145,7 +153,7 @@ function BlogCard({ blogData }) {
           </button>
         </div>
         <div className="comment-box m-4 flex flex-col gap-2 items-start px-8">
-          {allComments?.map((commentData, i) => (
+          {allComments?.toReversed()?.map((commentData, i) => (
             <CommentBlock key={i} commentData={commentData} />
           ))}
         </div>

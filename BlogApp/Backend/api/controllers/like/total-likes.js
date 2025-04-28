@@ -23,7 +23,7 @@ module.exports = {
       return exits.success({
         message: "Successfully fetched the total likes of the blog",
         data: {
-          totalLikes: totalLikes.length,
+          totalLikes: totalLikes,
         },
       });
     } catch (error) {
